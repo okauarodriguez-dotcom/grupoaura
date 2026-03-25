@@ -6,5 +6,19 @@
       "Skill(update-config)",
       "Skill(update-config:*)"
     ]
+  },
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd \"c:/Users/Desktop/Downloads/grupoaura\" && git add -A && git diff --cached --quiet || (git commit -m \"auto: atualizacao do projeto $(date +%Y-%m-%d_%H%M)\" && git push origin main) 2>/dev/null || true",
+            "timeout": 30,
+            "statusMessage": "Sincronizando com GitHub..."
+          }
+        ]
+      }
+    ]
   }
 }
