@@ -1,41 +1,51 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+## Projeto
+**Grupo Aura** — empresa de direct response (infoprodutos e nutraceuticos).
 
-## Project
-**Grupo Aura** — projeto em desenvolvimento. Atualize este arquivo conforme o projeto evolui.
-
-## GitHub Repository
-- **URL:** https://github.com/okauarodriguez-dotcom/grupoaura
-- **Usuário:** okauarodriguez-dotcom
-- **Branch principal:** main
+## GitHub
+- Repo: https://github.com/okauarodriguez-dotcom/grupoaura
+- Branch principal: main
 
 ## Git — Sincronização Automática
-A cada alteração no projeto feita pelo Claude Code, o repositório é atualizado automaticamente via hook `Stop`.
-
-O hook executa o seguinte script após cada sessão:
+Hook `Stop` executa após cada sessão:
 ```bash
 cd "c:/Users/Desktop/Downloads/grupoaura" && \
 git add -A && \
-git diff --cached --quiet || git commit -m "auto: atualização do projeto $(date '+%Y-%m-%d %H:%M')" && \
+git diff --cached --quiet || git commit -m "auto: atualizacao do projeto $(date '+%Y-%m-%d_%H%M')" && \
 git push origin main
 ```
 
-As credenciais estão configuradas no remote via token embutido na URL (configuração local, não versionada).
+---
 
-## Commands
+## Quem é o Kauã
+Empresário de direct response — venda de infoprodutos e nutraceuticos. Gere campanhas, lançamentos, ofertas e time. Usa o vault também para vida pessoal (metas, saúde, finanças, família).
 
-<!-- Adicione os comandos de desenvolvimento aqui quando o projeto for configurado. Exemplos:
-- `npm install` — instalar dependências
-- `npm run dev` — iniciar servidor de desenvolvimento
-- `npm run build` — gerar build de produção
-- `npm test` — executar testes
--->
+## Vault Obsidian — Estrutura
+```
+inbox/      Entrada — tudo novo cai aqui
+daily/      Brain dumps e reflexões diárias
+campanhas/  Copies, funis, métricas, testes
+produtos/   Posicionamento, VSLs, ofertas
+operacoes/  Time, processos, financeiro
+decisoes/   Decisões + raciocínio
+people/     Parceiros, afiliados, time
+projects/   Lançamentos e projetos ativos
+pessoal/    Metas, saúde, família
+livros/     Resumos e insights
+mentoria/   Aulas e notas de mentorias
+archive/    Concluído — nunca deletado
+```
 
-## Architecture
+## Regras de captura
+Use `/capturar` para ativar as regras completas de captura automática (pessoas, livros, projetos, decisões, reuniões).
 
-<!-- Descreva a arquitetura do projeto aqui quando o código for criado. Exemplos:
-- Tecnologias principais utilizadas
-- Estrutura de pastas e responsabilidades
-- Como os módulos se comunicam
--->
+## Puppeteer MCP
+Controla o Chrome do Kauã (já logado). Curso ativo: Mentoria Ouro Digital 2.0 — Higor Neves.
+URL: `dashboard.kiwify.com/course/premium/f65ec31c-c5e8-442b-8c46-19fb07a8ca8c`
+Ao acessar aulas → salvar em `mentoria/higor-neves-YYYY-MM-DD-titulo.md` com resumo, insights e próximos passos.
+
+---
+
+## Compact Instructions
+Ao compactar, preservar: decisões tomadas, campanhas ativas e seus status, próximos passos definidos, contexto de produto/oferta em discussão.

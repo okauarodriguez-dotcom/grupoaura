@@ -1,0 +1,34 @@
+<svg viewBox="0 0 200 420" xmlns="http://www.w3.org/2000/svg" width="200" height="420">
+  <rect width="200" height="420" fill="#F8F8F8" rx="14"/>
+  <!-- Head -->
+  <circle cx="100" cy="40" r="24" fill="#2C2C2C"/>
+  <!-- Neck -->
+  <rect x="92" y="62" width="16" height="16" fill="#2C2C2C"/>
+  <!-- Body: slim frame but with belly (falsa magra) — defined waist then belly protrusion -->
+  <path d="
+    M 92,76
+    C 80,78 66,86 58,100
+    C 50,114 48,132 50,148
+    C 52,160 58,170 62,180
+    C 58,188 55,198 56,210
+    C 57,222 64,232 68,242
+    C 70,248 70,256 70,264
+    L 70,368
+    L 92,368
+    L 92,268
+    C 95,270 98,271 100,271
+    C 102,271 105,270 108,268
+    L 108,368
+    L 130,368
+    L 130,264
+    C 130,256 130,248 132,242
+    C 136,232 143,222 144,210
+    C 145,198 142,188 138,180
+    C 142,170 148,160 150,148
+    C 152,132 150,114 142,100
+    C 134,86 120,78 108,76
+    Z
+  " fill="#2C2C2C"/>
+  <!-- Leg gap -->
+  <rect x="92" y="260" width="16" height="112" fill="#F8F8F8"/>
+</svg>

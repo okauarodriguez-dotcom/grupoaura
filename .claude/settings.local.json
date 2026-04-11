@@ -4,7 +4,11 @@
       "Bash(git --version)",
       "Bash(git -C \"c:/Users/Desktop/Downloads/grupoaura\" status)",
       "Skill(update-config)",
-      "Skill(update-config:*)"
+      "Skill(update-config:*)",
+      "Bash(npm --version)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --no-turbopack)",
+      "Read(//c/Users/Desktop/Downloads/**)",
+      "Bash(npx create-next-app@latest grupoaura-app --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --no-turbopack)"
     ]
   },
   "hooks": {

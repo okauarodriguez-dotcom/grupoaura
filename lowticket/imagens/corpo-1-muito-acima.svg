@@ -1,0 +1,30 @@
+<svg viewBox="0 0 200 420" xmlns="http://www.w3.org/2000/svg" width="200" height="420">
+  <rect width="200" height="420" fill="#F8F8F8" rx="14"/>
+  <!-- Head -->
+  <circle cx="100" cy="40" r="28" fill="#2C2C2C"/>
+  <!-- Neck -->
+  <rect x="88" y="66" width="24" height="18" fill="#2C2C2C"/>
+  <!-- Body: very overweight — large round belly, wide hips, minimal waist -->
+  <path d="
+    M 88,82
+    C 68,83 46,94 34,116
+    C 22,138 16,162 16,184
+    C 16,206 20,228 28,246
+    C 36,264 50,278 64,286
+    L 64,368
+    L 90,368
+    L 90,286
+    C 93,287 97,288 100,288
+    C 103,288 107,287 110,286
+    L 110,368
+    L 136,368
+    L 136,286
+    C 150,278 164,264 172,246
+    C 180,228 184,206 184,184
+    C 184,162 178,138 166,116
+    C 154,94 132,83 112,82
+    Z
+  " fill="#2C2C2C"/>
+  <!-- Leg gap -->
+  <rect x="90" y="280" width="20" height="92" fill="#F8F8F8"/>
+</svg>

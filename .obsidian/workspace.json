@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "56111139fdf42ee1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2cc9f3b1c15bcea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff15beed84d68a49",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38e30b5b80c32f2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "73f8f20c2d685a3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2995c337ba98c802",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "c9afb3e3140c4450",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "166860f9573b4ba2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7318eb55534e1251",
+    "type": "split",
+    "children": [
+      {
+        "id": "17817aa8b96ea05f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b10f1c11e9c80b07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "1de07499c6ca1fbd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "4f605a6459f6226a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "9ce250867c4d982d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "22746a1d06d8e33f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "ff15beed84d68a49",
+  "lastOpenFiles": [
+    "lowticket/imagens/objecao-fome-jejum.jpg",
+    "lowticket/imagens/objecao-rotina-trabalho.jpg",
+    "lowticket/imagens/resultado-4.jpg",
+    "lowticket/imagens/resultado-3.jpg",
+    "lowticket/imagens/resultado-2.jpg",
+    "lowticket/imagens/resultado-1.jpg",
+    "lowticket/imagens/corpo-objetivo-3-definida.jpg",
+    "lowticket/imagens/corpo-objetivo-2-pouco-mais-magra.jpg",
+    "lowticket/imagens/corpo-objetivo-1-magra.jpg",
+    "daily/2026-04-10.md",
+    "projects/quiz-lowticket-menopausa.md",
+    "lowticket/imagens/rotacao-4.jpg",
+    "lowticket/imagens/rotacao-3.jpg",
+    "lowticket/imagens",
+    "people/enzo-freire-leal.md",
+    "mentoria/mentoria-enzo-call5-2026-04-09.md",
+    "pessoal/mentalidade-filosofia-kaua.md",
+    "campanhas/estrutura-invisivel-reversehealth-2026-04-06.md",
+    "campanhas/spy-emagrecimento-lowticket-2026-04-06.md",
+    "lowticket/pesquisa-vsl-emagrecimento.md",
+    "lowticket/pesquisa-publico-emagrecimento.md",
+    "lowticket/podcast-lowticket-duplo.md",
+    "lowticket/podcast-extra.md",
+    "lowticket/podcast-xisto.md",
+    "lowticket/podcast-davi-payt.md",
+    "decisoes/2026-04-04-criar-vault-lowticket.md",
+    "lowticket/agente-low-ticket.md",
+    "lowticket/outbox-luiggi.md",
+    "lowticket/curso-vturb-lowticket.md",
+    "lowticket/curso-upsell-joao-campos.md",
+    "lowticket/processo-lowticket-kaua.md",
+    "lowticket",
+    "daily/2026-04-04.md",
+    "livros/o-ciclo.md",
+    "livros/afogado.md",
+    "people/daniel-professor-maitá.md",
+    "projects/palestra-evento-higor-neves.md",
+    "people/cello-ia.md",
+    "projetos",
+    "estudos/portal/index.html",
+    "estudos/portal",
+    "estudos/matematica-prova/index.html",
+    "estudos/matematica-prova",
+    "estudos",
+    "campanhas/criativos",
+    "livros/sedhtWxmv"
+  ]
+}
