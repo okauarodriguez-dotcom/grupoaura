@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "3da82585c6b99add",
+    "id": "56111139fdf42ee1",
     "type": "split",
     "children": [
       {
-        "id": "e37b23a303dd9787",
+        "id": "e2cc9f3b1c15bcea",
         "type": "tabs",
         "children": [
           {
-            "id": "11c3ecbf20ad13b1",
+            "id": "ff15beed84d68a49",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "48c66fd2aa314306",
+    "id": "38e30b5b80c32f2b",
     "type": "split",
     "children": [
       {
-        "id": "710291fe1db81935",
+        "id": "73f8f20c2d685a3b",
         "type": "tabs",
         "children": [
           {
-            "id": "14aac8cb80b86e2f",
+            "id": "2995c337ba98c802",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "8af8c26acca7142a",
+            "id": "c9afb3e3140c4450",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "6c30ec000936578f",
+            "id": "166860f9573b4ba2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,25 +77,25 @@
     "width": 300
   },
   "right": {
-    "id": "67c8b1e40da976c9",
+    "id": "7318eb55534e1251",
     "type": "split",
     "children": [
       {
-        "id": "848bcefd5dcb4748",
+        "id": "17817aa8b96ea05f",
         "type": "tabs",
         "children": [
           {
-            "id": "178aec1621d345ef",
+            "id": "b10f1c11e9c80b07",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "72ac9e96d0ed74d4",
+            "id": "1de07499c6ca1fbd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +116,7 @@
             }
           },
           {
-            "id": "481357c6e7754437",
+            "id": "4f605a6459f6226a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +131,7 @@
             }
           },
           {
-            "id": "3382fd16901f8c92",
+            "id": "9ce250867c4d982d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -145,7 +145,7 @@
             }
           },
           {
-            "id": "43f4322fada80800",
+            "id": "22746a1d06d8e33f",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -176,44 +176,44 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "11c3ecbf20ad13b1",
+  "active": "ff15beed84d68a49",
   "lastOpenFiles": [
-    "people/dan-donato 2.md",
-    "people/diogo-kobata 2.md",
-    "mentoria/ouro-digital-2 2.md",
-    "people/elaine-ourives 2.md",
-    "mentoria/victor-xisto-low-ticket-2026-03-30 2.md",
-    "operacoes/setup-automacao-fathom 2.md",
-    "projects/portal-mentorados 2.md",
-    "scripts/requirements 2.txt",
-    "mentoria/higor-neves-ouro-digital-2-estrutura-completa 2.md",
-    "daily/2026-03-29 2.md",
-    "operacoes/utmify-config 2.md",
-    "livros/a-ciencia-de-ficar-rico 2.md",
-    "mentoria/tiago-filemon-quinta-empresarios 2.md",
-    "mentoria/eduardo-zen-mentoria-6d-estrutura-completa 2.md",
-    "livros/the-hard-thing-about-hard-things 2.md",
-    "scripts/fathom_sync 2.py",
-    "pessoal/metas-2026 2.md",
-    "people/steve-jobs 2.md",
-    "scripts/startup_fathom 2.vbs",
-    "daily/2026-03-27 2.md",
-    "operacoes/utmify-claude-integracao 2.md",
-    "people/arthur-pc 2.md",
-    "people/higor-neves 2.md",
-    "mentoria/ouro-digital-2-promessa-do-produto 2.md",
-    "projects/automacao-puppeteer-chrome 2.md",
-    "livros/mindset 2.md",
-    "livros/comece-pelo-porque 2.md",
-    "decisoes/2026-03-30-neurosync-encerrar-pivotar-lowticket 2.md",
-    "livros/mais-esperto-que-o-diabo 2.md",
-    "scripts/iniciar_webhook 2.bat",
-    "campanhas/criativos 2",
-    "scripts/check_inbox 2.py",
-    "scripts/instalar_startup 2.ps1",
-    "scripts/zapier_formatter.py",
-    "scripts/update_ngrok.ps1",
-    "scripts/startup_fathom.vbs",
+    "reunioes/2026-03-31-onboarding-kaua-vicensotti.md",
+    "reunioes/2026-03-31-onboarding-vanderli-cynthia.md",
+    "reunioes/2026-03-31-mentoria-vanderli-cynthia-vsl.md",
+    "reunioes",
+    "pessoal/script-diario-disciplina.md",
+    "pessoal/metas-2026.md",
+    "pessoal/mentalidade-filosofia-kaua.md",
+    "pessoal/Kauã.md",
+    "pessoal",
+    "estudos/matematica-prova/index.html",
+    "estudos/matematica-prova",
+    "decisoes/meta-100k-junho-2026.md",
+    "decisoes/2026-04-04-criar-vault-lowticket.md",
+    "decisoes/2026-03-30-neurosync-encerrar-pivotar-lowticket.md",
+    "decisoes/2026-03-27-palestra-evento-higor-neves.md",
+    "decisoes",
+    "projetos/copy-chief-replicar.md",
+    "projetos/copy-chief-ecosystem.md",
+    "projetos",
+    "projects/quiz-lowticket-menopausa.md",
+    "projects/portal-mentorados.md",
+    "projects/portal-estudos.md",
+    "projects/palestra-evento-higor-neves.md",
+    "projects/grupo-aura.md",
+    "projects/automation-enterprise.md",
+    "projects/automacao-puppeteer-chrome.md",
+    "projects",
+    "produtos/neurosync.md",
+    "produtos/visao.md",
+    "produtos/memoria-anterior.md",
+    "produtos/emagrecimento.md",
+    "produtos/dores-neuro-hepaticas.md",
+    "produtos",
+    "people/vitor-bianchi.md",
+    "people",
+    "operacoes",
     "lowticket/imagens/rotacao-4.jpg",
     "lowticket/imagens/rotacao-3.jpg",
     "lowticket/imagens/rotacao-2.jpg",
