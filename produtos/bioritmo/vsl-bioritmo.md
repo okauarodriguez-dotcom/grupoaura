@@ -1,9 +1,9 @@
 ---
 tipo: copy
 produto: BioRitmo
-status: aprovado
-versao: 1.0
-data: 2026-04-11
+status: finalizado
+versao: 2.0
+data: 2026-04-12
 tags: [vsl, mini-vsl, menopausa, bioritmo, low-ticket]
 ---
 
@@ -18,123 +18,120 @@ tags: [vsl, mini-vsl, menopausa, bioritmo, low-ticket]
 
 ---
 
-## BLOCO 1 — LEAD (Introdução)
+## BLOCO 1 — LEAD
 
-Olá, parabéns por chegar até aqui.
+Olá, parabéns por chegar até aqui. Você é uma das poucas mulheres que realmente completaram todas as etapas. No final desse vídeo, você vai receber o seu plano personalizado, baseado nas suas respostas, para eliminar a barriga da menopausa e recuperar sua cintura em 21 dias. Então assista esse vídeo até o final, ele foi feito especialmente para você.
 
-Isso já mostra que você é diferente da maioria das mulheres que continuam tentando as mesmas coisas que nunca funcionaram.
+Pode ficar tranquila, não vai ter dieta restritiva, corte de calorias e nem academia.
+Você não vai precisar das famosas canetinhas para emagrecer, que custam o olho da cara, têm efeitos colaterais e causam o temido efeito sanfona.
 
-E já que você respondeu com honestidade, eu preciso ser igualmente honesto com você.
+Na verdade, o que vamos fazer é simplesmente ressincronizar o seu relógio metabólico.
 
-Nos próximos minutos eu vou te mostrar por que tudo que você já tentou falhou — e não foi culpa sua.
+São as mesmas alterações que pesquisadores de Harvard estão chamando de a verdadeira causa do ganho de peso na menopausa.
 
-Mas antes, deixa eu te fazer uma pergunta rápida.
+Então, se você já evitou praia, piscina ou até foto em família por vergonha do próprio corpo…
 
-Você sabia que 9 em cada 10 mulheres acima dos 40 que tentam emagrecer estão usando um método que foi criado para corpos de 25 anos?
+Se já tentou dieta, academia, jejum e nada funcionou de verdade…
 
-Dieta, academia, shake, contagem de caloria. Tudo isso funciona quando o metabolismo está sincronizado.
+Se você evita tirar foto, escolhe roupas para esconder o corpo, ou já se olhou no espelho e não se reconheceu…
 
-Mas na menopausa, o relógio interno do seu corpo quebrou.
-
-E nenhum desses métodos resolve um relógio quebrado.
-
-A boa notícia: existe uma forma de ressincronizar esse relógio. E quando você faz isso, o corpo volta a responder.
-
-Mulheres de 52, 58, 64 anos estão comprovando isso agora.
-
-Continua assistindo, porque o que eu vou te mostrar vai mudar completamente a forma como você entende o seu corpo.
+Esse vídeo foi feito exatamente para você.
 
 ---
 
 ## BLOCO 2 — AGITAR OS PROBLEMAS
 
-Meu nome é Dr. Eduardo Carvalho, especialista em emagrecimento hormonal feminino.
+Meu nome é Dr. Eduardo Carvalho, sou médico especialista em saúde hormonal feminina e já ajudei mais de 34 mil mulheres a darem a volta por cima dessa situação.
 
-Nos últimos anos acompanhei centenas de mulheres exatamente na sua situação.
+Nos últimos anos acompanhei centenas de mulheres e sei bem o que é você acordar todo dia inchada, olhar no espelho antes de sair e trocar de roupa várias vezes porque nada fica bom…
 
-E eu vejo o mesmo padrão se repetindo:
+Sei o que é evitar praia, piscina, fotos em família. Por vergonha do próprio corpo.
 
-Você acorda de manhã, já sentindo o inchaço. A calça que vestia mês passado não fecha mais.
+Sem falar no cansaço que chega antes do meio dia, ou na balança que você sobe todo dia com o coração na mão e com aquela sensação de que perdeu o controle do seu próprio corpo.
 
-Você tenta uma dieta. Perde dois quilos. Recupera quatro.
+Mas isso tudo muda hoje…
 
-Vai para a academia. O corpo não responde como antes.
+Porque eu vou te mostrar nos próximos segundos por que você nunca conseguiu emagrecer de verdade antes, e o seu plano personalizado para mudar isso de uma vez por todas.
 
-Corta carboidrato. Fica sem energia, irritada, com insônia — e o peso não sai.
+Porque acredite ou não…
 
-E o pior: você se sente culpada. Como se fosse falta de força de vontade.
+O que impede você de emagrecer não é falta de força de vontade, não é fraqueza, não é genética.
 
-Mas não é.
+É o seu relógio metabólico desincronizado…
 
-O que está acontecendo com você tem nome. E tem solução.
+Deixa eu te explicar melhor.
 
 ---
 
 ## BLOCO 3 — AÇÃO ACREDITÁVEL
 
-O problema não é a sua dieta. Não é a sua dedicação.
+Então, como você já sabe, depois da menopausa o seu corpo muda completamente.
 
-O problema é o seu Relógio Metabólico.
+Mas o que poucas mulheres entendem é o porquê dessas mudanças.
 
-Veja o que os pesquisadores da Universidade de Harvard descobriram:
+Os hormônios da menopausa, especialmente o estrogênio e a progesterona, não controlam somente o ciclo menstrual…
 
-O corpo humano funciona em ciclos circadianos — um relógio biológico interno que regula quando queimar gordura, quando armazenar, quando produzir hormônios.
+Eles controlam também o seu relógio metabólico — o ritmo interno que define quando o seu corpo queima gordura, quando armazena energia e quando se recupera.
 
-Nas mulheres jovens, esse relógio funciona perfeitamente. O corpo sabe a hora de acelerar o metabolismo, a hora de descansar, a hora de queimar.
+Pense assim: quando esse relógio está em sincronia, o corpo funciona, você tem energia, o peso se mantém e tudo flui.
 
-Na menopausa, a queda do estrogênio e da progesterona quebra esse relógio.
+Mas quando ele perde a sincronia — o que acontece com quase todas as mulheres na menopausa — o corpo entra em modo de defesa…
 
-O resultado: seu metabolismo não sabe mais quando queimar gordura. Ele entra em modo de sobrevivência. Armazena tudo que pode, porque o sinal hormonal que dizia "pode gastar energia" sumiu.
+Começa a acumular gordura na barriga como reserva de emergência, o metabolismo trava, e qualquer coisa que você come já se transforma na barriga da menopausa.
 
-Por isso a dieta não funciona. Por isso a academia não funciona. Por isso o peso sempre volta.
+É por isso que você pode estar comendo menos do que nunca e ainda assim engordando…
 
-Você não está fazendo nada errado. Seu relógio metabólico está desincronizado. E nenhuma dieta do mundo resolve um relógio quebrado.
+Não é falta de força de vontade, não é fraqueza. É o seu relógio metabólico desincronizado.
 
-A solução não é comer menos. É ressincronizar o relógio.
+E quando você ressincroniza esse relógio, o corpo volta a funcionar como deveria. Queimando gordura no horário certo, com energia de volta e sem o efeito sanfona.
 
-E quando você faz isso, o metabolismo volta a funcionar. O corpo volta a queimar gordura no horário certo, da forma certa.
+Mas aí vem a pergunta: por que nada do que você já tentou funcionou?
+
+A dieta corta calorias mas não altera o relógio. A academia aumenta o cortisol e inflama mais. E o jejum genérico foi criado para homens jovens, com um ritmo circadiano completamente diferente do seu. Nenhum deles foi feito para o seu corpo…
+
+É por isso que o efeito sanfona nunca parava, e por isso você se sentia culpada sem ter culpa nenhuma…
+
+Eles não foram feitos para resolver a verdadeira causa raiz: o relógio metabólico desincronizado.
+
+Por isso, a única coisa que você precisa fazer é ressincronizá-lo.
 
 ---
 
 ## BLOCO 4 — SOLUÇÃO ACREDITÁVEL
 
-A forma mais eficiente e validada de ressincronizar o relógio metabólico na menopausa é o Jejum Intermitente Personalizado para o metabolismo hormonal feminino.
+Mas como ressincronizar esse relógio?
 
-Mas atenção: não é o jejum genérico que você viu no YouTube. Não é 16:8 copiado de um influencer fitness de 28 anos.
+E a melhor parte: você não precisa de nenhum remédio para fazer isso.
 
-É um protocolo calibrado especificamente para o ritmo hormonal da menopausa.
+A resposta está no jejum intermitente. Mas calma — não do jeito que você já tentou…
 
-Quando você respeita os ciclos circadianos do seu corpo e alinha a janela de alimentação com o ritmo hormonal da sua fase, acontecem três coisas:
+O jejum intermitente, quando aplicado nos momentos certos, cria janelas de queima de gordura que se alinham diretamente com o ritmo hormonal da mulher na menopausa.
 
-Primeiro: seu corpo entra em modo de queima de gordura no horário certo. Não durante o dia quando você precisa de energia, mas nos ciclos noturnos e matinais onde a queima é mais eficiente.
+Em vez de forçar o corpo, ele trabalha junto com o ritmo que o seu corpo já quer seguir, ativando a queima de gordura exatamente quando seu metabolismo está mais receptivo.
 
-Segundo: os hormônios que controlam a fome — leptina e grelina — voltam a se comunicar. A compulsão diminui. A fome fica controlável.
+E aí o relógio metabólico ressincroniza. E quando isso acontece, o corpo volta a queimar gordura naturalmente — especialmente retirando essa barriga da menopausa.
 
-Terceiro: a inflamação crônica que retém líquido e bloqueia o metabolismo começa a ceder. Em dias, não semanas.
+Seu corpo para de ser inimigo e passa a trabalhar por você.
 
-Não é magia. É cronobiologia hormonal aplicada ao corpo feminino na menopausa.
+Foi exatamente isso que aconteceu com a Ana Paula, com 54 anos, moradora de São Paulo.
 
-E foi exatamente isso que eu coloquei dentro do BioRitmo.
+Em 21 dias com o protocolo personalizado ela perdeu 7kg de barriga, sem passar fome, sem remédio e sem academia.
+
+Mas aqui está um detalhe que muda tudo…
+
+O jejum intermitente genérico, aquele 16/8 que todo mundo fala, foi desenvolvido sem considerar as alterações hormonais da menopausa.
+
+Horário errado, janela errada, ritmo errado…
+
+Não é à toa que você tentou e não funcionou. Não foi sua culpa — foi o protocolo errado para o seu corpo na menopausa.
+
+O que você precisa é um jejum calibrado para sua fase hormonal. Com os horários certos, as janelas certas e o ritmo específico do seu metabolismo na menopausa.
+
+E foi exatamente isso que eu desenvolvi…
 
 ---
 
 ## BLOCO 5 — OFERTA
-
-Mas antes de te mostrar o protocolo, eu preciso te fazer uma pergunta sincera.
-
-Quanto vale pra você acordar de manhã, se olhar no espelho e gostar do que vê?
-
-Quanto vale entrar numa roupa que ficou guardada há meses e ela vestir?
-
-Quanto vale sentir o olhar do seu marido mudar de novo?
-
-Aparecer bem numa foto sem se esconder?
-
-Brincar com seus netos sem ficar sem fôlego?
-
-Porque não é só sobre emagrecer. É sobre voltar a ser você.
-
-E é exatamente isso que o BioRitmo foi criado para fazer.
 
 O BioRitmo é o primeiro app brasileiro de jejum intermitente desenvolvido especificamente para o metabolismo da menopausa, baseado na cronobiologia hormonal feminina.
 
@@ -146,81 +143,99 @@ Nos primeiros 3 dias, seu corpo começa a desinflamar. A barriga diminui visivel
 
 Em 7 dias, a balança já mostra diferença. Seu metabolismo começa a responder de um jeito que você não via há anos.
 
-Em 21 dias, relógio metabólico ressincronizado. Roupas mais largas. Energia de volta. Aquela sensação de controle sobre o seu próprio corpo, de volta.
+Em 21 dias, com o relógio metabólico ressincronizado, você vai perceber suas roupas mais largas. Energia de volta. Aquela sensação de controle sobre o seu próprio corpo.
 
 Dentro do app BioRitmo você vai ter:
 
-Protocolo de Jejum Personalizado, 21 dias, com os horários calibrados para o ritmo hormonal da sua fase da menopausa. Valor R$197.
+Protocolo de Jejum Personalizado, 21 dias, com os horários calibrados para o ritmo hormonal da sua fase da menopausa.
 
-Calculadora do Relógio Metabólico, que define os horários exatos do seu jejum com base no seu perfil hormonal. Nenhum app no Brasil faz isso. Valor R$47.
+Calculadora do Relógio Metabólico, que define os horários exatos do seu jejum com base no seu perfil hormonal. Nenhum app no Brasil faz isso.
 
-Notificações Inteligentes. O app te avisa na hora certa de começar e quebrar o jejum. Você não precisa lembrar de nada. O BioRitmo lembra por você. Exclusivo do app.
+Notificações Inteligentes. O app te avisa na hora certa de começar e quebrar o jejum. Você não precisa lembrar de nada. O BioRitmo lembra por você.
 
-Plano Alimentar Anti-Inflamatório, específico para menopausa, sem contar caloria, sem cortar o que você gosta. Valor R$97.
+Plano Alimentar Anti-Inflamatório, específico para menopausa, sem contar calorias, sem cortar o que você gosta.
 
-Monitor de Progresso Diário, que acompanha a ressincronização do seu metabolismo dia a dia. Exclusivo do app.
+Monitor de Progresso Diário, que acompanha a ressincronização do seu metabolismo dia a dia.
 
-E de bônus, você ainda recebe de presente:
+Agora me diz uma coisa.
 
-Receita do Ozempic Natural, a receita caseira que viralizou por ter efeitos similares às canetinhas, sem custar uma fortuna e sem efeito colateral. Valor R$47.
+Quanto vale pra você acordar de manhã, se olhar no espelho e gostar do que vê?
 
-Protocolo Desincha 3 Dias, para você ver resultado logo nos primeiros dias e se manter motivada. Valor R$37.
+Quanto vale entrar numa roupa que ficou guardada há meses e ela vestir?
 
-Guia Anti-Efeito Sanfona, por que o peso sempre voltava e como o BioRitmo resolve isso de vez. Valor R$47.
+Quanto vale sentir o olhar do seu marido te desejar de novo?
 
-Comunidade Privada BioRitmo, grupo exclusivo de mulheres na menopausa em ressincronização, suporte direto no seu celular. Valor R$67.
+Aparecer bem numa foto sem se esconder?
 
-Se você fosse comprar tudo isso separado, pagaria mais de R$539.
+Brincar com seus netos sem ficar sem fôlego?
 
-Um protocolo com esse nível de personalização hormonal custaria R$297 em consulta presencial no meu consultório. E ainda seria barato.
+Porque não é só sobre emagrecer. É sobre voltar a ser você.
+
+Um protocolo com esse nível de personalização hormonal custaria R$697 em consulta presencial no meu consultório. E ainda seria barato pelo resultado que você vai vivenciar.
 
 Mas hoje não é um dia comum.
 
-O BioRitmo já transformou mais de 30 mil mulheres na menopausa, e por isso eu consigo manter o custo operacional baixo e repassar essa economia direto para você.
+O BioRitmo, no exato momento em que você está vendo esse vídeo, acabou de realizar o grande marco de 34 mil mulheres transformadas com o nosso método. Graças a isso, somente hoje você terá uma condição especial.
 
-Você não vai pagar R$297. Nem metade disso, que seria R$147.
+Você não vai pagar R$697. Nem metade disso, que seria R$347.
 
-Hoje você garante o BioRitmo completo, app mais todos os bônus, por apenas R$29,90.
-
-Isso dá mais de 90% de desconto.
-
-Você pode pagar 12x de R$2,49 no cartão, menos do que uma bala por dia, ou à vista por R$29,90 no Pix.
+Hoje você garante o BioRitmo completo por apenas R$29,90 à vista no Pix, ou parcelando em até 12x no cartão — o que dá menos do que uma bala por dia.
 
 Pagamento único. Sem mensalidade. Sem pegadinha.
-
-Clique no botão abaixo e garanta o seu acesso agora.
-
-E tem mais. Eu separei um presente especial para as primeiras mulheres que entrarem.
-
-As 50 primeiras que garantirem o BioRitmo hoje vão receber um presente surpresa direto de mim.
-
-Eu não vou falar o que é, mas quem já recebeu sabe o quanto vale.
-
-Só quem agir agora vai descobrir.
-
-Se o botão ainda estiver disponível abaixo, as vagas ainda estão abertas.
 
 E pode ficar 100% tranquila. Você está protegida por uma garantia incondicional de 30 dias.
 
 Você entra, usa o app, segue o protocolo. Se em 30 dias não tiver resultado nenhum, eu devolvo 100% do seu dinheiro. Sem perguntas. Sem burocracia. Simples assim.
 
-Agora você tem dois caminhos.
+E melhor que isso: eu e minha equipe confiamos tanto no nosso método, que se em 30 dias você aplicar o plano personalizado e não tiver resultados, além de devolvermos o seu dinheiro, vou tirar R$200 do meu próprio bolso e te dar pelo tempo perdido no nosso protocolo.
 
-Caminho 1: Fechar esse vídeo e seguir como está. Continuar acordando inchada, subindo na balança com o coração acelerado, escolhendo roupa para esconder o corpo. Continuar tentando dieta, academia, jejum genérico, que você já sabe que não atacam a causa raiz. Daqui 6 meses, a mesma mulher no mesmo espelho. Com o peso de volta e mais frustração acumulada.
+Ou seja, você não sai perdendo. Ou vai conseguir emagrecer de uma vez por todas, ou vai ganhar R$200 apenas para testar o nosso método.
 
-Caminho 2: Clicar no botão abaixo agora, garantir o BioRitmo por R$29,90, menos do que um almoço fora, e em 21 dias sentir o seu relógio metabólico ressincronizado. Com o corpo trabalhando por você pela primeira vez em anos. Com energia. Com a roupa que você guardou. Com o espelho sendo seu aliado de novo.
+E de bônus, você ainda recebe de presente:
 
-A decisão é simples. E o risco é zero.
+Bônus 1: Receita do Ozempic Natural — a receita caseira que está viralizando nas redes sociais por ter efeitos comprovados de saciedade similares às canetinhas de R$1.500, usando ingredientes que você provavelmente já tem na cozinha. Sem efeito colateral, sem custo absurdo, sem precisar de receita médica. Ideal para as primeiras semanas, quando o jejum ainda está sendo adaptado ao seu corpo.
 
-Clique abaixo e comece hoje.
+Bônus 2: Protocolo Desincha 3 Dias — um protocolo específico para você ver resultado no espelho já nos primeiros dias. A maioria das mulheres perde de 1 a 2kg de retenção nas primeiras 72 horas. Não é só estético — quando você vê resultado rápido, a motivação de continuar é completamente diferente. Esse bônus existe para te dar esse primeiro impulso.
+
+Bônus 3: Guia Anti-Efeito Sanfona — explica com clareza por que o peso sempre voltou antes, qual mecanismo faz isso acontecer especificamente na menopausa, e como o protocolo do BioRitmo age direto nessa causa. Você vai entender seu corpo de um jeito que nunca ninguém te explicou. E quando você entende, o resultado se sustenta.
+
+E além disso, você entra para a Comunidade Privada BioRitmo — um grupo exclusivo de mulheres acima dos 40 que estão ressincronizando o metabolismo juntas. Tire dúvidas em tempo real, acompanhe os resultados de quem está na mesma fase que você, e tenha suporte direto quando precisar. Porque emagrecer sozinha é mais difícil. Com suporte, é outra história.
+
+Clique no botão abaixo e garanta o seu acesso agora.
+
+Mas antes de você ir, preciso te contar uma coisa.
+
+As primeiras 50 mulheres que garantirem o BioRitmo hoje vão receber um presente surpresa direto de mim. Algo que eu normalmente cobro separado, e que as minhas pacientes sempre pedem.
+
+Eu não vou falar o que é aqui. Mas as mulheres que já receberam sabem exatamente o quanto vale.
+
+Se o botão ainda estiver ativo abaixo, as vagas ainda estão abertas. Se não estiver, alguém chegou antes de você.
+
+Agora eu preciso que você tome uma decisão.
+
+Não amanhã. Agora.
+
+Porque esse vídeo vai acabar, a página vai fechar, e você vai voltar para a mesma rotina de sempre. E a pergunta que vai ficar é: por quanto tempo ainda?
+
+Você tem dois caminhos.
+
+Caminho 1: Fechar esse vídeo e seguir como está. Amanhã de manhã a mesma calça que não fecha. O mesmo inchaço ao acordar. A mesma frustração em cima da balança. Mais uma dieta que começa na segunda e termina na quarta. Mais um verão chegando e o mesmo corpo escondido. Daqui seis meses você vai estar exatamente aqui — ou pior — perguntando por que nada funciona. Sabendo lá no fundo que o problema nunca foi você. Mas sem ter feito nada diferente.
+
+Caminho 2: Clicar no botão abaixo agora. Garantir o BioRitmo por R$29,90 — menos do que um almoço fora. E em 21 dias acordar com uma barriga diferente. Entrar numa roupa que estava guardada. Subir na balança sem medo. Sentir o seu corpo respondendo de novo, pela primeira vez em anos. Não porque você se esforçou mais. Mas porque você finalmente atacou a causa certa.
+
+O risco é zero. A garantia é de 30 dias. O preço é R$29,90.
+
+O que você está esperando?
+
+Clique abaixo e comece agora.
 
 ---
 
 ## Notas de Produção
 
-- **Duração estimada:** 5-7 minutos
-- **Avatar:** Dr. Eduardo Carvalho (aparência: Dr. Ulrich Bauhofer)
+- **Duração estimada:** 6-8 minutos
+- **Avatar:** Dr. Eduardo Carvalho (referência visual: Dr. Ulrich Bauhofer)
 - **Ferramenta:** HeyGen ou ElevenLabs
 - **Upload:** VTurb (cupom: vturb40)
 - **Tom:** médico, empático, confiante — sem ser agressivo
-- **Ritmo:** pausas estratégicas antes dos pontos-chave
+- **Garantia dupla:** devolução + R$200 — confirmar operacionalização antes de gravar
