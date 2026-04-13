@@ -3,7 +3,7 @@ name: "copy"
 description: "Quando o usuário quer escrever, reescrever ou melhorar copy de marketing para qualquer formato — VSL, carta de vendas, sales page, advertorial, email de direct response, headlines, CTAs, quiz funnel ou qualquer peça de conversão. Use também quando o usuário disser: 'escreva copy para', 'melhore esse copy', 'reescreva essa página', 'preciso de headlines', 'ajuda com CTA', 'monte a oferta', 'escreva o lead'."
 license: MIT
 metadata:
-  version: 2.0.0
+  version: 3.0.0
   author: Kauã Rodriguez / Grupo Aura
   category: marketing — direct response
   updated: 2026-04-13
@@ -29,12 +29,15 @@ Escrevo para o **Sistema 1 de Kahneman** — rápido, emocional, automático. O 
 
 > "Quanto mais você sabe sobre o prospect, mais você consegue vender para ele." — Hopkins
 
+**Gate obrigatório:** Preencher o [Pre-Write Brief](references/pre-write-brief.md) antes de escrever qualquer linha. Se não consegue preencher todos os campos, a research está incompleta.
+
 Antes de escrever uma palavra, coletar:
 
 ### 1. VOC — Voz do Cliente
 Fontes: avaliações, comentários, depoimentos, chats de suporte, grupos, fóruns.
 → Anotar frases **exatas** — essa é a linguagem da copy.
 → Organizar em 4 colunas: **Perguntas recorrentes | Citações poderosas | Depoimentos | Frases que "grudam"**
+→ Ver processo sistemático completo em [references/voc-methodology.md](references/voc-methodology.md)
 
 ### 2. Awareness Level
 Diagnosticar onde está o prospect antes de escrever (ver [references/awareness-levels.md](references/awareness-levels.md)).
@@ -66,11 +69,12 @@ Identificar a emoção primária do avatar — revelada pela VOC, nunca decidida
 → Validar com as 5 funções obrigatórias antes de usar
 → Ver [references/copy-chief-frameworks.md](references/copy-chief-frameworks.md)
 
-### 6. Sofisticação de Mercado (Schwartz)
+### 7. Sofisticação de Mercado (Schwartz)
 Quantas promessas similares o prospect já viu?
 - Pouco exposto → promessa direta funciona
 - Muito exposto → precisa de mecanismo novo ou ângulo inesperado
 - Saturado → precisa de nova crença, novo vilão ou nova identidade
+→ Para mercados em Fase 4-5: ver [references/skeptical-markets.md](references/skeptical-markets.md)
 
 ---
 
@@ -116,6 +120,8 @@ Ver exemplos completos em [references/dr-frameworks.md](references/dr-frameworks
 ## FASE 3 — O Corpo da Copy
 
 > "Cada elemento desta copy tem um único objetivo: fazer o próximo elemento ser lido." — Sugarman
+
+**Craft técnico:** Para ritmo, variação de frase, escorregadeira de Sugarman e técnicas de escrita visceral, ver [references/copy-craft.md](references/copy-craft.md).
 
 ### Sequência do Corpo
 
@@ -203,6 +209,8 @@ Ver templates completos em [references/vsl-sales-page-templates.md](references/v
 | **Advertorial** | Tráfego nativo, disfarça como conteúdo editorial |
 | **Email DR** | Sequência de nurturing, upsell, reengajamento |
 | **Quiz Funnel Lead** | Segmentação + personalização antes da oferta |
+| **OTO / Upsell** | Imediatamente após a compra — estado de compra ativo |
+| **Sequência de Email de Lançamento** | Pré-aquecimento + carrinho aberto/fechado (11 emails) |
 
 ---
 
@@ -211,6 +219,9 @@ Ver templates completos em [references/vsl-sales-page-templates.md](references/v
 Referências detalhadas:
 - [references/awareness-levels.md](references/awareness-levels.md) — Sistema Schwartz de 5 níveis + sofisticação de mercado
 - [references/psychological-triggers.md](references/psychological-triggers.md) — Cialdini, Sugarman, Kahneman, Whitman
+- [references/copy-chief-frameworks.md](references/copy-chief-frameworks.md) — DRE, Escalada Emocional, MUP/MUS, Lentes BLACK, NUUPPECC
+- [references/skeptical-markets.md](references/skeptical-markets.md) — Copy para Fase 4-5 de Schwartz (mercado saturado e cético)
+- [references/swipe-file-br.md](references/swipe-file-br.md) — Linhas provadas PT-BR: hooks, agitação, CTAs, P.S., urgência
 
 ---
 
@@ -231,6 +242,8 @@ Acionar **sem ser pedido** quando identificar estes problemas:
 | Preço revelado antes de construir o valor | Reordenar a estrutura |
 | Features sem benefício | Adicionar "o que significa que você vai [resultado]" |
 | Headline sem especificidade | Propor versões com número, timeframe ou mecanismo |
+| Copy de nutraceutico com claim de doença | Aplicar imediatamente Frame de Estilo de Vida (ver [anvisa-compliance.md](references/anvisa-compliance.md)) |
+| Mercado saturado / "já vi tudo isso" | Diagnosticar Fase Schwartz e aplicar uma das 5 abordagens (ver [skeptical-markets.md](references/skeptical-markets.md)) |
 
 ---
 
@@ -283,6 +296,25 @@ Antes de entregar qualquer copy:
 - [ ] Sem palavras banidas (revolucionário, transformação, jornada, segredo)?
 
 ---
+
+## Referências Completas
+
+| Arquivo | Conteúdo |
+|---|---|
+| [pre-write-brief.md](references/pre-write-brief.md) | Gate obrigatório — preencher antes de escrever |
+| [voc-methodology.md](references/voc-methodology.md) | Processo de research e mineração de VOC |
+| [awareness-levels.md](references/awareness-levels.md) | Schwartz 5 níveis + sofisticação de mercado |
+| [dr-frameworks.md](references/dr-frameworks.md) | 6 leads, AIDA, PAS, Hook-Story-Offer, headlines |
+| [copy-chief-frameworks.md](references/copy-chief-frameworks.md) | DRE, MUP/MUS, Lentes BLACK, NUUPPECC, RMBC II |
+| [psychological-triggers.md](references/psychological-triggers.md) | Cialdini, Kahneman, Sugarman, Whitman, Hooked, STEPPS |
+| [offer-architecture.md](references/offer-architecture.md) | Stack, ancoragem, garantia, urgência |
+| [vsl-sales-page-templates.md](references/vsl-sales-page-templates.md) | VSL 14 blocos, carta, advertorial, email, quiz, OTO |
+| [email-sequence.md](references/email-sequence.md) | 11 emails de lançamento + evergreen + abandono |
+| [copy-craft.md](references/copy-craft.md) | Ritmo, variação de frase, escorregadeira, pontuação |
+| [swipe-file-br.md](references/swipe-file-br.md) | Linhas provadas PT-BR por função |
+| [skeptical-markets.md](references/skeptical-markets.md) | Copy para mercado saturado Fase 4-5 |
+| [anvisa-compliance.md](references/anvisa-compliance.md) | Claims permitidos/proibidos — nutraceuticos BR |
+| [natural-transitions.md](references/natural-transitions.md) | Frases de transição entre blocos |
 
 ## Skills Relacionadas
 
