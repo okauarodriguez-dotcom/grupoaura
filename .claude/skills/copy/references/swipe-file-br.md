@@ -318,3 +318,206 @@ De qualquer forma, o risco é inteiramente meu."
 14. "A dúvida que você está sentindo agora é a mesma que sentiu antes de não começar na última vez. O resultado foi o mesmo?"
 
 15. "Você pode testar por [X] dias com garantia total. O único risco real é não testar e continuar como está."
+
+---
+
+## 12. Hooks Paid Social — Por Tipo
+
+### Hooks de Identidade (qualificam o avatar imediatamente)
+
+1. "Isso é para mulheres acima dos 40 que dormem bem, comem razoavelmente — e mesmo assim não perdem nada."
+2. "Se você tem [problema] e já está cansada de ouvir 'come menos, move mais'... presta atenção."
+3. "Para quem já tentou [X], [Y] e [Z] — e ainda está no mesmo lugar."
+4. "Você é mãe, trabalha, cuida de todo mundo — e ainda assim é a última da lista. Isso muda agora."
+5. "Pra quem tem [condição específica] e achava que nunca ia conseguir [resultado]."
+6. "Se você é o tipo de pessoa que faz tudo certo mas vê pouco resultado... aqui está o motivo real."
+
+### Hooks de Dor (nomeiam o problema com especificidade)
+
+7. "Acordar cansada depois de 8 horas de sono não é preguiça. Tem nome — e tem solução."
+8. "Você não engorda porque come muito. Você engorda porque [MUP em 1 linha]."
+9. "O problema não é falta de disciplina. É que ninguém te explicou o que realmente trava [resultado]."
+10. "Sabe quando você faz tudo certo e a balança não move? Existe uma razão biológica específica para isso."
+11. "Todo médico sabe disso mas poucos falam: [MUP em 1 linha] é o que impede [resultado] depois dos 40."
+12. "Você passou anos lutando contra seu próprio corpo. A culpa não era sua."
+
+### Hooks de Curiosidade (geram clique pelo que NÃO dizem ainda)
+
+13. "A razão pela qual [resultado comum] não funciona para [avatar] não é o que você foi ensinada a acreditar."
+14. "Existe um processo que [número] pessoas já usaram para [resultado] — e quase ninguém fala sobre ele."
+15. "Um estudo de [instituição credível] descobriu algo sobre [problema] que contradiz tudo que você já ouviu."
+16. "Se eu te dissesse que [sacrifício que o avatar faz] pode estar sabotando [resultado], você acreditaria?"
+17. "O que [profissional de saúde] usa pessoalmente mas não receita — e por quê."
+18. "Há [X] anos atrás eu descobri por acidente algo sobre [problema] que mudou tudo."
+
+### Hooks de Inversão (contradizem crença comum)
+
+19. "Comer menos não emagrece. Pesquisa de [instituição] explica por quê."
+20. "O exercício que todo mundo faz pode estar impedindo [resultado]. Sério."
+21. "Parei de fazer [comportamento comum] e finalmente consegui [resultado]. Eis o motivo."
+22. "A indústria de [nicho] não quer que você saiba disso."
+23. "Tudo que te ensinaram sobre [problema] está errado. Não é exagero."
+24. "Mais força de vontade não vai resolver [problema]. É um problema diferente."
+
+### Hooks de Prova Social (volume + especificidade)
+
+25. "[Número] mulheres de [faixa etária] já [resultado específico] com isso nos últimos [período]."
+26. "[Nome, cidade, situação específica]: '[resultado com número e tempo].'"
+27. "Em [mês/ano], comecei a mostrar esse método para [avatar]. Hoje tenho [número] casos documentados."
+28. "[Avatar com handicap]: [resultado inesperado com especificidade]."
+29. "Depois de [tempo] usando [mecanismo], [nome] conseguiu [resultado]. Sem [sacrifício]."
+30. "Você vai ver aqui por que [número] pessoas estão conseguindo [resultado] mesmo com [objeção comum]."
+
+---
+
+## 13. Aberturas de Live — Scripts de Abertura
+
+### Live de Lançamento (conteúdo + pitch no final)
+
+1. "Antes de começar: quem aqui já tentou [solução comum] e não teve resultado permanente? Coloca no chat. [pausa] Exato. Hoje vou te explicar o motivo real disso — e não é o que você pensa."
+
+2. "Bom dia/tarde/noite. Vou começar direto ao ponto porque o que vou mostrar hoje vai mudar a forma como você vê [problema]. Presta atenção nas próximas [X] minutos."
+
+3. "Antes de qualquer coisa: se você está aqui pela primeira vez, fica até o final porque vou revelar algo que [número] pessoas já usaram para [resultado] — e provavelmente ninguém te contou ainda."
+
+4. "[Avatar específico], você está no lugar certo. Hoje vou mostrar [promessa específica da live]. Mas primeiro, me conta no chat: [pergunta de dor que qualifica]."
+
+5. "Vou ser direto: essa live não é para todo mundo. É para quem [qualificação específica]. Se você se identificou, fica comigo."
+
+### Live de Vendas (abertura de carrinho)
+
+6. "É hoje. Depois de [X semanas/dias] mostrando [conteúdo], cheguei ao ponto que queria: vou te mostrar como continuar isso de forma completa e estruturada. [Nome do produto] abre agora."
+
+7. "Antes de abrir o acesso, quero ter certeza que você entende o valor do que está aqui. Vou mostrar tudo que você leva — e depois o preço vai fazer total sentido."
+
+8. "Eu poderia abrir o link agora. Mas primeiro quero que você veja o que [nome/avatar] conseguiu depois de usar isso por [tempo]. [depoimento específico] — esse é o resultado que você também pode ter."
+
+### Live de Urgência (últimas horas)
+
+9. "Última chamada. Em [X horas], o [produto] fecha. Mas antes de fechar, quero responder ao vivo qualquer dúvida que ainda esteja travando sua decisão."
+
+10. "Tem pessoas aqui que estão nas lives desde o começo e ainda não entraram. Não vim vender de novo — vim entender o que está travando. Me fala no chat."
+
+### Reengajamento de audiência fria
+
+11. "Faz um tempo que não apareço por aqui. Mas o que vou mostrar hoje justifica — descobri algo que muda completamente [tema]."
+
+12. "Antes de começar, preciso saber: ainda tem esse problema aqui? [pergunta de dor] Comenta sim ou não."
+
+13. "Vou ser honesto hoje. Errei em [coisa específica]. E o que aprendi com esse erro é mais valioso do que qualquer dica que já dei aqui."
+
+14. "Hoje não tenho nada para vender. Só quero compartilhar algo que aprendi recentemente e que mudou [resultado específico] para mim."
+
+15. "Essa live é diferente. Sem apresentação, sem enrolação. Vou direto ao que importa para quem tem [problema]."
+
+---
+
+## 14. Posts de Feed — Estruturas
+
+### Carrossel de Educação + CTA Final
+
+**Slide 1 (Hook):** "[Dor/inversão em 1 frase. Sem produto, sem marca.]"
+**Slides 2-4 (Conteúdo):** [3 pontos educativos que constroem a crença necessária para o produto]
+**Slide 5 (MUP):** "O problema tem nome: [MUP em 1 frase]"
+**Slide 6 (Promessa):** "Existe uma forma de resolver isso. [1 linha do MUS]"
+**Slide 7 (CTA):** "Comenta [PALAVRA] aqui embaixo que te mando mais informações."
+
+### Single Image — Depoimento
+
+```
+"[Depoimento específico com resultado + número + timeline]"
+— [Nome, cidade, avatar específico]
+
+[2-3 linhas conectando o depoimento ao problema do avatar do feed]
+
+[CTA: Comenta X / Link na bio / Me manda mensagem]
+```
+
+### Text-Only — Estrutura 1 (Confissão)
+
+```
+Eu errei por [período de tempo].
+
+Acreditei que [crença comum do mercado].
+
+Até que [descoberta que muda tudo].
+
+E aí entendi: [insight que abre para o mecanismo].
+
+Amanhã posto o que mudou depois disso.
+```
+
+### Text-Only — Estrutura 2 (Pergunta Segmentante)
+
+```
+[Pergunta que qualifica o avatar e cria comentários]
+
+Não é retórica. Quero saber de verdade.
+
+Comenta aqui embaixo — leio todos.
+```
+
+### Text-Only — Estrutura 3 (Dado + Inversão)
+
+```
+[Dado surpreendente com fonte]
+
+Isso significa que [implicação inesperada para o avatar].
+
+E a maioria das pessoas fazendo [comportamento comum] está indo na direção errada.
+
+Salva esse post — vou explicar o motivo com mais detalhes em breve.
+```
+
+---
+
+## 15. Stories — Sequências
+
+### Sequência de Aquecimento (5 stories / D-7 ao D-3)
+
+**Story 1 — Pergunta (D-7):**
+Fundo simples + texto:
+"Você já teve [dor específica]? → Sim / Às vezes"
+[Sticker de enquete]
+
+**Story 2 — Validação (D-6):**
+"[X]% dos que responderam disseram Sim. Isso me confirma que tenho que falar sobre isso."
++ texto: "Amanhã posto o motivo real por que isso acontece."
+
+**Story 3 — Vilão (D-5):**
+"O motivo não é [culpado óbvio]. É [MUP em 1 frase]."
+[Link para post ou swipe up]
+
+**Story 4 — Prova (D-4):**
+[Print de depoimento ou resultado]
+"Isso é o que acontece quando você resolve a causa real."
+
+**Story 5 — Teaser (D-3):**
+"Na semana que vem vou abrir algo especial para quem tem [problema].
+Toca aqui para me enviar mensagem e entrar na lista de espera."
+
+### Sequência de Oferta Direta (3 stories)
+
+**Story 1 — Hook:**
+"[Produto] abriu. Só por [prazo] — [razão real]."
+
+**Story 2 — Benefício principal:**
+"Quem entra leva: [benefício 1] + [benefício 2] + [bônus principal]
+Tudo por R$[X] — com garantia de [N] dias."
+
+**Story 3 — CTA:**
+"Link na bio / Arrasta pra cima"
+"Dúvidas → me manda mensagem agora"
+
+### Sequência de Urgência Final (3 stories / últimas 24h)
+
+**Story 1 — Relógio:**
+"[X] horas. Depois o [produto] fecha."
+[Timer ou contagem manual]
+
+**Story 2 — Framing de perda:**
+"Quem não entrar hoje fica [consequência específica] por mais [período]."
+
+**Story 3 — Last call:**
+"Link direto no story"
+"Última chance de entrar com esse preço."

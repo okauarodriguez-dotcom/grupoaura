@@ -232,7 +232,7 @@ Mini-hooks inseridos no MEIO do corpo da copy para reengajar prospects que estã
 
 ---
 
-## 8. RMBC II — Processo de Produção (Stefan Georgi)
+## 8. RMBC II — Template Executável Completo (Stefan Georgi)
 
 **Princípio:** O copywriter como arquiteto estratégico — não executor que escreve palavra por palavra.
 
@@ -241,12 +241,131 @@ Mini-hooks inseridos no MEIO do corpo da copy para reengajar prospects que estã
 Research → Mechanism → Brief → Copy
 ```
 
-1. **Research** — VOC completo antes de qualquer palavra de copy
-2. **Mechanism** — MUP + MUS validados antes do briefing
-3. **Brief** — Estrutura completa (One Belief, DRE, Escalada, leads, oferta) antes de escrever
-4. **Copy** — Produção com contexto completo; não começar do zero sem tudo acima
+**RMBC I vs RMBC II:**
+- RMBC I: processo linear — pesquisa → escreve. Adequado para copy de formato único e produto conhecido.
+- RMBC II: processo arquitetural — pesquisa → define mecanismo → briefing completo → escreve por blocos. Obrigatório para VSL longa, carta de vendas, lançamento completo. Resultado: copy mais robusta e coerente, sem contradições entre blocos.
 
-**Regra de ouro:** 3-4 horas de análise estratégica ANTES de uma única palavra de copy. Quem escreve sem pesquisa está inventando — não persuadindo.
+---
+
+### PASSO 1 — RESEARCH (Template)
+
+**O que coletar (em ordem de importância):**
+
+```
+VOC PRIMÁRIO (frases exatas do prospect):
+- Fonte 1: [avaliações do produto ou concorrente]
+- Fonte 2: [grupos Facebook/Reddit/WhatsApp do nicho]
+- Fonte 3: [comentários de vídeos no YouTube/TikTok]
+- Golden Quotes coletadas: [mínimo 20]
+
+COMPETITOR INTELLIGENCE:
+- Concorrente 1: [MUP, MUS, ângulo, lead, o que está escalando]
+- Concorrente 2: [idem]
+- White space identificado: [ângulo que nenhum concorrente usa]
+
+MECHANISM RESEARCH:
+- Processo biológico/psicológico real que sustenta o MUP: [fonte científica]
+- Ingrediente/método real que sustenta o MUS: [fonte científica]
+- Analogia que explica o mecanismo em linguagem simples: [1 frase]
+
+PRODUTO:
+- O que ele faz de verdade: [mecanismo real]
+- Diferença real vs. concorrentes: [1-3 pontos]
+- Resultados reais documentados: [depoimentos com número+timeline]
+```
+
+---
+
+### PASSO 2 — MECHANISM (Template de 1 Página)
+
+```
+MUP (Mecanismo Único do Problema):
+Nome proprietário: _______________________
+Causa biológica/psicológica real: _______________________
+Por que outras soluções falham (absolvição): _______________________
+Sexy Cause formulada: [ÓRGÃO/SISTEMA] + [PROCESSO] + [CAUSA CULPÁVEL]
+
+Exemplo: "A Desincronização do Eixo Circadiano — quando o relógio biológico 
+perde o sincronismo com o ciclo luz/escuridão, impedindo que o metabolismo 
+funcione no ritmo certo."
+
+MUS (Mecanismo Único da Solução):
+Gimmick Name: _______________________
+Ingrediente/componente hero: _______________________
+Origin Story (onde/como foi descoberto): _______________________
+Authority Hook (quem já usa/valida): _______________________
+
+Ramalho Formula completa:
+"Já ouviu falar desse [GIMMICK NAME] que [ORIGEM] estão usando secretamente 
+para [DESEJO]? Já estão chamando isso de [AUTHORITY HOOK]."
+
+VALIDAÇÃO DO MECANISMO (5 funções — marcar se atendidas):
+[ ] Explica o problema de forma nova e única
+[ ] Absolve o avatar da responsabilidade pelo fracasso passado
+[ ] Invalida as soluções dos concorrentes
+[ ] Posiciona a solução como a única que ataca a causa raiz
+[ ] Cria urgência (a causa raiz está ativa agora)
+```
+
+---
+
+### PASSO 3 — BRIEF (Template de 1 Página)
+
+```
+PRODUTO: _______________  PREÇO: _______________  FORMATO: _______________
+
+AVATAR: _______________________________________________________________
+DRE: [medo / vergonha / raiva / frustração / desejo]
+Escalada atual: Nível __/5
+Top 3 Golden Quotes (VOC exato):
+1. "_______________________________________________________________"
+2. "_______________________________________________________________"
+3. "_______________________________________________________________"
+
+ONE BELIEF (16 palavras):
+"_______________________________________________________________"
+
+3 CRENÇAS FALSAS:
+Veículo: [solução não funciona] → Destruição: ________________________
+Interna: [eu não consigo] → Destruição: ________________________
+Externa: [minha situação é diferente] → Destruição: ________________________
+
+LEAD: Tipo: ____________  Justificativa: ____________
+Abertura (primeiras 2 linhas): _______________________________________________
+
+OFERTA:
+Core: _____________ [valor R$_____]
+Bônus 1: _____________ [valor R$_____]
+Bônus 2: _____________ [valor R$_____]
+Total de valor: R$_____ → Preço: R$_____
+Urgência real: _____________________________________________________________
+Garantia: _________________ dias | Condição: _________________________________
+
+MECANISMO: MUP: _________________ MUS: _________________
+```
+
+---
+
+### PASSO 4 — COPY (Sequência de Produção por Blocos)
+
+**Ordem de escrita (não linear — do mais fácil para o mais difícil):**
+
+1. **Mecanismo** — escreva o bloco de revelação do mecanismo primeiro. É o coração da copy. Se o mecanismo está claro, o resto flui.
+2. **Agitação** — com o mecanismo no papel, a agitação da dor ganha especificidade. Escreva os 3-4 ângulos de dor.
+3. **Prova** — selecione e formate os depoimentos e provas científicas. Inclua antes e depois.
+4. **Oferta** — construa o stack completo com preços individuais. Escreva a âncora.
+5. **Lead** — agora que o corpo está pronto, escreva o lead. O lead deve prometer o que o corpo entrega.
+6. **Fechamento** — CTA, garantia como argumento, urgência, P.S.
+7. **Headlines** — escrever por último. Você já conhece os 3 argumentos mais fortes da copy.
+
+**Regra de produção:**
+- Escrever blocos completos, não linearmente
+- Ao terminar um bloco, passar pelas 5 Lentes BLACK antes de continuar
+- P.S. é escrito depois da copy inteira — captura o argumento mais forte que emergiu no processo
+
+**Diferença RMBC II do processo comum:**
+Processo comum: começa no headline, vai até o final, perde coerência no meio.
+RMBC II: começa no mecanismo (o mais difícil), usa isso como âncora de todo o resto. Coerência garantida.
 
 ---
 
