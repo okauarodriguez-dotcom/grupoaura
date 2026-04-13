@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "56111139fdf42ee1",
+    "id": "3da82585c6b99add",
     "type": "split",
     "children": [
       {
-        "id": "e2cc9f3b1c15bcea",
+        "id": "e37b23a303dd9787",
         "type": "tabs",
         "children": [
           {
-            "id": "ff15beed84d68a49",
+            "id": "11c3ecbf20ad13b1",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "38e30b5b80c32f2b",
+    "id": "48c66fd2aa314306",
     "type": "split",
     "children": [
       {
-        "id": "73f8f20c2d685a3b",
+        "id": "710291fe1db81935",
         "type": "tabs",
         "children": [
           {
-            "id": "2995c337ba98c802",
+            "id": "14aac8cb80b86e2f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "c9afb3e3140c4450",
+            "id": "8af8c26acca7142a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "166860f9573b4ba2",
+            "id": "6c30ec000936578f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,25 +77,25 @@
     "width": 300
   },
   "right": {
-    "id": "7318eb55534e1251",
+    "id": "67c8b1e40da976c9",
     "type": "split",
     "children": [
       {
-        "id": "17817aa8b96ea05f",
+        "id": "848bcefd5dcb4748",
         "type": "tabs",
         "children": [
           {
-            "id": "b10f1c11e9c80b07",
+            "id": "178aec1621d345ef",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "1de07499c6ca1fbd",
+            "id": "72ac9e96d0ed74d4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +116,7 @@
             }
           },
           {
-            "id": "4f605a6459f6226a",
+            "id": "481357c6e7754437",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +131,7 @@
             }
           },
           {
-            "id": "9ce250867c4d982d",
+            "id": "3382fd16901f8c92",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -145,7 +145,7 @@
             }
           },
           {
-            "id": "22746a1d06d8e33f",
+            "id": "43f4322fada80800",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -176,53 +176,43 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "ff15beed84d68a49",
+  "active": "11c3ecbf20ad13b1",
   "lastOpenFiles": [
-    "scripts/startup_fathom 2.vbs",
-    "scripts/requirements 2.txt",
-    "scripts/instalar_startup 2.ps1",
-    "scripts/iniciar_webhook 2.bat",
-    "scripts/fathom_sync 2.py",
-    "people/higor-neves 2.md",
-    "people/guilherme-biff 2.md",
-    "people/guilherme 2.md",
-    "people/gabriel-saraiva 2.md",
-    "people/elaine-ourives 2.md",
-    "people/diogo-kobata 2.md",
-    "people/dan-donato 2.md",
-    "people/arthur-pc 2.md",
-    "people/ana-bianchi 2.md",
-    "people/amanda-khayat 2.md",
-    "operacoes/utmify-config 2.md",
-    "operacoes/utmify-claude-integracao 2.md",
-    "operacoes/utmify-claude-fluxo-diario 2.md",
-    "operacoes/setup-automacao-fathom 2.md",
-    "mentoria/victor-xisto-low-ticket-2026-03-30 2.md",
-    "mentoria/tiago-filemon-quinta-empresarios 2.md",
-    "mentoria/ouro-digital-2-promessa-do-produto 2.md",
-    "mentoria/ouro-digital-2 2.md",
-    "mentoria/higor-neves-ouro-digital-2-estrutura-completa 2.md",
-    "mentoria/elenio-olives-frequencia-hertz 2.md",
-    "mentoria/eduardo-zen-mentoria-6d-estrutura-completa 2.md",
-    "livros/the-hard-thing-about-hard-things 2.md",
-    "livros/quem-pensa-enriquece 2.md",
-    "produtos/bioritmo/README.md",
-    "produtos/bioritmo/processo-do-zero.md",
-    "produtos/bioritmo",
-    "reunioes",
-    "pessoal",
-    "estudos/matematica-prova/index.html",
-    "estudos/matematica-prova",
-    "decisoes",
-    "lowticket/imagens/rotacao-4.jpg",
-    "lowticket/imagens/rotacao-3.jpg",
-    "lowticket/imagens/rotacao-2.jpg",
-    "lowticket/imagens/rotacao-1.jpg",
-    "lowticket/imagens/resultado-4.jpg",
-    "lowticket/imagens/resultado-3.jpg",
-    "lowticket/imagens/resultado-2.jpg",
-    "lowticket/imagens/resultado-1.jpg",
-    "lowticket/imagens/objecao-rotina-trabalho.jpg",
-    "lowticket/imagens/objecao-fome-jejum.jpg"
+    "projects/escritorio-agentes/codigo/node_modules/side-channel/README.md",
+    "projects/escritorio-agentes/README.md",
+    "projects/escritorio-agentes/codigo/server/index.js",
+    "projects/escritorio-agentes/codigo/server/terminalManager.js",
+    "projects/escritorio-agentes/codigo/server/mcpManager.js",
+    "projects/escritorio-agentes/codigo/server/database.js",
+    "projects/escritorio-agentes/codigo/server",
+    "projects/escritorio-agentes/codigo/public/style.css",
+    "projects/escritorio-agentes/codigo/public/pixelEngine.js",
+    "projects/escritorio-agentes/codigo/public/index.html",
+    "projects/escritorio-agentes/codigo/public/app.js",
+    "projects/escritorio-agentes/codigo/public",
+    "projects/escritorio-agentes/codigo/node_modules/@anthropic-ai/sdk/src/_vendor/partial-json-parser/README.md",
+    "projects/escritorio-agentes/codigo/node_modules/@anthropic-ai/sdk/src/internal/README.md",
+    "projects/escritorio-agentes/codigo/node_modules/@anthropic-ai/sdk/src/core/README.md",
+    "projects/escritorio-agentes/codigo/node_modules/node-pty/deps/winpty/RELEASES.md",
+    "projects/escritorio-agentes/codigo/node_modules/node-pty/deps/winpty/README.md",
+    "projects/escritorio-agentes/codigo/node_modules/node-addon-api/tools/README.md",
+    "projects/escritorio-agentes/codigo/node_modules/@types/ws/README.md",
+    "projects/escritorio-agentes/codigo/node_modules/@types/phoenix/README.md",
+    "projects/escritorio-agentes/codigo/node_modules/@types/node/README.md",
+    "projects/escritorio-agentes/codigo/node_modules/@supabase/realtime-js/README.md",
+    "projects/escritorio-agentes/codigo/node_modules/@supabase/supabase-js/README.md",
+    "projects/escritorio-agentes/codigo/node_modules/@supabase/storage-js/README.md",
+    "projects/escritorio-agentes/codigo/node_modules/@supabase/functions-js/README.md",
+    "projects/escritorio-agentes/codigo/node_modules/@supabase/postgrest-js/README.md",
+    "projects/escritorio-agentes/codigo/node_modules/@anthropic-ai/sdk/README.md",
+    "projects/escritorio-agentes/codigo/node_modules/@modelcontextprotocol/sdk/README.md",
+    "projects/escritorio-agentes/codigo/node_modules/@anthropic-ai/sdk/CHANGELOG.md",
+    "projects/escritorio-agentes/codigo/node_modules/@supabase/auth-js/README.md",
+    "projects/escritorio-agentes/codigo/node_modules/@hono/node-server/README.md",
+    "projects/escritorio-agentes/codigo/node_modules/@babel/runtime/README.md",
+    "projects/escritorio-agentes/codigo/node_modules/vary/README.md",
+    "projects/escritorio-agentes/codigo/node_modules/vary/HISTORY.md",
+    "projects/escritorio-agentes/codigo/node_modules/zod-to-json-schema/contributing.md",
+    "projects/escritorio-agentes/codigo/node_modules/zod-to-json-schema/changelog.md"
   ]
 }
