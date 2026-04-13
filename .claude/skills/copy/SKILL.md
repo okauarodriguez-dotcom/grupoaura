@@ -52,10 +52,19 @@ Listar as 3 objeções que bloqueiam a compra:
 - **Crença Externa:** "Minha situação é diferente" ("minha genética é especial")
 → A copy precisa destruir cada uma antes de fechar.
 
-### 5. Mecanismo Único
+### 5. DRE — Dor/Raiva/Emoção Dominante Residente
+Identificar a emoção primária do avatar — revelada pela VOC, nunca decidida por intuição.
+→ Mapear em qual nível de Escalada Emocional estão as quotes (1-físico a 5-identidade)
+→ Quanto mais quotes de nível 4-5, mais visceral pode e deve ser a copy
+→ Ver [references/copy-chief-frameworks.md](references/copy-chief-frameworks.md)
+
+### 6. Mecanismo Único — MUP e MUS
 "Por que isso funciona quando tudo mais falhou?"
 → O mecanismo é o coração da copy. Sem ele, não há diferenciação.
-→ Deve ter nome próprio, explicação simples, base científica, e ser exclusivo (ou apresentado como tal).
+→ **MUP** (Mecanismo Único do Problema): Nova Causa + Sexy Cause + absolvição
+→ **MUS** (Mecanismo Único da Solução): Ingrediente Hero + Gimmick Name + Origin Story + Authority Hook
+→ Validar com as 5 funções obrigatórias antes de usar
+→ Ver [references/copy-chief-frameworks.md](references/copy-chief-frameworks.md)
 
 ### 6. Sofisticação de Mercado (Schwartz)
 Quantas promessas similares o prospect já viu?
@@ -245,18 +254,33 @@ Para toda entrega de copy:
 
 Antes de entregar qualquer copy:
 
-- [ ] A copy começa com a dor/desejo do prospect, não com o produto?
-- [ ] O mecanismo único está nomeado e explicado?
-- [ ] As 3 crenças falsas foram destruídas?
-- [ ] Há hierarquia de prova (ciência > depoimentos específicos > lógica)?
+**Fundação:**
+- [ ] A copy começa com a DRE do avatar, não com o produto?
+- [ ] O MUP (Sexy Cause) está nomeado e explica por que nada funcionou antes?
+- [ ] O MUS (Gimmick Name + Authority Hook) está conectado ao MUP?
+- [ ] As 3 crenças falsas foram destruídas (veículo / interna / externa)?
+- [ ] A linguagem é VOC — palavras exatas do prospect, não jargão de produto?
+
+**Estrutura:**
+- [ ] Há hierarquia de prova (ciência > depoimentos com número+timeline > lógica)?
+- [ ] A Escalada Emocional chega ao nível 4-5 antes da revelação do mecanismo?
 - [ ] A oferta empilha valor antes de revelar o preço?
 - [ ] A garantia está como argumento, não como nota de rodapé?
 - [ ] O CTA tem identidade ("Quero [resultado]" não "Comprar")?
 - [ ] Há P.S.?
 - [ ] A urgência tem razão real?
-- [ ] A linguagem é VOC — palavras do prospect, não jargão do produto?
-- [ ] Cada afirmação é específica e crível? (Hopkins)
-- [ ] Um desconhecido leria até o final? (Halbert — teste da pilha B)
+
+**5 Lentes BLACK (ver copy-chief-frameworks.md):**
+- [ ] Cena de Filme: tem detalhes sensoriais, nomes, contexto específico?
+- [ ] Emoção Coerente: DRE escalada até nível 4-5?
+- [ ] Logo Test: concorrente NÃO pode usar sem alterar?
+- [ ] Teste Visceral: ativa reação física/emocional no leitor?
+- [ ] Zero Hedges: zero "talvez", zero adjetivos vazios, zero marketing speak?
+
+**Anti-homogeneização:**
+- [ ] Passou pelo Logo Test e Competitor Swap?
+- [ ] Especificidade Score ≥ 6/8 dados específicos?
+- [ ] Sem palavras banidas (revolucionário, transformação, jornada, segredo)?
 
 ---
 
