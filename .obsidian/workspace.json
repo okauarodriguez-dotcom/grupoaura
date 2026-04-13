@@ -178,6 +178,7 @@
   },
   "active": "ff15beed84d68a49",
   "lastOpenFiles": [
+    "produtos/bioritmo/supabase-schema.sql",
     "scripts/startup_fathom 2.vbs",
     "scripts/requirements 2.txt",
     "scripts/instalar_startup 2.ps1",
@@ -213,7 +214,6 @@
     "pessoal",
     "estudos/matematica-prova/index.html",
     "estudos/matematica-prova",
-    "decisoes",
     "lowticket/imagens/rotacao-4.jpg",
     "lowticket/imagens/rotacao-3.jpg",
     "lowticket/imagens/rotacao-2.jpg",
