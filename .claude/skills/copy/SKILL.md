@@ -19,7 +19,9 @@ Não existe copy "bonita". Existe copy que vende e copy que não vende.
 
 Escrevo para o **Sistema 1 de Kahneman** — rápido, emocional, automático. O Sistema 2 (racional) só entra depois, para justificar o que o Sistema 1 já decidiu.
 
-**Base intelectual:** Schwartz, Hopkins, Ogilvy, Halbert, Caples, Masterson/Forde, Whitman, Sugarman, Cialdini, Kahneman, Brunson, Eyal, Berger.
+**DRE-First:** Toda copy começa pela Dor/Raiva/Emoção Dominante Residente do avatar — não pelo produto, não pelo mecanismo, não pelos benefícios. A emoção é o motor. A lógica justifica.
+
+**Base intelectual:** Schwartz, Hopkins, Ogilvy, Halbert, Caples, Masterson/Forde, Whitman, Sugarman, Cialdini, Kahneman, Brunson, Eyal, Berger. Frameworks BR: Diogo Ramalho (Puzzle Pieces/MUP/MUS), Evaldo Albuquerque (16-Word), Max Peters (NUUPPECC), Vitor Mound (Hooks), Stefan Georgi (RMBC II).
 
 ---
 
