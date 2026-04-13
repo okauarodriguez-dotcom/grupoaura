@@ -457,3 +457,168 @@ Revelar e começar a destruir a maior crença falsa.
 > A boa notícia: tem solução específica para isso.
 > Veja como o BioRitmo foi desenvolvido exatamente para o seu perfil:"
 > [continua para VSL ou carta de vendas]
+
+---
+
+## FORMATO 6 — OTO / UPSELL (One-Time Offer)
+
+### O que é
+Página de oferta única apresentada imediatamente após a compra do produto principal (front-end), antes do prospect acessar o que comprou. Também chamada de order bump (antes do checkout) ou upsell (após a compra).
+
+### Princípio Central
+O prospect acabou de comprar. Está em **estado de compra ativo** — o maior estado de comprometimento possível. A resistência psicológica está no nível mais baixo.
+
+Você tem 60-90 segundos para apresentar a oferta. Cada segundo a mais que você demorar a chegar no ponto = menos conversão.
+
+### Diferenças Críticas vs Front-end
+
+| Elemento | Front-end | OTO/Upsell |
+|---|---|---|
+| Educação sobre o problema | Obrigatória (blocos 1-4) | Zero — já sabe |
+| Construção de rapport | Obrigatória | Zero — já confia |
+| Credenciais | Apresentar completo | Não precisa repetir |
+| Comprimento | 14 blocos / 20-45min | 6 blocos / 3-5min |
+| Tom | "Descubra..." | "Antes de acessar, uma coisa..." |
+| Objeção principal | "Isso funciona?" | "Preciso mesmo disso?" |
+
+### Quando Usar OTO vs Order Bump
+
+**Order Bump** (antes do checkout): produto de valor menor ou complemento simples. Apresentado na própria página de checkout como checkbox.
+
+**OTO/Upsell** (após o checkout): produto de valor maior ou complemento estratégico. Página separada, apresentada após a confirmação de pagamento.
+
+---
+
+### Estrutura OTO — 6 Blocos
+
+---
+
+#### Bloco 1 — PARABÉNS + MOMENTUM (10-15 segundos)
+
+**Função:** Confirmar a decisão, criar estado positivo, estabelecer o gancho para a próxima oferta.
+
+**Regra:** Não interrompa o estado de compra — amplifique-o. O prospect acabou de fazer algo inteligente. Diga isso.
+
+**Exemplo:**
+> "Parabéns — você acabou de tomar a melhor decisão que poderia tomar por você mesma hoje.
+> O BioRitmo está confirmado e você vai receber seu acesso em instantes.
+> Mas antes de eu te redirecionar, preciso te mostrar algo que vai fazer tudo funcionar mais rápido."
+
+---
+
+#### Bloco 2 — A LACUNA QUE O PRODUTO PRINCIPAL NÃO RESOLVE (30-45 segundos)
+
+**Função:** Criar um novo problema específico — não um defeito do produto principal, mas uma necessidade complementar que o produto principal não foi projetado para resolver.
+
+**Regra crítica:** Nunca diminua o produto que acabou de ser comprado. A lacuna deve parecer um "próximo nível", não uma limitação.
+
+**Estrutura:**
+```
+"O [produto principal] vai [resultado principal]. 
+E ele vai funcionar — com ou sem o que vou te mostrar agora.
+Mas existe uma [lacuna específica] que [consequência de não resolver].
+E é exatamente isso que o [upsell] resolve."
+```
+
+**Exemplo (BioRitmo → Upsell de Protocolo Intensivo):**
+> "O BioRitmo vai ressincronizar seu Relógio Metabólico — e vai funcionar.
+> Mas existe uma fase específica — as primeiras 72 horas — onde a maioria das mulheres comete os 3 erros que atrasam os resultados em semanas.
+> Não é falta de comprometimento. É não saber exatamente o que fazer nas primeiras 72 horas."
+
+---
+
+#### Bloco 3 — A SOLUÇÃO ESPECÍFICA (45-60 segundos)
+
+**Função:** Apresentar o upsell como a solução exata para a lacuna identificada no Bloco 2.
+
+**Regra:** O upsell deve parecer o complemento óbvio — não um produto extra, mas a peça que faltava.
+
+**Estrutura:**
+```
+"É por isso que criei o [nome do upsell].
+[O que é em 1 linha].
+[Como funciona em 2-3 linhas — sem jargão, sem abstração].
+[Por que funciona junto com o produto principal]."
+```
+
+**Exemplo:**
+> "É por isso que criei o Protocolo de Ignição de 72 Horas.
+> É um guia passo a passo — hora a hora — das primeiras 72 horas com o BioRitmo.
+> Você vai saber exatamente o que comer, quando comer e o que evitar nas três primeiras noites — o período mais crítico para ativar o Relógio Metabólico.
+> Enquanto o BioRitmo cuida do longo prazo, o Protocolo garante que você comece da forma certa."
+
+---
+
+#### Bloco 4 — PROVA RÁPIDA (20-30 segundos)
+
+**Função:** Prova social específica de pessoas que compraram o combo — não apenas o front-end. Quem comprou os dois teve resultado maior ou mais rápido.
+
+**Regra:** 1-2 depoimentos no máximo. Não é hora de construir confiança — é hora de confirmar que a decisão faz sentido.
+
+**Formato do depoimento ideal para OTO:**
+```
+"[Nome], [cidade/contexto]:
+'Já tinha o [produto principal] mas comprei o [upsell] no mesmo dia.
+Em [tempo], consegui [resultado específico]. 
+Sem o Protocolo de 72h, acho que teria demorado o dobro.'"
+```
+
+---
+
+#### Bloco 5 — OFERTA + PREÇO + URGÊNCIA REAL (20-30 segundos)
+
+**Função:** Revelar o preço com âncora e urgência genuína.
+
+**Regra de ancoragem para OTO:** O preço de referência deve ser o valor de mercado equivalente — não o preço do produto principal. O prospect já fez a âncora mental do front-end; esta é uma nova decisão.
+
+**Estrutura:**
+```
+"O [upsell] normalmente é vendido por R$[X].
+Mas porque você acabou de entrar no BioRitmo, você pode levar por apenas R$[Y] — agora.
+[Justificativa de por que apenas agora]."
+```
+
+**Urgência genuína para OTO:**
+> "Esta oferta existe apenas neste momento — quando você sair desta página, ela não vai aparecer de novo. Não é estratégia de marketing — é como o sistema funciona. Quando você acessar o BioRitmo, esta janela fecha."
+
+**Exemplo completo:**
+> "O Protocolo de Ignição de 72 Horas normalmente é vendido por R$97.
+> Mas porque você acabou de entrar no BioRitmo hoje, você pode adicionar ao seu pedido por apenas R$37.
+> Isso é menos de R$13 por dia nas três primeiras horas mais importantes da sua jornada.
+> Esta oferta aparece apenas uma vez — quando você fechar esta página, ela não volta."
+
+---
+
+#### Bloco 6 — CTA DUPLO (aceitar E rejeitar)
+
+**Função:** Dar ao prospect as duas opções explicitamente. O CTA de rejeição deve custar psicologicamente.
+
+**Regra:** O CTA negativo não é neutro. Ele deve nomear o que o prospect está abrindo mão — não punir, mas tornar a perda consciente.
+
+**Estrutura:**
+```
+CTA POSITIVO: "Sim, quero [resultado específico do upsell] por R$[Y]"
+CTA NEGATIVO: "Não, vou pular e começar sem o protocolo das primeiras 72h"
+```
+
+**Exemplos de CTAs negativos que custam:**
+- "Não, vou descobrir por tentativa e erro no começo"
+- "Não, prefiro esperar mais para ver resultado"
+- "Não obrigada, vou começar sem o guia das primeiras 72h"
+
+**Exemplos de CTAs negativos ruins (evitar — soam manipuladores):**
+- "Não, não me importo com minha saúde"
+- "Não quero emagrecer"
+- "Prefiro continuar sofrendo"
+
+---
+
+### Checklist de OTO Antes de Publicar
+
+- [ ] Bloco 2 complementa (não critica) o produto principal?
+- [ ] O upsell é o "próximo passo lógico" — faz sentido comprar junto?
+- [ ] A urgência é real e verificável (não apenas um contador falso)?
+- [ ] O CTA positivo descreve o resultado (não a transação)?
+- [ ] O CTA negativo nomeia a perda sem soar manipulador?
+- [ ] A página inteira pode ser lida em menos de 3 minutos?
+- [ ] O preço foi ancorado antes de ser revelado?
