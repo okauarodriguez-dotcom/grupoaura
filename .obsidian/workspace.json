@@ -11,10 +11,14 @@
             "id": "ff15beed84d68a49",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-04-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-13"
             }
           }
         ]
@@ -178,6 +182,7 @@
   },
   "active": "ff15beed84d68a49",
   "lastOpenFiles": [
+    "daily/2026-04-13.md",
     "reunioes/2026-03-31-onboarding-kaua-vicensotti.md",
     "reunioes/2026-03-31-onboarding-vanderli-cynthia.md",
     "reunioes/2026-03-31-mentoria-vanderli-cynthia-vsl.md",
@@ -211,7 +216,6 @@
     "produtos/emagrecimento.md",
     "produtos/dores-neuro-hepaticas.md",
     "produtos",
-    "people/vitor-bianchi.md",
     "people",
     "operacoes",
     "lowticket/imagens/rotacao-4.jpg",
