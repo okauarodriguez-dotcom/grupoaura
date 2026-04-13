@@ -3,7 +3,7 @@ name: "copy"
 description: "Quando o usuário quer escrever, reescrever ou melhorar copy de marketing para qualquer formato — VSL, carta de vendas, sales page, advertorial, email de direct response, headlines, CTAs, quiz funnel ou qualquer peça de conversão. Use também quando o usuário disser: 'escreva copy para', 'melhore esse copy', 'reescreva essa página', 'preciso de headlines', 'ajuda com CTA', 'monte a oferta', 'escreva o lead'."
 license: MIT
 metadata:
-  version: 3.0.0
+  version: 4.0.0
   author: Kauã Rodriguez / Grupo Aura
   category: marketing — direct response
   updated: 2026-04-13
@@ -78,21 +78,43 @@ Quantas promessas similares o prospect já viu?
 
 ---
 
-## FASE 1 — A Grande Ideia
+## FASE 1 — A Grande Ideia + Gerador
 
 A Grande Ideia = novo ângulo sobre um desejo **antigo**.
 
 > "Você não cria desejo. Você encontra o desejo que já existe no mercado e o canaliza para o seu produto." — Schwartz
 
-**Teste da Grande Ideia:**
-- É óbvio? → Descarte.
-- É surpreendente mas crível? → Desenvolva.
-- Conecta o mecanismo único ao desejo primário do prospect? → Está pronto.
+### Matriz de Geração de Big Ideas
 
-**Exemplos de Grandes Ideias (saúde/nutra):**
-- "O problema não é sua dieta. É o seu Relógio Metabólico."
-- "Pesquisadores descobriram por que mulheres acima dos 40 acumulam gordura em um lugar específico — e não é o que você pensa."
-- "Existe um aminoácido que 94% dos suplementos de memória ignoram — e sem ele, nada funciona."
+Usar os 4 eixos abaixo para gerar candidatos. Uma boa Big Idea geralmente combina 2 eixos:
+
+| Eixo | Pergunta Geradora | Exemplo |
+|---|---|---|
+| **Novo Inimigo** | O que todos culpam, mas está errado? | "Não é gordura. É o Relógio Circadiano." |
+| **Mecanismo Inédito** | Existe um processo biológico/psicológico que ninguém nomeia? | "A Resistência à Leptina — o hormônio que trava o emagrecimento" |
+| **Identidade Transformada** | Quem o prospect quer se tornar — não o que quer fazer? | "De mulher que luta contra o corpo para mulher que entende seu ritmo" |
+| **Inversão de Crença** | O que é verdade universal no mercado que pode ser contradito com prova? | "Menos calorias não emagrece — pesquisa de Harvard explica por quê" |
+
+### 7 Perguntas Geradoras
+1. O que todos culpam (e está errado)?
+2. Qual o paradoxo no problema deles? (ex: "dormem mais e estão mais cansadas")
+3. Quem ou o quê é o verdadeiro vilão que ninguém menciona?
+4. Existe um mecanismo biológico/psicológico com nome que explica o problema?
+5. O que funcionaria se o mercado inteiro estivesse errado?
+6. Qual identidade o prospect quer alcançar além do resultado visível?
+7. Existe um grupo que já resolveu isso — e como?
+
+### Teste da Grande Ideia (3 perguntas)
+1. É óbvio? → Descarte.
+2. É surpreendente mas crível? → Desenvolva.
+3. Conecta o mecanismo único ao desejo primário do prospect? → Está pronto.
+
+### Big Ideas de Referência (anotadas)
+- "O problema não é sua dieta. É o seu **Relógio Metabólico**." → Eixo: Novo Inimigo + Mecanismo Inédito
+- "Pesquisadores descobriram por que mulheres acima dos 40 acumulam gordura em um lugar específico." → Eixo: Mecanismo Inédito + Inversão (não é geral, é específico de localização)
+- "Existe um aminoácido que 94% dos suplementos de memória ignoram — sem ele, nada funciona." → Eixo: Novo Inimigo (omissão da indústria) + Mecanismo Inédito
+- "Você não falhou na dieta. A dieta falhou com você." → Eixo: Inversão de Crença + Absolvição como Big Idea
+- "A razão pela qual mulheres inteligentes continuam em relacionamentos que as esgotam." → Eixo: Identidade Transformada + Novo Inimigo (padrão psicológico)
 
 ---
 
@@ -202,15 +224,18 @@ Perdas pesam 2x mais que ganhos equivalentes.
 
 Ver templates completos em [references/vsl-sales-page-templates.md](references/vsl-sales-page-templates.md).
 
-| Formato | Quando Usar |
-|---|---|
-| **VSL** (Video Sales Letter) | Tráfego frio, primeira exposição, produto de transformação |
-| **Carta de Vendas** (Sales Page Longa) | Retargeting, tráfego morno, produto com proof sólida |
-| **Advertorial** | Tráfego nativo, disfarça como conteúdo editorial |
-| **Email DR** | Sequência de nurturing, upsell, reengajamento |
-| **Quiz Funnel Lead** | Segmentação + personalização antes da oferta |
-| **OTO / Upsell** | Imediatamente após a compra — estado de compra ativo |
-| **Sequência de Email de Lançamento** | Pré-aquecimento + carrinho aberto/fechado (11 emails) |
+| Formato | Quando Usar | Referência |
+|---|---|---|
+| **VSL** (Video Sales Letter) | Tráfego frio, primeira exposição, produto de transformação | vsl-sales-page-templates.md |
+| **Carta de Vendas** (Sales Page Longa) | Retargeting, tráfego morno, produto com proof sólida | vsl-sales-page-templates.md |
+| **Advertorial** | Tráfego nativo, disfarça como conteúdo editorial | vsl-sales-page-templates.md |
+| **Email DR** | Sequência de nurturing, upsell, reengajamento | email-sequence.md |
+| **Quiz Funnel Lead** | Segmentação + personalização antes da oferta | vsl-sales-page-templates.md |
+| **OTO / Upsell** | Imediatamente após a compra — estado de compra ativo | vsl-sales-page-templates.md |
+| **Sequência de Email de Lançamento** | Pré-aquecimento + carrinho aberto/fechado (11 emails) | email-sequence.md |
+| **Ad Paid Social (Meta/TikTok)** | Tráfego frio/retargeting — vídeo 8s/15s/30s/60s | meta-ads-copy.md |
+| **Broadcast WhatsApp** | Lançamento, follow-up, conversacional 1:1 | whatsapp-copy.md |
+| **Lançamento Completo** | D-14 ao D+3 — todos os formatos coordenados | lancamento-completo.md |
 
 ---
 
@@ -244,6 +269,38 @@ Acionar **sem ser pedido** quando identificar estes problemas:
 | Headline sem especificidade | Propor versões com número, timeframe ou mecanismo |
 | Copy de nutraceutico com claim de doença | Aplicar imediatamente Frame de Estilo de Vida (ver [anvisa-compliance.md](references/anvisa-compliance.md)) |
 | Mercado saturado / "já vi tudo isso" | Diagnosticar Fase Schwartz e aplicar uma das 5 abordagens (ver [skeptical-markets.md](references/skeptical-markets.md)) |
+| CTR baixo / copy não convertendo | Ativar diagnóstico por sintoma (ver [copy-diagnosis.md](references/copy-diagnosis.md)) antes de reescrever tudo |
+| Ad rejeitado pelo Meta | Verificar lista de palavras de risco + aplicar Lifestyle Frame (ver [meta-ads-copy.md](references/meta-ads-copy.md)) |
+| Copy para WhatsApp muito longa | Reduzir para máx. 3 parágrafos, link no final (ver [whatsapp-copy.md](references/whatsapp-copy.md)) |
+
+---
+
+## Modo Rápido (Quick Mode)
+
+> Use quando o usuário disser: "urgente", "preciso hoje", "copy rápida", "não tenho tempo para brief completo".
+
+**Aviso:** Copy de Modo Rápido tem mais risco de conversão. Validar antes de escalar com budget alto.
+
+**Brief Mínimo Viável (5 campos obrigatórios):**
+
+```
+1. PRODUTO: [nome + formato + preço]
+2. AVATAR: [quem é + 1 dor específica em VOC]
+3. DRE: [emoção dominante: medo / vergonha / raiva / frustração / desejo]
+4. MECANISMO: [MUP em 1 linha + MUS em 1 linha]
+5. FORMATO: [ad 30s / email / WhatsApp / headline / CTA]
+```
+
+**Processo no Modo Rápido:**
+1. Preencher os 5 campos acima — se não conseguir algum, perguntar antes de escrever
+2. Escrever usando o template do formato solicitado (sem passar por todas as fases)
+3. Sinalizar 🟡 (a validar) em todos os elementos não baseados em VOC real
+4. Indicar quais dados de research faltam para evoluir para copy de escala
+
+**O Modo Rápido NÃO dispensa:**
+- MUP/MUS nomeados (mesmo que em 1 linha)
+- CTA com identidade
+- Logo Test (10 segundos mentais antes de entregar)
 
 ---
 
@@ -315,6 +372,11 @@ Antes de entregar qualquer copy:
 | [skeptical-markets.md](references/skeptical-markets.md) | Copy para mercado saturado Fase 4-5 |
 | [anvisa-compliance.md](references/anvisa-compliance.md) | Claims permitidos/proibidos — nutraceuticos BR |
 | [natural-transitions.md](references/natural-transitions.md) | Frases de transição entre blocos |
+| [meta-ads-copy.md](references/meta-ads-copy.md) | Hooks, scripts 8s/15s/30s/60s, primary text, compliance Meta |
+| [whatsapp-copy.md](references/whatsapp-copy.md) | Broadcast de lançamento, follow-up, conversacional 1:1, grupos |
+| [copy-diagnosis.md](references/copy-diagnosis.md) | Diagnóstico por sintoma, audit checklist, repair protocol, A/B |
+| [lancamento-completo.md](references/lancamento-completo.md) | D-14 ao D+3 — copy de CPL, aulas, carrinho, urgência, pós |
+| [copy-intelligence.md](references/copy-intelligence.md) | Copywriters BR ativos, swipes de concorrentes, referências EN→BR |
 
 ## Skills Relacionadas
 
