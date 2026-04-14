@@ -85,6 +85,32 @@
 
 ---
 
+### Davi — Low Ticket Makers
+**Nicho principal:** Low Ticket (infoprodutos de entrada, nutraceuticos)
+**Mecanismo favorito:** One Pager + pesquisa sistemática de mercado antes de qualquer copy
+**Ângulo mais usado:** Mecanismo de nicho descoberto via volume de pesquisa → Big Idea como 80/20 da oferta
+**Formato preferido:** Funil de Low Ticket com quiz + oferta de mecanismo nomeado
+**O que aprender:**
+- **One Pager como base de trabalho:** uma página com pesquisa de público, ideias de mecanismo em ordem de prioridade e funis de concorrentes mapeados — tudo antes de escrever uma linha
+- **Processo de pesquisa em 2 dias:** Claude → 10 palavras-chave do nicho → Biblioteca de Anúncios filtrado por últimos 10 dias + vídeo → planilha com centenas de funis → ideias de mecanismo em sequência de prioridade
+- **Copy = extensão de pesquisa (não escrita):** pesquisa de público + mecanismo + mercado (concorrentes, YouTube, EUA, SwipeFiles) → cria a Big Idea → Big Idea é o 80/20 de tudo
+- **Volume acelera validação:** 8 Low Tickets em 30 dias aumenta probabilidade de acertar um mecanismo → volume > qualidade quando se está recomeçando
+- **Gary Bencivenga aplicado:** 50% do tempo de criação = pesquisa. Copy ruim + Big Idea boa vende. Copy boa + Big Idea ruim não vende.
+
+**Processo One Pager (passo a passo):**
+1. Pede ao Claude as 10 palavras-chave mais pesquisadas do nicho
+2. 2 dias inteiros na Biblioteca de Anúncios — filtro: últimos 10 dias + mais veiculação + vídeo
+3. Coloca todos os funis encontrados numa planilha
+4. Das centenas de funis → extrai ideias de mecanismo
+5. Ordena por prioridade: mais concorrentes + mais anunciado + mais sentido para o avatar
+6. Escolhe mecanismo #1 → cria oferta
+
+**Como monitorar:** Comunidade Low Ticket Makers + conteúdo orgânico
+
+**Fonte:** `mentoria/davi-low-ticket-5-dias-2026-04-10.md`
+
+---
+
 ### Luca + Lucas Collin (Copy Chief BLACK)
 **Nicho principal:** Copy de alta performance, nutraceuticos, infoprodutos premium
 **Mecanismo favorito:** 5 Lentes BLACK (Cena de Filme, Emoção Coerente, Logo Test, Visceral, Zero Hedges)
