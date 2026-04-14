@@ -128,6 +128,181 @@ O QUE ADAPTAR: [o eixo/princípio a aplicar — não o texto]
 
 ---
 
+---
+
+## TOP 20 — American Swipe (mapeado em 2026-04-13)
+
+> Fonte: American Swipe dashboard "Escalando agora" — ordenado por volume de anúncios ativos.
+
+### Ranking Completo
+
+| # | Produto | Nicho | Anúncios | Desde | Idioma | Formato |
+|---|---|---|---|---|---|---|
+| 1 | Celtic Salt Trick - Vigor Peak | Disfunção Erétil | 50.001 | jan/26 | Deutsch | VSL/Nutra |
+| 2 | Truque com Raiz Vermelha | Visão | 50.001 | mai/25 | English | VSL/Nutra |
+| 3 | Reversal Ritual - Glyco Lean | Diabetes | 33.112 | mar/26 | English | VSL/Nutra |
+| 4 | Truque da Gelatina Rosa - Gelatide | Emagrecimento | 17.880 | dez/25 | English | VSL/Nutra |
+| 5 | The Honey Trick - Neurozen | Alzheimer | 16.532 | jan/26 | English | VSL/Nutra |
+| 6 | Pink Salt Trick - Neuro Salt | Neuropatia | 16.321 | mar/26 | English | VSL/Nutra |
+| 7 | The Gelatin Trick - Mounja Gummy | Emagrecimento | 13.743 | jan/26 | English | VSL/Nutra |
+| 8 | Cholesterol Brain Hack - Primal Brain | Alzheimer | 12.520 | mar/26 | English | VSL/Nutra |
+| 9 | Café Bariátrico | Emagrecimento | — | jan/26 | PT-BR | YouTube/Low Ticket |
+| 10 | Escudo de Microplástico | Fungos | 9.565 | jan/26 | English | VSL/Nutra |
+| 11 | Truque da Gelatina - BurnSlim | Emagrecimento | 9.532 | jan/26 | English | VSL/Nutra |
+| 12 | GLP-1 Natural com Gelatina - LipoMax | Emagrecimento | 8.406 | abr/26 | English | VSL/Nutra |
+| 13 | Truque Simples com Gelatina | Emagrecimento | 7.834 | out/25 | English | VSL/Nutra |
+| 14 | Truque do Sal Rosa - OzemFit | Emagrecimento | 7.756 | nov/25 | English | VSL/Nutra |
+| 15 | Farmacopéia Temperista | Outros | 7.407 | jun/25 | PT-BR | Quiz/Low Ticket |
+| 16 | Protocolo Gut-Spine – Back Biome | Outros | 7.331 | fev/26 | English | VSL/Nutra |
+| 17 | Glucose Reset Ritual - Gluco Zen | Diabetes | 6.234 | fev/26 | English | VSL/Nutra |
+| 18 | Casca de Maçã | Diabetes | 6.221 | jan/26 | English | VSL/Infoproduto |
+| 19 | Glucose Reset Ritual - GL Pro | Diabetes | 5.177 | nov/25 | English | VSL/Nutra |
+| 20 | Natural Honey Trick | Diabetes | 4.080 | abr/26 | English | VSL/Nutra |
+
+---
+
+### Padrões de Mecanismo Identificados
+
+**Padrão 1 — "[Ingrediente Cotidiano] + Trick"** (dominante — 8+ offers)
+`Celtic Salt Trick` / `Truque com Raiz Vermelha` / `Honey Trick` / `Pink Salt Trick` / `Gelatin Trick` / `Truque da Gelatina`
+- MUS gimmick name: "[Ingrediente]" + "Trick/Truque" = ingrediente acessível como solução inesperada
+- Eixo: Inversão de crença ("o que parece comum esconde o segredo") + Absolvição ("você não sabia desse truque")
+- **Adaptar:** "[Ingrediente/componente] + Truque/Protocolo/Ritual" como gimmick name para BioRitmo
+
+**Padrão 2 — "Reset Ritual"** (diabetes — 3 offers)
+`Reversal Ritual - Glyco Lean` / `Glucose Reset Ritual - Gluco Zen` / `Glucose Reset Ritual - GL Pro`
+- MUS: "Ritual" como ação do mecanismo (implica processo específico, não produto genérico)
+- Eixo: Reversão do problema ("reverter o dano") vs. apenas controlar
+- **Adaptar:** "[Resultado desejado] + Reset/Reversal + [Nome do produto]" para produtos com ângulo de reversão
+
+**Padrão 3 — "GLP-1 Natural"** (emagrecimento — emergindo)
+`GLP-1 Natural com Gelatina - LipoMax` / `Truque do Sal Rosa - OzemFit`
+- MUS: conecta ao Ozempic (farmacêutico famoso) mas como versão natural/sem prescrição
+- Eixo: "O que o remédio caro faz, este ingrediente faz naturalmente"
+- **Adaptar:** Conectar BioRitmo a resultados conhecidos de medicamentos (sem mencionar) via mecanismo natural
+
+**Padrão 4 — "Hack/Protocol"** (cognição/neurológico)
+`Cholesterol Brain Hack - Primal Brain` / `Protocolo Gut-Spine – Back Biome`
+- MUS: "Hack" = atalho inesperado via mecanismo cerebral/biológico
+- Eixo: Conexão sistêmica (gut-brain, colesterol-memória) = mecanismo inesperado
+
+**Padrão 5 — Avatar feminino para produto masculino** (Celtic Salt Trick)
+- Anúncios com mulheres apresentando truque de ingrediente para problema de disfunção erétil masculina
+- Hipótese: targeting de parceiras/esposas que querem ajudar o marido → menor concorrência de leilão
+- **Adaptar:** Para BioRitmo — testar hooks direcionados ao parceiro/família quando aplicável
+
+---
+
+### Nichos em Escala (por volume total de anúncios)
+
+| Nicho | Volume Total | # Offers | Saturação |
+|---|---|---|---|
+| Emagrecimento | ~65.000 ads | 7 offers | Alta — mas gelatina/sal ainda funcionando |
+| Diabetes/Glicose | ~50.000 ads | 5 offers | Crescendo forte — menos saturado que emagrece |
+| Alzheimer/Memória | ~29.000 ads | 2 offers | Médio — poucos players grandes |
+| Disfunção Erétil | ~50.000 ads | 1 offer | Aparentemente 1 dominante no mercado |
+| Visão | ~50.000 ads | 1 offer | Aparentemente 1 dominante |
+| Neuropatia | ~16.000 ads | 1 offer | Emergindo — pouca concorrência |
+| Fungos | ~9.500 ads | 1 offer | Nicho novo — Escudo de Microplástico |
+
+**Insight-chave:** Diabetes está emergindo como o nicho com mais novos entrantes (5 offers no top 20). Emagrecimento com gelatina/sal ainda escala mas começa a saturar. Neuropatia e Fungos/Microplástico são nichos com white space.
+
+---
+
+### Swipe Cards — Top 5
+
+---
+**SWIPE: Celtic Salt Trick - Vigor Peak**
+Produto: Vigor Peak
+Nicho: Disfunção Erétil
+Anúncios: 50.001 | Status: ATIVO | Desde: jan/26
+Idioma: Alemão (Deutsch) | Tráfego: Facebook | Formato: VSL
+
+AVATAR: Homens 45-65 com queda de performance sexual (ou parceiras que buscam solução)
+AWARENESS LEVEL: 3-4 (sabe do problema, não conhece esse mecanismo)
+DRE: Vergonha + desejo de reversão
+
+CRIATIVO OBSERVADO: Mulher em cozinha apresentando ingrediente (sal celta) como "truque secreto"
+MUP: Deficiência de mineral específico → queda de testosterona/circulação
+MUS: "Celtic Salt Trick" — sal celta como repositor do mineral ausente
+ÂNGULO: Mulher revelando truque de cozinha que resolve problema masculino → baixa concorrência de leilão
+
+O QUE ESTÁ FUNCIONANDO: Avatar feminino + ingrediente cotidiano cotidianamente inesperado + mercado alemão (menos saturado que EN/PT)
+O QUE ADAPTAR: Hook de "truque de cozinha" + avatar inesperado (parceiro apresentando solução) para nichos masculinos
+
+---
+**SWIPE: Reversal Ritual - Glyco Lean**
+Produto: Glyco Lean
+Nicho: Diabetes/Glicose
+Anúncios: 33.112 | Status: ATIVO | Desde: mar/26
+Idioma: English | Tráfego: Facebook | Formato: VSL
+
+AVATAR: Diabéticos tipo 2 ou pré-diabéticos frustrados com medicação/dieta
+AWARENESS LEVEL: 3-4
+DRE: Medo de progressão da doença + frustração com soluções convencionais
+
+MUP: "Glicose travada" — mecanismo que impede que a glicose seja regulada normalmente
+MUS: "Reversal Ritual" — protocolo de reversão (não controle) do nível glicêmico
+ÂNGULO: Reversão vs. controle — posiciona contra toda a medicina convencional que só "controla"
+
+O QUE ESTÁ FUNCIONANDO: Palavra "Reversal" (reversão) cria esperança onde concorrentes prometem apenas "controle" — upgrades o desejo de nível 3 para nível 4-5
+O QUE ADAPTAR: Para BioRitmo — usar "Ressincronização" (ação de reversão) em vez de "regulação" ou "melhora"
+
+---
+**SWIPE: GLP-1 Natural com Gelatina - LipoMax**
+Produto: LipoMax
+Nicho: Emagrecimento
+Anúncios: 8.406 | Status: ATIVO | Desde: abr/26
+Idioma: English | Tráfego: Facebook | Formato: VSL
+
+AVATAR: Mulheres 35-55 que ouviram falar do Ozempic mas não querem/podem tomar medicamento
+AWARENESS LEVEL: 4 (conhece solução farmacêutica, busca alternativa)
+DRE: Desejo + raiva com preço/acesso/efeitos colaterais do Ozempic
+
+MUP: "GLP-1 suprimido" — hormônio da saciedade que o corpo para de produzir com a idade
+MUS: "GLP-1 Natural com Gelatina" — gelatina estimula produção natural do mesmo hormônio do Ozempic
+ÂNGULO: Ozempic natural/gratuito — conecta ao farmacêutico famoso sem usar o nome
+
+O QUE ESTÁ FUNCIONANDO: Aproveita o hype do Ozempic sem mencionar, cria desejo em quem já conhece o resultado esperado
+O QUE ADAPTAR: Para BioRitmo — mencionar o que faz sem nomear o farmacêutico equivalente. Ex: "o mesmo mecanismo que os médicos prescrevem, mas via [ingrediente natural]"
+
+---
+**SWIPE: Farmacopéia Temperista**
+Produto: Low Ticket PT-BR
+Nicho: Outros (receitas/temperos)
+Anúncios: 7.407 | Status: ATIVO | Desde: jun/25
+Idioma: PT-BR | Tráfego: Facebook | Formato: Quiz
+
+AVATAR: Brasileiros interessados em saúde natural, receitas caseiras, temperos medicinais
+AWARENESS LEVEL: 2-3
+DRE: Curiosidade + desejo de autonomia na saúde
+
+MUS: "Farmacopéia" (palavra médica) + "Temperista" (popular/cotidiano) = contraste que cria curiosidade
+ÂNGULO: Quiz funnel em PT-BR para low ticket — raríssimo no top 20 (só 2 PT-BR)
+
+O QUE ESTÁ FUNCIONANDO: Único quiz/low ticket em PT-BR escalando — white space enorme. Palavra "Farmacopéia" empresta credibilidade médica a produto popular
+O QUE ADAPTAR: Estrutura de quiz para qualificação antes da oferta principal. Nome com contraste técnico/popular para criar curiosidade imediata
+
+---
+**SWIPE: Escudo de Microplástico**
+Produto: Nutraceutico antifúngico
+Nicho: Fungos/Toxinas
+Anúncios: 9.565 | Status: ATIVO | Desde: jan/26
+Idioma: English | Tráfego: Facebook | Formato: VSL
+
+AVATAR: Pessoas preocupadas com saúde ambiental, microplásticos, toxinas — avatar mais consciente
+AWARENESS LEVEL: 3 (sabe que microplástico é problema, não conhece solução)
+DRE: Medo de contaminação invisível + raiva da indústria/meio ambiente
+
+MUP: Microplásticos acumulados no organismo causam disfunção sistêmica
+MUS: "Escudo" — protocolo de proteção/remoção de microplásticos
+ÂNGULO: Vilão novo (microplástico) = mecanismo não saturado + medo legítimo validado pela mídia
+
+O QUE ESTÁ FUNCIONANDO: Vilão de mídia (microplástico) transformado em MUP específico. Alta emoção + baixa saturação de copy específica para esse vilão
+O QUE ADAPTAR: Monitorar se esse vilão se esgota nos próximos 3 meses. Princípio aplicável: usar vilão recente da mídia como MUP antes de saturar
+
+---
+
 ### Categorias a Monitorar
 
 **Emagrecimento / Metabolismo Feminino (concorrentes do BioRitmo)**
