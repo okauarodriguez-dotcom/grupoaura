@@ -25,36 +25,31 @@ data: 2026-04-13
 - [x] vercel.json + deploy.sh configurados
 - [x] Deploy Vercel feito → https://bioritmo-app.vercel.app
 - [x] Login Vercel configurado no Mac
+- [x] **Supabase** — projeto criado, schema rodado, env vars configuradas
+- [x] **Resend** — API key adicionada na Vercel (re_24ZDG88T_*)
+- [x] **Env vars na Vercel** — todas configuradas + redeploy feito
+- [x] **Webhook Greenn** — endpoint dedicado `/api/webhook/greenn` criado (sem query params)
+  - URL configurada na Greenn: `https://bioritmo-app.vercel.app/api/webhook/greenn`
+  - Teste de webhook: ✅ "Teste enviado com sucesso"
+- [x] **VTurb** — mini VSL configurada com botão no 8:45, link do checkout Greenn
+- [x] **PV v2.0** — reescrita com /copy + análise de concorrentes (C01, C02, C03, Reverse Health)
+  - 14 blocos + P.S.
+  - Garantia dupla, comparação, perguntas de valor emocional, depoimentos específicos
+  - Mockup HTML atualizado (pv-mockup.html)
 
 ---
 
 ## ⏳ Pendente
 
-### Amanhã — Configurações externas
+### Próximos — Pós aprovação do produto na Greenn
 
-- [ ] **Supabase** — criar projeto em supabase.com
-  - Copiar: `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`, `SUPABASE_SERVICE_ROLE_KEY`
-  - SQL Editor → colar `bioritmo-app/supabase-schema.sql` → Run
-
-- [ ] **Resend** — criar conta em resend.com
-  - Copiar: `RESEND_API_KEY`
-  - Definir: `EMAIL_FROM=noreply@bioritmo.com.br`
-
-- [ ] **Env vars na Vercel** — Settings → Environment Variables
-  ```
-  NEXT_PUBLIC_SUPABASE_URL=
-  NEXT_PUBLIC_SUPABASE_ANON_KEY=
-  SUPABASE_SERVICE_ROLE_KEY=
-  RESEND_API_KEY=
-  EMAIL_FROM=
-  WEBHOOK_SECRET_GREENN=
-  NEXT_PUBLIC_APP_URL=https://bioritmo-app.vercel.app
-  ```
-
-- [ ] **Webhook Greenn** — mandar payload para o Claude ajustar o adapter
-  - URL para configurar na Greenn: `https://bioritmo-app.vercel.app/api/webhook/purchase?platform=greenn`
-
+- [ ] **Greenn produto aprovado** → confirmar se checkout está ativo
+- [ ] **Compra teste** — fazer compra real de R$29,90 para validar fluxo completo:
+  - Greenn → webhook → Supabase (cria usuário) → Resend (envia email com magic link)
+  - Clicar no magic link → onboarding → app funcionando
+- [ ] **Greenn "Entrega de Conteúdos"** — adicionar `https://bioritmo-app.vercel.app` como URL externa
 - [ ] **WhatsApp** — adicionar `NEXT_PUBLIC_WHATSAPP_URL` na Vercel quando tiver o grupo
+- [ ] **Inlead — Etapa 33** — montar com VTurb embed + copy da PV v2.0
 
 ---
 
