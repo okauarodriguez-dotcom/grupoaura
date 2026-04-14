@@ -3,13 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>BioRitmo — Mockup PV (Etapa 33)</title>
+<title>BioRitmo — PV Mockup v2.0</title>
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { background: #1a1a1a; font-family: Arial, sans-serif; display: flex; justify-content: center; padding: 20px 0 60px; }
   .page { background: #0a0a0a; width: 375px; color: #fff; }
 
-  /* Helpers */
   .center { text-align: center; }
   .orange { color: #f97316; }
   .zinc { color: #a1a1aa; }
@@ -17,34 +16,27 @@
   .bold { font-weight: 700; }
   .strike { text-decoration: line-through; color: #71717a; }
   .uppercase { text-transform: uppercase; }
-  .small { font-size: 11px; }
   .sep { height: 1px; background: #27272a; margin: 0; }
 
-  /* Blocos */
   .block { padding: 24px 20px; }
   .block-dark { padding: 24px 20px; background: #111111; }
 
-  /* Headline acima do vídeo */
   .headline-top { padding: 20px 20px 0; text-align: center; }
   .headline-top .sub { font-size: 11px; color: #a1a1aa; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 8px; }
   .headline-top .main { font-size: 20px; font-weight: 900; color: #fff; line-height: 1.2; margin-bottom: 6px; }
-  .headline-top .highlight { font-size: 16px; font-weight: 700; color: #f97316; text-decoration: underline; line-height: 1.3; }
+  .headline-top .highlight { font-size: 15px; font-weight: 700; color: #f97316; text-decoration: underline; line-height: 1.3; }
 
-  /* Player placeholder */
   .player { margin: 16px 20px; background: #18181b; border-radius: 12px; height: 210px; display: flex; flex-direction: column; align-items: center; justify-content: center; border: 2px dashed #3f3f46; }
   .player-icon { font-size: 48px; margin-bottom: 8px; }
   .player-label { color: #52525b; font-size: 12px; text-align: center; }
 
-  /* CTA button */
-  .btn { display: block; background: #f97316; color: #fff; font-weight: 900; font-size: 14px; text-align: center; padding: 16px 20px; border-radius: 12px; text-decoration: none; text-transform: uppercase; letter-spacing: 0.5px; }
+  .btn { display: block; background: #f97316; color: #fff; font-weight: 900; font-size: 14px; text-align: center; padding: 16px 20px; border-radius: 12px; text-decoration: none; text-transform: uppercase; letter-spacing: 0.5px; cursor: pointer; }
   .btn-wrap { padding: 16px 20px; }
   .btn-sub { text-align: center; font-size: 11px; color: #71717a; margin-top: 8px; }
 
-  /* Seção título */
-  .section-title { font-size: 18px; font-weight: 900; text-align: center; line-height: 1.3; margin-bottom: 4px; }
+  .section-title { font-size: 17px; font-weight: 900; text-align: center; line-height: 1.3; margin-bottom: 4px; }
   .section-sub { font-size: 12px; color: #a1a1aa; text-align: center; margin-bottom: 16px; }
 
-  /* Depoimento */
   .depo { background: #18181b; border-radius: 12px; padding: 16px; margin-bottom: 12px; }
   .depo-header { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
   .depo-avatar { width: 36px; height: 36px; border-radius: 50%; background: #f97316; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 14px; flex-shrink: 0; }
@@ -53,7 +45,18 @@
   .depo-stars { font-size: 12px; color: #f97316; margin-left: auto; }
   .depo-text { font-size: 13px; color: #d4d4d8; line-height: 1.5; font-style: italic; }
 
-  /* Caixa de preço */
+  /* Tabela de comparação */
+  .compare-table { width: 100%; border-collapse: collapse; font-size: 11px; margin-top: 16px; }
+  .compare-table th { background: #18181b; color: #f97316; padding: 8px 6px; text-align: center; border: 1px solid #27272a; font-size: 10px; }
+  .compare-table th:first-child { text-align: left; }
+  .compare-table td { padding: 8px 6px; border: 1px solid #27272a; text-align: center; color: #a1a1aa; }
+  .compare-table td:first-child { text-align: left; font-weight: 600; color: #fff; }
+  .compare-table tr:nth-child(even) td { background: #0f0f0f; }
+  .compare-table .win { color: #22c55e; font-weight: 700; }
+  .compare-table .lose { color: #ef4444; }
+  .compare-table .warn { color: #f59e0b; }
+  .compare-table .highlight-col { background: #1a0e00 !important; }
+
   .price-box { background: #18181b; border: 2px solid #f97316; border-radius: 16px; padding: 20px; margin: 0 20px; text-align: center; }
   .price-tag { background: #f97316; color: #fff; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; padding: 4px 12px; border-radius: 20px; display: inline-block; margin-bottom: 12px; }
   .price-from { font-size: 15px; color: #71717a; text-decoration: line-through; margin-bottom: 4px; }
@@ -62,57 +65,75 @@
   .price-label { font-size: 13px; color: #a1a1aa; margin-bottom: 4px; }
   .price-install { font-size: 12px; color: #71717a; margin-bottom: 16px; }
 
-  /* Empilhamento de valor */
-  .checks { display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin-bottom: 16px; }
-  .check-item { font-size: 12px; color: #22c55e; font-weight: 600; }
+  /* Perguntas de valor */
+  .value-questions { background: #0a0a0a; padding: 32px 20px; text-align: center; }
+  .value-questions .vq-label { font-size: 11px; color: #a1a1aa; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 20px; }
+  .value-questions .vq-item { font-size: 17px; font-weight: 700; color: #fff; line-height: 1.4; margin-bottom: 20px; padding-bottom: 20px; border-bottom: 1px solid #18181b; }
+  .value-questions .vq-item:last-of-type { border-bottom: none; }
+  .value-questions .vq-close { font-size: 18px; font-weight: 900; color: #f97316; margin-top: 8px; line-height: 1.4; }
+
+  .checks { display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-bottom: 16px; }
+  .check-item { font-size: 11px; color: #22c55e; font-weight: 600; }
   .entregavel { background: #18181b; border-radius: 12px; padding: 14px; margin-bottom: 10px; }
   .entregavel-header { display: flex; align-items: flex-start; gap: 10px; margin-bottom: 6px; }
   .entregavel-emoji { font-size: 20px; flex-shrink: 0; }
-  .entregavel-title { font-size: 14px; font-weight: 700; color: #fff; }
+  .entregavel-title { font-size: 13px; font-weight: 700; color: #fff; }
   .entregavel-price { font-size: 11px; color: #71717a; text-decoration: line-through; margin-left: auto; flex-shrink: 0; }
   .entregavel-desc { font-size: 12px; color: #a1a1aa; line-height: 1.5; padding-left: 30px; }
+  .entregavel-benefit { font-size: 11px; color: #22c55e; padding-left: 30px; margin-top: 4px; font-style: italic; }
   .exclusivo { font-size: 10px; background: #f97316; color: #fff; padding: 2px 7px; border-radius: 10px; font-weight: 700; margin-left: 6px; }
 
-  /* Mockup placeholder */
   .mockup { background: #18181b; border-radius: 12px; height: 160px; display: flex; flex-direction: column; align-items: center; justify-content: center; border: 2px dashed #3f3f46; margin-bottom: 16px; }
   .mockup-label { color: #52525b; font-size: 12px; text-align: center; }
 
-  /* Bônus */
   .bonus { background: #18181b; border-radius: 12px; padding: 14px; margin-bottom: 10px; display: flex; gap: 12px; align-items: flex-start; }
   .bonus-num { font-size: 22px; flex-shrink: 0; }
   .bonus-title { font-size: 13px; font-weight: 700; color: #f97316; margin-bottom: 4px; }
   .bonus-price { font-size: 11px; color: #71717a; text-decoration: line-through; }
   .bonus-desc { font-size: 12px; color: #a1a1aa; line-height: 1.5; margin-top: 4px; }
 
-  /* Timeline */
+  .total-value { text-align: center; padding: 16px 20px; background: #0f0f0f; border-top: 1px solid #27272a; border-bottom: 1px solid #27272a; }
+  .total-value .tv-label { font-size: 13px; color: #71717a; margin-bottom: 4px; }
+  .total-value .tv-total { font-size: 15px; color: #71717a; text-decoration: line-through; }
+  .total-value .tv-price { font-size: 24px; font-weight: 900; color: #f97316; }
+
   .timeline { padding: 0 20px; }
   .timeline-item { display: flex; gap: 16px; padding-bottom: 24px; position: relative; }
   .timeline-item:not(:last-child)::before { content: ''; position: absolute; left: 19px; top: 38px; bottom: 0; width: 2px; background: #f97316; opacity: 0.3; }
-  .timeline-dot { width: 40px; height: 40px; border-radius: 50%; background: #f97316; display: flex; align-items: center; justify-content: center; font-weight: 900; font-size: 12px; flex-shrink: 0; }
+  .timeline-dot { width: 40px; height: 40px; border-radius: 50%; background: #f97316; display: flex; align-items: center; justify-content: center; font-weight: 900; font-size: 11px; flex-shrink: 0; }
   .timeline-content { padding-top: 8px; }
   .timeline-day { font-size: 11px; font-weight: 700; color: #f97316; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px; }
   .timeline-text { font-size: 13px; color: #d4d4d8; line-height: 1.5; }
 
-  /* Garantia */
+  /* Garantia dupla */
   .garantia-seal { width: 120px; height: 120px; border-radius: 50%; background: radial-gradient(circle, #854d0e, #431407); border: 4px solid #f97316; display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 0 auto 16px; }
   .garantia-seal .pct { font-size: 32px; font-weight: 900; color: #f97316; }
   .garantia-seal .lbl { font-size: 9px; color: #fdba74; text-transform: uppercase; letter-spacing: 1px; }
   .garantia-text { font-size: 13px; color: #d4d4d8; line-height: 1.6; text-align: center; margin-bottom: 8px; }
-  .garantia-bold { font-size: 14px; font-weight: 700; text-align: center; margin-bottom: 8px; }
-  .garantia-diff { font-size: 12px; color: #f97316; text-align: center; font-style: italic; }
+  .garantia-bold { font-size: 14px; font-weight: 700; text-align: center; margin-bottom: 12px; }
+  .garantia-dupla { background: #18181b; border: 1px solid #f97316; border-radius: 12px; padding: 16px; margin-bottom: 12px; text-align: center; }
+  .garantia-dupla .gd-title { font-size: 15px; font-weight: 900; color: #f97316; margin-bottom: 8px; }
+  .garantia-dupla .gd-text { font-size: 13px; color: #d4d4d8; line-height: 1.5; }
+  .garantia-diff { font-size: 12px; color: #a1a1aa; text-align: center; font-style: italic; margin-top: 8px; }
 
-  /* FAQ */
+  /* P.S. */
+  .ps-block { background: #0f0f0f; border-left: 3px solid #f97316; padding: 20px; margin: 0 20px 24px; }
+  .ps-block .ps-label { font-size: 11px; color: #f97316; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; }
+  .ps-block p { font-size: 13px; color: #a1a1aa; line-height: 1.6; margin-bottom: 10px; }
+  .ps-block .ps-bold { font-size: 13px; font-weight: 700; color: #fff; }
+
   .faq-item { border-bottom: 1px solid #27272a; padding: 14px 0; }
   .faq-q { font-size: 14px; font-weight: 700; color: #fff; margin-bottom: 6px; display: flex; align-items: flex-start; gap: 8px; }
   .faq-q::before { content: '❓'; font-size: 14px; flex-shrink: 0; }
   .faq-a { font-size: 13px; color: #a1a1aa; line-height: 1.6; padding-left: 22px; }
 
-  /* Security bar */
-  .security { display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; margin-top: 10px; }
+  .security { display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin-top: 10px; }
   .security-item { font-size: 11px; color: #71717a; display: flex; align-items: center; gap: 4px; }
 
-  /* Label indicador de bloco */
   .block-label { background: #1c1c1e; border-left: 3px solid #f97316; padding: 4px 10px; font-size: 10px; color: #f97316; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 0; }
+
+  .app-exclusivo { background: linear-gradient(135deg, #431407, #1a0800); border: 1px solid #f97316; border-radius: 12px; padding: 14px 16px; margin-bottom: 16px; text-align: center; }
+  .app-exclusivo p { font-size: 13px; font-weight: 700; color: #f97316; line-height: 1.4; }
 </style>
 </head>
 <body>
@@ -121,29 +142,29 @@
   <!-- BLOCO 1 — HEADLINE -->
   <div class="block-label">BLOCO 1 — HEADLINE ACIMA DO VÍDEO</div>
   <div class="headline-top">
-    <p class="sub">ASSISTA ESSE VÍDEO ATÉ O FINAL PARA LIBERAR SEU PROTOCOLO</p>
-    <p class="main">E RESSINCRONIZE SEU RELÓGIO METABÓLICO EM 21 DIAS</p>
-    <p class="highlight">MESMO QUE VOCÊ JÁ TENHA TENTADO DE TUDO E NADA TENHA FUNCIONADO</p>
+    <p class="sub">VOCÊ COMPLETOU O DIAGNÓSTICO — AQUI ESTÁ SEU PLANO PERSONALIZADO</p>
+    <p class="main">RESSINCRONIZE SEU RELÓGIO METABÓLICO EM 21 DIAS</p>
+    <p class="highlight">MESMO QUE VOCÊ JÁ TENHA TENTADO JEJUM, LOW CARB E ACADEMIA SEM RESULTADO</p>
   </div>
 
   <!-- BLOCO 2 — PLAYER VTURB -->
   <div class="block-label" style="margin-top:16px">BLOCO 2 — PLAYER VTURB</div>
   <div class="player">
     <div class="player-icon">▶️</div>
-    <div class="player-label">[ EMBED VTURB AQUI ]<br>Configurar botão aparecer após pitch</div>
+    <div class="player-label">[ EMBED VTURB AQUI ]<br>Botão aparece aos 8:45</div>
   </div>
 
   <!-- BLOCO 3 — CTA 1 -->
   <div class="block-label">BLOCO 3 — PRIMEIRO CTA</div>
   <div class="btn-wrap">
-    <div class="btn">QUERO RESSINCRONIZAR MEU RELÓGIO METABÓLICO AGORA →</div>
-    <p class="btn-sub">✅ Pagamento único &nbsp;·&nbsp; ✅ Sem mensalidade &nbsp;·&nbsp; ✅ Acesso imediato no celular</p>
+    <div class="btn">SIM, QUERO RESSINCRONIZAR MEU RELÓGIO METABÓLICO AGORA →</div>
+    <p class="btn-sub">🔒 Pagamento 100% seguro · Sem mensalidade · Acesso imediato</p>
   </div>
 
   <div class="sep"></div>
 
-  <!-- BLOCO 4 — PROVA SOCIAL -->
-  <div class="block-label">BLOCO 4 — PROVA SOCIAL IMEDIATA</div>
+  <!-- BLOCO 4 — PROVA SOCIAL COM NÚMEROS -->
+  <div class="block-label">BLOCO 4 — PROVA SOCIAL COM NÚMEROS</div>
   <div class="block">
     <p class="section-title">MULHERES QUE JÁ RESSINCRONIZARAM O RELÓGIO METABÓLICO</p>
     <p class="section-sub">[ INSERIR CARROSSEL FOTOS ANTES/DEPOIS ]</p>
@@ -158,11 +179,11 @@
         <div class="depo-avatar">R</div>
         <div>
           <div class="depo-name">Rosana F., 54 anos</div>
-          <div class="depo-role">Professora</div>
+          <div class="depo-role">Professora · São Paulo</div>
         </div>
         <div class="depo-stars">⭐⭐⭐⭐⭐</div>
       </div>
-      <div class="depo-text">"Minha barriga da menopausa desinchou nos primeiros 3 dias. Em 21 dias perdi 7kg e voltei a usar calças que estavam guardadas há 2 anos."</div>
+      <div class="depo-text">"Nos primeiros 3 dias minha barriga desinchou visivelmente. Em 21 dias perdi 7kg e voltei a usar calças que estavam guardadas há 2 anos. Chorei quando fechou o botão."</div>
     </div>
 
     <div class="depo">
@@ -170,11 +191,11 @@
         <div class="depo-avatar">C</div>
         <div>
           <div class="depo-name">Cristina M., 58 anos</div>
-          <div class="depo-role">Aposentada</div>
+          <div class="depo-role">Aposentada · Belo Horizonte</div>
         </div>
         <div class="depo-stars">⭐⭐⭐⭐⭐</div>
       </div>
-      <div class="depo-text">"Falei que meu corpo travou. O Dr. Eduardo me mostrou que era o relógio, não eu. Semana 2 completa: 4kg a menos e durmindo como não dormia há anos."</div>
+      <div class="depo-text">"Semana 1: 2kg a menos. Semana 2: mais 2kg. Durmo como não dormia há anos. O Dr. Eduardo me mostrou que o problema era o relógio, não eu. Isso mudou tudo."</div>
     </div>
 
     <div class="depo">
@@ -182,18 +203,82 @@
         <div class="depo-avatar">A</div>
         <div>
           <div class="depo-name">Ana Paula R., 51 anos</div>
-          <div class="depo-role">Técnica em enfermagem</div>
+          <div class="depo-role">Técnica em enfermagem · Curitiba</div>
         </div>
         <div class="depo-stars">⭐⭐⭐⭐⭐</div>
       </div>
-      <div class="depo-text">"Faço tudo certo e não emagreço, foi o que pensei por anos. O app chegou no meu celular e em 7 dias a balança já me deu uma resposta diferente."</div>
+      <div class="depo-text">"Eu fazia dieta, ia na academia, tomava shake. Meu corpo não respondia. Em 7 dias com o BioRitmo a balança foi na direção certa pela primeira vez em 3 anos."</div>
     </div>
   </div>
 
   <div class="sep"></div>
 
-  <!-- BLOCO 5 — CAIXA DE PREÇO -->
-  <div class="block-label">BLOCO 5 — CAIXA DE URGÊNCIA + PREÇO</div>
+  <!-- BLOCO 5 — COMPARAÇÃO (NOVO) -->
+  <div class="block-label">BLOCO 5 — COMPARAÇÃO VS OUTROS MÉTODOS ✨ NOVO</div>
+  <div class="block-dark">
+    <p class="section-title" style="margin-bottom:12px">POR QUE O BIORITMO FUNCIONA QUANDO OS OUTROS MÉTODOS FALHARAM</p>
+    <table class="compare-table">
+      <thead>
+        <tr>
+          <th></th>
+          <th>Dieta</th>
+          <th>Academia</th>
+          <th>Jejum<br>Genérico</th>
+          <th style="color:#f97316">BioRitmo</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Causa raiz</td>
+          <td class="lose">❌</td>
+          <td class="lose">❌</td>
+          <td class="lose">❌</td>
+          <td class="win highlight-col">✅</td>
+        </tr>
+        <tr>
+          <td>Para menopausa</td>
+          <td class="lose">❌</td>
+          <td class="lose">❌</td>
+          <td class="lose">❌</td>
+          <td class="win highlight-col">✅</td>
+        </tr>
+        <tr>
+          <td>Avisa na hora certa</td>
+          <td class="lose">❌</td>
+          <td class="lose">❌</td>
+          <td class="lose">❌</td>
+          <td class="win highlight-col">✅</td>
+        </tr>
+        <tr>
+          <td>Sem passar fome</td>
+          <td class="lose">❌</td>
+          <td class="warn">⚠️</td>
+          <td class="lose">❌</td>
+          <td class="win highlight-col">✅</td>
+        </tr>
+        <tr>
+          <td>Resultado em dias</td>
+          <td class="warn">Semanas</td>
+          <td class="lose">Meses</td>
+          <td class="warn">Variável</td>
+          <td class="win highlight-col">Dia 3+</td>
+        </tr>
+        <tr>
+          <td>Preço</td>
+          <td class="zinc-dark">Varia</td>
+          <td class="lose">R$100+/mês</td>
+          <td class="zinc-dark">Grátis errado</td>
+          <td class="win highlight-col">R$29,90</td>
+        </tr>
+      </tbody>
+    </table>
+    <p style="font-size:11px;color:#71717a;text-align:center;font-style:italic;margin-top:12px">Não é falta de força de vontade. É que os outros métodos não foram feitos para o seu relógio metabólico na menopausa.</p>
+  </div>
+
+  <div class="sep"></div>
+
+  <!-- BLOCO 6 — CAIXA DE PREÇO -->
+  <div class="block-label">BLOCO 6 — CAIXA DE URGÊNCIA + PREÇO</div>
   <div class="block">
     <div class="price-box">
       <span class="price-tag">🔥 ÚLTIMAS VAGAS — 94% OFF</span>
@@ -201,19 +286,36 @@
       <p class="price-main"><span>R$</span>29,90</p>
       <p class="price-label" style="margin-top:4px">à vista</p>
       <p class="price-install">ou 12x de R$2,49 no cartão</p>
-      <div class="btn">GARANTIR MEU ACESSO AGORA →</div>
-      <p class="btn-sub" style="margin-top:8px">Pagamento único · Sem mensalidade · Sem renovação</p>
+      <div class="btn">QUERO MEU ACESSO AO BIORITMO POR R$29,90 →</div>
+      <p class="btn-sub" style="margin-top:8px">Pagamento único · Sem mensalidade · Sem renovação automática</p>
     </div>
   </div>
 
   <div class="sep"></div>
 
-  <!-- BLOCO 6 — EMPILHAMENTO DE VALOR -->
-  <div class="block-label">BLOCO 6 — EMPILHAMENTO DE VALOR</div>
-  <div class="block">
-    <p class="section-title">VEJA TUDO QUE VOCÊ VAI RECEBER PARA RESSINCRONIZAR SEU RELÓGIO METABÓLICO</p>
+  <!-- BLOCO 7 — PERGUNTAS DE VALOR EMOCIONAL (NOVO) -->
+  <div class="block-label">BLOCO 7 — PERGUNTAS DE VALOR EMOCIONAL ✨ NOVO</div>
+  <div class="value-questions">
+    <p class="vq-label">ANTES DE CONTINUAR — UMA PERGUNTA HONESTA:</p>
+    <p class="vq-item">Quanto vale pra você se olhar no espelho de manhã e gostar do que vê?</p>
+    <p class="vq-item">Quanto vale entrar numa roupa que ficou no armário por 2 anos — e ela vestir?</p>
+    <p class="vq-item">Quanto vale sentir energia antes do meio dia sem precisar de café?</p>
+    <p class="vq-item">Quanto vale brincar com seus netos sem ficar sem fôlego?</p>
+    <p class="vq-close">Por R$29,90 — menos do que um almoço fora — você descobre a resposta para todas essas perguntas.</p>
+  </div>
 
-    <div class="mockup" style="margin-top:16px">
+  <div class="sep"></div>
+
+  <!-- BLOCO 8 — EMPILHAMENTO DE VALOR -->
+  <div class="block-label">BLOCO 8 — EMPILHAMENTO DE VALOR</div>
+  <div class="block">
+    <p class="section-title">VEJA TUDO QUE VOCÊ RECEBE PARA RESSINCRONIZAR SEU RELÓGIO METABÓLICO</p>
+
+    <div class="app-exclusivo" style="margin-top:16px">
+      <p>O ÚNICO APP BRASILEIRO DE JEJUM INTERMITENTE<br>DESENVOLVIDO ESPECIFICAMENTE PARA A MENOPAUSA</p>
+    </div>
+
+    <div class="mockup">
       <div style="font-size:32px">📱</div>
       <div class="mockup-label">[ MOCKUP DO APP — tela do relógio metabólico ]</div>
     </div>
@@ -231,7 +333,8 @@
         <span class="entregavel-title">Protocolo de Jejum Personalizado — 21 dias</span>
         <span class="entregavel-price">R$197</span>
       </div>
-      <div class="entregavel-desc">Com os horários calibrados para o SEU ritmo hormonal. Não é jejum genérico do YouTube. É o protocolo do Dr. Eduardo, ajustado para o metabolismo da menopausa.</div>
+      <div class="entregavel-desc">Com os horários calibrados para o SEU ritmo hormonal — não para uma mulher genérica de 30 anos.</div>
+      <div class="entregavel-benefit">→ Você segue um plano feito para o seu corpo, não para o de outra pessoa.</div>
     </div>
 
     <div class="entregavel">
@@ -240,7 +343,8 @@
         <span class="entregavel-title">Calculadora do Relógio Metabólico</span>
         <span class="entregavel-price">R$47</span>
       </div>
-      <div class="entregavel-desc">Define os horários exatos do seu jejum com base no seu perfil. O app calcula. Você só segue.</div>
+      <div class="entregavel-desc">Define os horários exatos do seu jejum com base no seu perfil hormonal. Você responde uma vez. O app calcula.</div>
+      <div class="entregavel-benefit">→ Nenhum outro app no Brasil faz isso.</div>
     </div>
 
     <div class="entregavel">
@@ -248,7 +352,7 @@
         <span class="entregavel-emoji">🔔</span>
         <span class="entregavel-title">Notificações Inteligentes <span class="exclusivo">EXCLUSIVO</span></span>
       </div>
-      <div class="entregavel-desc">O app te avisa na hora certa de começar e quebrar o jejum. Você não precisa lembrar de nada. O BioRitmo lembra por você.</div>
+      <div class="entregavel-desc">O app te avisa na hora exata de começar e quebrar o jejum. Você não precisa lembrar de nada.</div>
     </div>
 
     <div class="entregavel">
@@ -257,7 +361,7 @@
         <span class="entregavel-title">Plano Alimentar Anti-Inflamatório</span>
         <span class="entregavel-price">R$97</span>
       </div>
-      <div class="entregavel-desc">Específico para menopausa. Sem contar caloria. Sem cortar o que você gosta. Sem passar fome.</div>
+      <div class="entregavel-desc">Específico para menopausa. Sem contar caloria. Sem cortar o que você gosta.</div>
     </div>
 
     <div class="entregavel">
@@ -265,32 +369,32 @@
         <span class="entregavel-emoji">📊</span>
         <span class="entregavel-title">Monitor de Progresso Diário <span class="exclusivo">EXCLUSIVO</span></span>
       </div>
-      <div class="entregavel-desc">Acompanha a ressincronização do seu metabolismo dia a dia. Você vê o relógio voltando a funcionar em tempo real.</div>
+      <div class="entregavel-desc">Acompanha a ressincronização do seu metabolismo dia a dia. Você vê o relógio voltando a funcionar.</div>
     </div>
 
     <div class="btn-wrap" style="padding: 16px 0 0;">
-      <div class="btn">QUERO MEU ACESSO AO BIORITMO →</div>
+      <div class="btn">QUERO COMEÇAR MEU PROTOCOLO PERSONALIZADO →</div>
     </div>
   </div>
 
   <div class="sep"></div>
 
-  <!-- BLOCO 7 — BÔNUS -->
-  <div class="block-label">BLOCO 7 — BÔNUS (framing de presente)</div>
+  <!-- BLOCO 9 — BÔNUS -->
+  <div class="block-label">BLOCO 9 — BÔNUS (presentes)</div>
   <div class="block">
-    <p class="section-title">EU AINDA QUERO TE DAR MAIS ALGUNS PRESENTES 🎁</p>
-    <p class="section-sub">Porque você merece ver resultado já nos primeiros dias</p>
+    <p class="section-title">EU AINDA QUERO TE DAR 4 PRESENTES 🎁</p>
+    <p class="section-sub">Porque você merece ver resultado já nos primeiros dias — não na semana 3</p>
 
     <div class="mockup">
       <div style="font-size:32px">🎁</div>
-      <div class="mockup-label">[ MOCKUP 4 BÔNUS EMPILHADOS — celulares/ebooks ]</div>
+      <div class="mockup-label">[ MOCKUP 4 BÔNUS EMPILHADOS ]</div>
     </div>
 
     <div class="bonus">
       <div class="bonus-num">🎁</div>
       <div>
         <div class="bonus-title">PRESENTE 1 — Receita do Ozempic Natural <span style="color:#71717a;text-decoration:line-through;font-size:11px">R$47</span></div>
-        <div class="bonus-desc">A receita caseira que viralizou por ter efeitos similares às injeções de emagrecimento, sem custar R$1.500 por mês e sem efeito colateral.</div>
+        <div class="bonus-desc">A receita caseira que viralizou com efeitos similares às canetinhas de R$1.500. Sem efeito colateral, sem receita médica.</div>
       </div>
     </div>
 
@@ -298,7 +402,7 @@
       <div class="bonus-num">🎁</div>
       <div>
         <div class="bonus-title">PRESENTE 2 — Protocolo Desincha 3 Dias <span style="color:#71717a;text-decoration:line-through;font-size:11px">R$37</span></div>
-        <div class="bonus-desc">Para você ver resultado nos primeiros dias e se manter motivada. A barriga da menopausa começa a ceder já na primeira semana.</div>
+        <div class="bonus-desc">Para você ver diferença no espelho já nos primeiros 3 dias. A maioria das mulheres perde 1 a 2kg de retenção nas primeiras 72h.</div>
       </div>
     </div>
 
@@ -306,7 +410,7 @@
       <div class="bonus-num">🎁</div>
       <div>
         <div class="bonus-title">PRESENTE 3 — Guia Anti-Efeito Sanfona <span style="color:#71717a;text-decoration:line-through;font-size:11px">R$47</span></div>
-        <div class="bonus-desc">Por que o peso sempre voltou antes — e como o BioRitmo resolve isso de vez ressincronizando o relógio, não só restringindo calorias.</div>
+        <div class="bonus-desc">Por que o peso sempre voltou antes — e como o BioRitmo resolve isso de vez. Você vai entender seu corpo de um jeito que ninguém nunca te explicou.</div>
       </div>
     </div>
 
@@ -314,8 +418,14 @@
       <div class="bonus-num">🎁</div>
       <div>
         <div class="bonus-title">PRESENTE 4 — Comunidade Privada BioRitmo <span style="color:#71717a;text-decoration:line-through;font-size:11px">R$67</span></div>
-        <div class="bonus-desc">Grupo exclusivo de mulheres na menopausa em ressincronização. Suporte, motivação e resultados reais direto no seu celular.</div>
+        <div class="bonus-desc">Grupo exclusivo de mulheres na menopausa em ressincronização. Suporte, motivação e resultados reais direto no celular.</div>
       </div>
+    </div>
+
+    <div class="total-value">
+      <div class="tv-label">Valor total de tudo que você recebe:</div>
+      <div class="tv-total">R$539,00</div>
+      <div class="tv-price">Seu investimento: R$29,90</div>
     </div>
 
     <div class="btn-wrap" style="padding: 16px 0 0;">
@@ -325,21 +435,21 @@
 
   <div class="sep"></div>
 
-  <!-- BLOCO 8 — PROVA SOCIAL 2 -->
-  <div class="block-label">BLOCO 8 — SEGUNDA PROVA SOCIAL</div>
+  <!-- BLOCO 10 — PROVA SOCIAL 2 -->
+  <div class="block-label">BLOCO 10 — SEGUNDA PROVA SOCIAL</div>
   <div class="block">
-    <p class="section-title" style="margin-bottom:16px">APROVADO POR MULHERES COMO VOCÊ</p>
+    <p class="section-title" style="margin-bottom:16px">MAIS MULHERES QUE JÁ MUDARAM O RELÓGIO</p>
 
     <div class="depo">
       <div class="depo-header">
         <div class="depo-avatar">V</div>
         <div>
           <div class="depo-name">Vera L., 62 anos</div>
-          <div class="depo-role">Dona de casa</div>
+          <div class="depo-role">Dona de casa · Rio de Janeiro</div>
         </div>
         <div class="depo-stars">⭐⭐⭐⭐⭐</div>
       </div>
-      <div class="depo-text">"Não reconhecia mais meu corpo depois dos 55. Achei que era só a idade. O Dr. Eduardo me mostrou que era o relógio. Em 10 dias a minha calça da semana passada estava folgada."</div>
+      <div class="depo-text">"Não reconhecia mais meu corpo depois dos 55. Com 10 dias de BioRitmo a minha calça preferida fechou. Não a calça nova — a calça que eu guardei achando que nunca ia servir de novo."</div>
     </div>
 
     <div class="depo">
@@ -347,18 +457,18 @@
         <div class="depo-avatar">M</div>
         <div>
           <div class="depo-name">Margarida S., 49 anos</div>
-          <div class="depo-role">Comerciante</div>
+          <div class="depo-role">Comerciante · Fortaleza</div>
         </div>
         <div class="depo-stars">⭐⭐⭐⭐⭐</div>
       </div>
-      <div class="depo-text">"Tentei low carb, academia, shake. Tudo parava no efeito sanfona. O BioRitmo foi a primeira coisa que atacou o problema de verdade. Inchaço saiu em 3 dias."</div>
+      <div class="depo-text">"Tentei low carb por 4 meses, academia por 6, shake por 2. O inchaço sumiu em 3 dias com o BioRitmo. Não entendi direito — só sei que funcionou."</div>
     </div>
   </div>
 
   <div class="sep"></div>
 
-  <!-- BLOCO 9 — TIMELINE -->
-  <div class="block-label">BLOCO 9 — TIMELINE DE RESULTADOS (diferencial)</div>
+  <!-- BLOCO 11 — TIMELINE -->
+  <div class="block-label">BLOCO 11 — TIMELINE DE RESULTADOS</div>
   <div class="block">
     <p class="section-title" style="margin-bottom:20px">O QUE ACONTECE COM SEU CORPO QUANDO O RELÓGIO VOLTA A FUNCIONAR</p>
     <div class="timeline">
@@ -373,19 +483,18 @@
         <div class="timeline-dot">D7</div>
         <div class="timeline-content">
           <div class="timeline-day">📍 DIA 7</div>
-          <div class="timeline-text">A balança responde. Seu metabolismo começa a funcionar de um jeito que você não via há anos. O relógio está acordando.</div>
+          <div class="timeline-text">A balança responde. A maioria das mulheres perde entre 1,5 a 3kg na primeira semana. Sem passar fome.</div>
         </div>
       </div>
       <div class="timeline-item">
         <div class="timeline-dot">D21</div>
         <div class="timeline-content">
           <div class="timeline-day">📍 DIA 21</div>
-          <div class="timeline-text">Relógio Metabólico ressincronizado. Roupas mais largas. Energia de volta. Aquela sensação de controle sobre o próprio corpo — de volta.</div>
+          <div class="timeline-text">Relógio Metabólico ressincronizado. Roupas mais largas. Energia de volta. Aquela sensação de controle sobre o próprio corpo — de volta. Para ficar.</div>
         </div>
       </div>
     </div>
-    <p style="font-size:12px;color:#71717a;text-align:center;font-style:italic;margin-top:8px">Não é magia. É cronobiologia hormonal aplicada ao corpo feminino na menopausa.</p>
-
+    <p style="font-size:12px;color:#71717a;text-align:center;font-style:italic;margin-top:8px">Não é promessa. É cronobiologia hormonal aplicada ao corpo feminino na menopausa.</p>
     <div class="btn-wrap" style="padding: 16px 0 0;">
       <div class="btn">QUERO COMEÇAR MEU DIA 1 HOJE →</div>
     </div>
@@ -393,24 +502,31 @@
 
   <div class="sep"></div>
 
-  <!-- BLOCO 10 — GARANTIA -->
-  <div class="block-label">BLOCO 10 — GARANTIA 30 DIAS</div>
+  <!-- BLOCO 12 — GARANTIA DUPLA (ATUALIZADO) -->
+  <div class="block-label">BLOCO 12 — GARANTIA DUPLA ✨ ATUALIZADO</div>
   <div class="block" style="text-align:center">
-    <p class="section-title" style="margin-bottom:16px">TESTE O BIORITMO POR 30 DIAS — RISCO ZERO</p>
+    <p class="section-title" style="margin-bottom:16px">TESTE O BIORITMO POR 30 DIAS — RISCO ZERO.<br>NA VERDADE, RISCO NEGATIVO.</p>
     <div class="garantia-seal">
       <div class="lbl">GARANTIA</div>
       <div class="pct">100%</div>
       <div class="lbl">BLINDADA</div>
     </div>
-    <p class="garantia-text">Você entra, instala o app no celular, segue o protocolo do Dr. Eduardo.<br><br>Se em 30 dias você não tiver visto nenhuma diferença no seu corpo — me manda uma mensagem e eu devolvo 100% do seu dinheiro.</p>
+    <p class="garantia-text">Você entra, instala o app, segue o protocolo do Dr. Eduardo.<br><br>Se em 30 dias você não tiver visto nenhuma diferença — eu devolvo 100% do seu dinheiro.</p>
     <p class="garantia-bold">Sem perguntas. Sem burocracia. Simples assim.</p>
-    <p class="garantia-diff">30 dias de garantia — muito mais do que os 7 dias que os outros oferecem</p>
+
+    <div class="garantia-dupla">
+      <div class="gd-title">MAS EU VOU ALÉM:</div>
+      <div class="gd-text">Se você aplicar o protocolo por 30 dias e não tiver nenhum resultado — além de devolver seu dinheiro, <strong style="color:#f97316">vou tirar R$200 do meu próprio bolso e te dar pelo tempo perdido.</strong></div>
+    </div>
+
+    <p style="font-size:15px;font-weight:900;color:#f97316;margin:12px 0">Ou você emagrece com o BioRitmo.<br>Ou você ganha R$200.</p>
+    <p class="garantia-diff">30 dias — 4x mais do que os 7 dias que a maioria dos concorrentes oferece</p>
   </div>
 
   <div class="sep"></div>
 
-  <!-- BLOCO 11 — PREÇO FINAL -->
-  <div class="block-label">BLOCO 11 — PREÇO FINAL + CTA</div>
+  <!-- BLOCO 13 — PREÇO FINAL + CTA -->
+  <div class="block-label">BLOCO 13 — PREÇO FINAL + CTA PRINCIPAL</div>
   <div class="block">
     <div class="price-box">
       <span class="price-tag">🔥 ÚLTIMAS VAGAS — 94% DE DESCONTO</span>
@@ -423,59 +539,75 @@
         <span title="Cartão">💳</span>
         <span title="Boleto">📄</span>
       </div>
-      <div class="btn">✅ QUERO RESSINCRONIZAR MEU RELÓGIO METABÓLICO POR R$29,90 →</div>
+      <div class="btn">✅ SIM — QUERO RESSINCRONIZAR MEU RELÓGIO METABÓLICO POR R$29,90 →</div>
     </div>
     <div class="security" style="margin-top:14px">
       <span class="security-item">🔒 Compra 100% segura</span>
       <span class="security-item">⚡ Acesso imediato</span>
-      <span class="security-item">🛡️ Garantia 30 dias</span>
+      <span class="security-item">🛡️ Garantia 30 dias + R$200</span>
     </div>
   </div>
 
   <div class="sep"></div>
 
-  <!-- BLOCO 12 — FAQ -->
-  <div class="block-label">BLOCO 12 — FAQ</div>
+  <!-- BLOCO 14 — FAQ -->
+  <div class="block-label">BLOCO 14 — FAQ</div>
   <div class="block">
     <p class="section-title" style="margin-bottom:16px">PERGUNTAS FREQUENTES</p>
 
     <div class="faq-item">
       <div class="faq-q">Preciso ter experiência com jejum?</div>
-      <div class="faq-a">Não. O protocolo começa com janelas curtas e vai calibrando gradualmente. O app te guia no ritmo certo para o seu metabolismo, sem sofrimento.</div>
+      <div class="faq-a">Não. O protocolo começa com janelas curtas e vai calibrando gradualmente. A maioria das mulheres diz que foi muito mais fácil do que esperava.</div>
     </div>
     <div class="faq-item">
       <div class="faq-q">Funciona para pré-menopausa ou pós-menopausa?</div>
-      <div class="faq-a">Sim. A calculadora do relógio ajusta a janela para cada fase da transição hormonal — dos 40 aos 70 anos.</div>
+      <div class="faq-a">Sim. A calculadora ajusta a janela para cada fase — dos 40 aos 70 anos.</div>
     </div>
     <div class="faq-item">
       <div class="faq-q">Vou passar fome?</div>
-      <div class="faq-a">Não da forma que você imagina. O jejum personalizado respeita os ciclos hormonais que controlam a fome. A maioria das mulheres relata que a fome diminui depois do dia 3.</div>
+      <div class="faq-a">Não da forma que você imagina. A maioria das mulheres relata que a fome diminui depois do dia 3 — porque o relógio está sendo ressincronizado.</div>
     </div>
     <div class="faq-item">
       <div class="faq-q">Como vou receber o app?</div>
-      <div class="faq-a">Assim que confirmar o pagamento, você recebe um email com o link de acesso. Abre no celular, instala na tela inicial — sem precisar de App Store.</div>
+      <div class="faq-a">Você recebe um email com o link de acesso em menos de 5 minutos após o pagamento. Instala na tela inicial do celular — sem App Store.</div>
     </div>
     <div class="faq-item">
-      <div class="faq-q">Quanto tempo preciso dedicar por dia?</div>
+      <div class="faq-q">Quanto tempo preciso por dia?</div>
       <div class="faq-a">O check-in leva 30 segundos. O protocolo se encaixa na rotina que você já tem.</div>
     </div>
     <div class="faq-item">
       <div class="faq-q">E se eu não tiver resultado?</div>
-      <div class="faq-a">Você tem 30 dias de garantia incondicional. Devolvemos 100% do seu dinheiro sem perguntas.</div>
+      <div class="faq-a">30 dias de garantia incondicional. Devolvemos 100% + R$200 do bolso do Dr. Eduardo. Você literalmente não pode sair perdendo.</div>
     </div>
     <div class="faq-item">
-      <div class="faq-q">Posso usar junto com medicação da menopausa?</div>
-      <div class="faq-a">Sim. O jejum intermitente personalizado é compatível com a terapia hormonal.</div>
+      <div class="faq-q">Posso usar com medicação da menopausa?</div>
+      <div class="faq-a">Sim. Compatível com terapia hormonal. Recomendamos informar seu médico.</div>
     </div>
     <div class="faq-item" style="border-bottom:none">
-      <div class="faq-q">Onde vou receber o acesso?</div>
-      <div class="faq-a">No email cadastrado no momento da compra, em menos de 5 minutos após a confirmação.</div>
+      <div class="faq-q">Funciona em qualquer celular?</div>
+      <div class="faq-a">Sim. Android ou iPhone, qualquer modelo com acesso à internet. Funciona até em conexão 3G.</div>
     </div>
+  </div>
+
+  <!-- P.S. -->
+  <div class="block-label">P.S. — SEGUNDO ELEMENTO MAIS LIDO ✨ NOVO</div>
+  <div class="block">
+    <div class="ps-block">
+      <div class="ps-label">P.S.</div>
+      <p>Você chegou até aqui porque algo no que o Dr. Eduardo falou fez sentido. Você reconheceu seu corpo naquelas palavras.</p>
+      <p>Agora você tem dois caminhos.</p>
+      <p class="ps-bold">Fechar essa página — e continuar como está.</p>
+      <p>Amanhã de manhã, a mesma calça que não fecha. O mesmo inchaço. A mesma frustração. Daqui 6 meses, exatamente aqui.</p>
+      <p class="ps-bold">Ou clicar no botão abaixo por R$29,90.</p>
+      <p>Em 21 dias, você vai acordar num corpo diferente. Não porque se esforçou mais — mas porque finalmente atacou a causa certa.</p>
+      <p style="color:#f97316;font-weight:700">O risco é zero. A garantia é de 30 dias + R$200 se não tiver resultado.</p>
+    </div>
+    <div class="btn">GARANTIR MEU ACESSO AGORA →</div>
   </div>
 
   <!-- RODAPÉ -->
   <div style="background:#000;padding:16px;text-align:center">
-    <p style="font-size:10px;color:#3f3f46">© 2025 BioRitmo · Todos os direitos reservados</p>
+    <p style="font-size:10px;color:#3f3f46">© 2026 BioRitmo · Todos os direitos reservados</p>
     <p style="font-size:10px;color:#3f3f46;margin-top:4px">Política de Privacidade · Termos de Uso</p>
   </div>
 
