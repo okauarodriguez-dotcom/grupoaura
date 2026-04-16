@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "campanhas/2026-03-31-neurosync-teste-eua-espanha.md",
+                "file": "campanhas/2026-03-27-lancamento-vsl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-31-neurosync-teste-eua-espanha"
+              "title": "2026-03-27-lancamento-vsl"
             }
           }
         ]
@@ -180,8 +180,9 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "2995c337ba98c802",
+  "active": "ff15beed84d68a49",
   "lastOpenFiles": [
+    "campanhas/2026-03-31-neurosync-teste-eua-espanha.md",
     "campanhas/2026-03-27-lancamento-vsl.md",
     "campanhas/criativos/_template.md",
     "decisoes/2026-04-14-estrutura-operacao-nutra-afiliados.md",
@@ -213,7 +214,6 @@
     "operacoes/setup-automacao-fathom 2.md",
     "mentoria/victor-xisto-low-ticket-2026-03-30 2.md",
     "mentoria/tiago-filemon-quinta-empresarios 2.md",
-    "mentoria/ouro-digital-2-promessa-do-produto 2.md",
     "produtos/bioritmo",
     "reunioes",
     "pessoal",
