@@ -166,3 +166,35 @@ Eles vão perguntar mais. Deixa eles puxarem.
 - No mesmo dia à noite: manda mensagem pra cada contato relevante. *"Cara, ótimo te conhecer hoje. Vou marcar uma call essa semana."*
 - Não deixa passar 48h. Depois de 48h o momentum do evento esfria e o contato some.
 - Pensa em como continuar o contato: grupo, call semanal, conteúdo que você manda. Ter isso definido antes faz você não deixar o network morrer.
+
+---
+
+## Caso Mavi — Cenários e Orientações
+
+> Existe um processo jurídico em andamento. Advogado está cuidando. Regra que vale para todos os cenários: **zero palavras espontâneas sobre o assunto.** Nem pra defender, nem pra explicar, nem pra contextualizar.
+
+**Cenário 1 — Ela não vai ao evento**
+Mais provável. Mora longe, teria que pegar avião, e processo em andamento não a favorece em expor publicamente. Foca no que veio fazer.
+
+**Cenário 2 — Ela vai mas não faz nada**
+Age normalmente. Não força contato, não demonstra tensão, não foge. Naturalidade total. A plateia lê energia.
+
+**Cenário 3 — Ela vai e fala nos bastidores pra outros alunos**
+Você não controla o que ela diz. Controla como você age. Quem te ver no palco com resultado e maturidade vai formar opinião própria. Zero palavras espontâneas sobre o caso.
+
+**Cenário 4 — Alguém te pergunta sobre o conflito**
+> *"É uma situação que estou resolvendo nos devidos canais com meu advogado. Não tenho como comentar agora."*
+Curto. Encerra.
+
+**Cenário 5 — Ela te expõe publicamente durante sua fala**
+Respira, espera ela terminar, fala com calma olhando pra plateia — não pra ela:
+> *"Existiu uma situação entre nós que está sendo resolvida nos devidos canais. Tenho advogado cuidando disso. Não é o momento nem o lugar — prefiro focar no que vim fazer aqui."*
+O Higor vai intervir. Quem mantém compostura nesse momento ganha a sala.
+
+**Cenário 6 — Vocês dois no palco juntos**
+Seu único objetivo é contar sua história com presença. Postura neutra — nem proximidade forçada, nem tensão visível. Se ela fizer comentário direcionado, usa a resposta do Cenário 5.
+
+**Estratégia — quando avisar o Higor**
+Não antecipa problema que pode não existir. Chega no sábado e observa o ambiente:
+- Se ela não estiver lá → não precisa falar nada com ninguém.
+- Se identificar que ela está lá → fala com o Higor antes do domingo, brevemente: *"Higor, existe uma situação entre mim e outra pessoa que pode estar aqui. Tem um processo em andamento, não posso entrar em detalhes, mas quero que você saiba caso precise lidar com alguma tensão."*
