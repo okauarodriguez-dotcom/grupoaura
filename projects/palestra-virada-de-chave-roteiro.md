@@ -105,6 +105,31 @@ O tempo não para enquanto você espera. Eu decidi que não ia esperar.
 
 ---
 
+## Controlando o Nervosismo
+
+**Reencadra o que você sente**
+Coração acelerado, adrenalina, foco — isso é o mesmo estado físico da animação. Seu cérebro rotula como medo. Troca o rótulo: *"estou animado, não nervoso."*
+
+**Você não pode errar essa história**
+É a sua vida. Ninguém sabe mais sobre ela do que você. Não tem resposta certa ou errada — tem o que aconteceu. Isso elimina 80% do nervosismo.
+
+**Respiração antes de subir**
+Inspira pelo nariz 4 segundos → segura 4 → solta pela boca em 8. Faz 3 vezes antes de entrar no palco. Baixa a adrenalina na hora.
+
+**Fala devagar**
+Nervosismo acelera a fala. Quando sentir que acelerou — pausa, respira, continua. Pausa longa pra você = confiança pra plateia.
+
+**Escolhe uma pessoa na plateia**
+Nos primeiros 30 segundos, acha alguém que está te olhando com atenção e fala pra ela. Só ela. Depois troca. Transforma "500 pessoas" em "uma conversa."
+
+**O formato te ajuda**
+Você não estará sozinho falando livre. O Higor conduz com perguntas. É uma conversa, não um discurso.
+
+**Pratica em voz alta antes do dia 19**
+Não na cabeça — em voz alta, de pé, como se estivesse no palco. Pelo menos uma vez. O corpo precisa ter vivido aquilo antes.
+
+---
+
 ## Networking — Como Sair de Lá com um Ciclo de Verdade
 
 > Você vai ao palco antes de abrir a boca com qualquer pessoa. Elas já sabem quem você é, que você tem resultado e que tem 17 anos. Você chega nas conversas com credibilidade pronta — não precisa se vender.
