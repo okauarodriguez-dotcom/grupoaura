@@ -10,6 +10,22 @@ tags: [palestra, evento, higor-neves, virada-de-chave, roteiro]
 
 ---
 
+## Abertura — Gancho
+
+> *"Com 17 anos eu fiz mais de um milhão de reais. Mas o momento mais importante da minha vida não foi quando bati esse número — foi quando eu escolhi não viajar para a Argentina."*
+
+---
+
+## O Porquê
+
+Eu nunca me encaixei no modelo tradicional. Desde pequeno me diziam: *"você vai ser médico, vai seguir o caminho certo."*
+
+Eu fazia a conta na minha cabeça: dois anos de cursinho, seis de faculdade, mestrado, residência. Minha vida começa com 30 anos. E aí — quando é que eu vivo? Quando vejo meu filho crescer? Quando viajo? Quando tenho tempo pra construir algo meu?
+
+Eu não queria isso. Eu sempre quis viver uma vida extraordinária. E eu sabia que o caminho tradicional não ia me dar isso.
+
+---
+
 ## A História
 
 Eu tenho 17 anos. E comecei no marketing digital com 11.
@@ -19,6 +35,8 @@ Com 11 anos eu fui no Google e digitei: *"como ganhar dinheiro na internet."* O 
 Mas eu nunca parei de consumir conteúdo.
 
 Com 13 anos eu comecei a ver as pessoas do meu círculo postando prints de notificação de venda da Kiwify nos stories. Cheguei num conhecido e perguntei o que era. Ele me mandou o link de uma VSL. Assisti, comprei o curso, e percebi o jogo: era afiliado vendendo através de VSL. Entrei no mesmo modelo, comecei a postar stories com notificações de venda, e no primeiro mês fiz dois mil reais. Com 13 anos.
+
+Eu sentei, olhei pra aquilo e falei: *foda-se. Não vou fazer faculdade. Vou fazer isso virar.* Alguém chegou em mim e falou: *"cara, mas você só veio isso? Vai desistir?"* Eu olhei e respondi: *"isso vai dar certo. Vai ser doido. Você vai ver."*
 
 Aí tive um insight: *se o produtor ganha 100% e eu ganho 50% como afiliado, por que não ser produtor?*
 
@@ -50,6 +68,8 @@ Dentro da mentoria eu sempre fui muito presente. Call de suporte de manhã, call
 
 Tentei duas ofertas que não deram certo. Me juntei com um parceiro chamado André, ficamos três ou quatro meses trabalhando juntos, tentamos mais duas ou três ofertas — não vingaram também. Encerramos a sociedade.
 
+Foram quatro, cinco tentativas que não funcionaram. Teve momento de dúvida? Teve. Quando o resultado não vem, a cabeça cobra. Mas eu me mantive firme, pensando em frente, sem abrir mão do que eu sabia que ia acontecer.
+
 Em setembro de 2025 entrei numa nova sociedade. E a gente explodiu.
 
 Hoje eu fiz mais de um milhão e trezentos mil reais. Com 17 anos.
@@ -77,6 +97,12 @@ O que me trouxe aqui não foi talento. Foi obsessão, vontade e uma mentalidade 
 
 *Se eu não estou no resultado, é porque tem algo que eu não fiz. Então vou fazer.*
 
+Se você tá na plateia hoje pensando que precisa esperar a hora certa, terminar a faculdade, ter mais experiência — eu comecei com 11 anos, notebook com o teclado solto preso por um fio, e 30 reais num curso de dropshipping.
+
+O tempo não para enquanto você espera. Eu decidi que não ia esperar.
+
+*Se você quer trocar ideia, eu vou estar aqui o evento todo. Me chama.*
+
 ---
 
 ## Networking — Como Sair de Lá com um Ciclo de Verdade
@@ -102,6 +128,16 @@ As pessoas certas vão vir até você depois. Você não precisa ir atrás.
 - Seja o primeiro a falar: *"Vamos sair pra jantar hoje, quem topa?"* Quem toma iniciativa lidera o grupo.
 - Na mesa, faz perguntas sobre o negócio deles. Pessoas adoram falar do que fazem. Você escuta, faz pergunta boa, e vira a pessoa mais interessante da mesa sem precisar falar de si mesmo.
 
+**Instagram — prepara antes de chegar**
+- Coloca nos destaques: resultado, bastidores, quem você é. Muita gente vai te buscar no perfil logo depois que você sair do palco — o perfil já tem que contar a história.
+- Posta stories durante o evento: bastidores, palco, pessoas. Cria memória e posiciona você para quem te seguiu na hora.
+
+**Frase de apresentação pronta**
+Quando alguém perguntar *"o que você faz?"* — não conta tudo. Fala uma frase que gera curiosidade:
+> *"Trabalho com direct response. Comecei com 11, hoje tenho 17."*
+Eles vão perguntar mais. Deixa eles puxarem.
+
 **Depois do evento**
 - No mesmo dia à noite: manda mensagem pra cada contato relevante. *"Cara, ótimo te conhecer hoje. Vou marcar uma call essa semana."*
 - Não deixa passar 48h. Depois de 48h o momentum do evento esfria e o contato some.
+- Pensa em como continuar o contato: grupo, call semanal, conteúdo que você manda. Ter isso definido antes faz você não deixar o network morrer.
