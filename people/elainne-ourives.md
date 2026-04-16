@@ -33,9 +33,10 @@ A **Holo Cocriação** é o método central de Elainne. Combina:
 - Depoimentos de transformação de alunos (formato: relato de antes/depois intenso)
 - Tom: empático, direto, emocional — fala com mulheres em sofrimento e estagnação
 
-## Interações com Kauã
+## Progresso de Kauã
 
-- 2026-04-16 — Kauã praticou a técnica da Holo Cocriação
+- **Ciclo:** 02 — Dia 04
+- 2026-04-16 — Praticou e marcou o dia 04 do ciclo 02
 
 ## Notas
 
