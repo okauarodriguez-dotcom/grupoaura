@@ -76,3 +76,32 @@ Se você tá na plateia hoje achando que não é pra você — eu comecei com 11
 O que me trouxe aqui não foi talento. Foi obsessão, vontade e uma mentalidade aberta para entender que eu nunca sei o suficiente.
 
 *Se eu não estou no resultado, é porque tem algo que eu não fiz. Então vou fazer.*
+
+---
+
+## Networking — Como Sair de Lá com um Ciclo de Verdade
+
+> Você vai ao palco antes de abrir a boca com qualquer pessoa. Elas já sabem quem você é, que você tem resultado e que tem 17 anos. Você chega nas conversas com credibilidade pronta — não precisa se vender.
+
+**Antes do evento**
+- Pesquisa João Campos, Dário e Marconi antes de chegar. Sabe o que cada um faz, qual produto, qual resultado. Quando chegar neles, fala sobre o negócio deles especificamente — isso impressiona muito mais do que papo genérico.
+- Define na sua cabeça: *quero sair daqui com 5 contatos reais.* Não 50. 5 pessoas com quem você vai trocar mensagem na semana seguinte.
+
+**No palco — plante a semente**
+Adicione uma frase que convida conexão quando contar sua história:
+> *"Hoje o que eu mais busco são pessoas que jogam no mesmo nível — porque ambiente define tudo."*
+
+As pessoas certas vão vir até você depois. Você não precisa ir atrás.
+
+**Durante o evento**
+- Senta perto dos palestrantes e dos alunos do palco nos intervalos. Vocês já são o mesmo grupo — é natural.
+- Quando alguém falar algo que te impactou, chega e diz especificamente o quê. *"Cara, quando você falou X eu me identifiquei porque..."* Específico sempre gera conexão real.
+- Não fique no celular nos intervalos. Quem fica no celular perde as melhores conversas do evento.
+
+**Almoço e janta — maior oportunidade**
+- Seja o primeiro a falar: *"Vamos sair pra jantar hoje, quem topa?"* Quem toma iniciativa lidera o grupo.
+- Na mesa, faz perguntas sobre o negócio deles. Pessoas adoram falar do que fazem. Você escuta, faz pergunta boa, e vira a pessoa mais interessante da mesa sem precisar falar de si mesmo.
+
+**Depois do evento**
+- No mesmo dia à noite: manda mensagem pra cada contato relevante. *"Cara, ótimo te conhecer hoje. Vou marcar uma call essa semana."*
+- Não deixa passar 48h. Depois de 48h o momentum do evento esfria e o contato some.
