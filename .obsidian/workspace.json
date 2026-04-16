@@ -11,10 +11,14 @@
             "id": "ff15beed84d68a49",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "campanhas/2026-03-31-neurosync-teste-eua-espanha.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-31-neurosync-teste-eua-espanha"
             }
           }
         ]
@@ -176,8 +180,10 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "ff15beed84d68a49",
+  "active": "2995c337ba98c802",
   "lastOpenFiles": [
+    "campanhas/2026-03-27-lancamento-vsl.md",
+    "campanhas/criativos/_template.md",
     "decisoes/2026-04-14-estrutura-operacao-nutra-afiliados.md",
     "people/pedro-camargo.md",
     "people/johnny-felisberto.md",
@@ -208,8 +214,6 @@
     "mentoria/victor-xisto-low-ticket-2026-03-30 2.md",
     "mentoria/tiago-filemon-quinta-empresarios 2.md",
     "mentoria/ouro-digital-2-promessa-do-produto 2.md",
-    "mentoria/ouro-digital-2 2.md",
-    "mentoria/higor-neves-ouro-digital-2-estrutura-completa 2.md",
     "produtos/bioritmo",
     "reunioes",
     "pessoal",
