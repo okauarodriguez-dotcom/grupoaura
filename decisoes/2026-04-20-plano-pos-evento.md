@@ -35,10 +35,26 @@ tags: [pós-evento, plano, modelo-negócio, segunda-feira, urgente]
 ## Contexto Que Você Precisa Lembrar
 
 - Runway atual: ~R$17.000–18.000 (3–4 meses de despesas fixas)
-- BioRitmo foi abandonado (se não vendeu até 17/04)
+- **BioRitmo encerrado em 17/04** — Cenário 3: 1 venda, CPA R$177, ROAS 0,16, R$177,11 gasto. Campanhas pausadas.
 - Você tem tempo, mas não tem para desperdiçar
 - Você foi ao evento, foi ao palco, fez conexões, teve insights
 - O Kauã que grava esse áudio está com medo, mas cheio de fé
+
+---
+
+## Se for rodar Low Ticket novamente — Análise do BioRitmo
+
+> Antes de subir a próxima oferta, analisar o que provavelmente erramos no BioRitmo.
+
+**Task obrigatória:** sentar e responder honestamente:
+
+- O produto era forte o suficiente? A promessa estava clara?
+- O quiz estava qualificando ou repelindo?
+- O VSL tinha gancho forte o suficiente pro público frio?
+- Os criativos chegavam com a pessoa certa?
+- O mecanismo estava explicado (lógica + emoção equilibradas)?
+- O CPA de R$177 num produto de R$29,90 — onde o funil sangrou mais?
+- O que faríamos diferente na próxima oferta?
 
 ---
 
