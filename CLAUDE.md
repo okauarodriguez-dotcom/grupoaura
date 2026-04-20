@@ -48,7 +48,7 @@ Ao acessar aulas → salvar em `mentoria/higor-neves-YYYY-MM-DD-titulo.md` com r
 ---
 
 ## Protocolo de Abertura Diária
-No início de cada nova sessão, rodar o protocolo em `operacoes/protocolo-abertura-diaria.md` — fazer as 6 perguntas ao Kauã antes de qualquer outra coisa. Isso é obrigatório.
+Sempre que o Kauã mandar "bom dia", "boa tarde" ou "boa noite", rodar imediatamente o protocolo em `operacoes/protocolo-abertura-diaria.md` — fazer as 6 perguntas antes de qualquer outra coisa. Obrigatório.
 
 ---
 
