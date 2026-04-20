@@ -61,18 +61,21 @@ tags: [pós-evento, plano, modelo-negócio, segunda-feira, urgente]
 ## Espaço Para Preenchimento (Segunda-Feira)
 
 ### Modelo escolhido:
-_______
+**Funil de Expert + Instagram como backend**
 
 ### Por quê:
-_______
+Consenso absoluto do evento — todos os palestrantes convergiram para esse modelo como a maior porta de entrada para 2026. Múltiplas janelas de conversão (VSL + IG + WhatsApp + webinário), não exige criação de conteúdo orgânico, e o expert pode ser contratado com até 10% do lucro líquido.
 
 ### Primeiros 3 passos:
-1. _______
-2. _______
-3. _______
+1. Definir nicho e buscar expert (TikTok, grupos, conexões do evento)
+2. Estruturar o funil: VSL com seeding → Instagram preparado → checkout
+3. Aplicar metodologia VCEC na primeira campanha com orçamento = meio ticket
 
 ### Conexões do evento para ativar:
-_______
+- Percival e Ralph — rodam esse modelo, referências diretas
+- Lucas — player de nutra
+- Augusto — operação
+- Mensagens já enviadas para todos em 20/04
 
 ### Prazo para primeira venda:
-_______
+Dentro do runway de 3-4 meses — campanha no ar em até 30 dias
