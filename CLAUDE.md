@@ -47,5 +47,10 @@ Ao acessar aulas → salvar em `mentoria/higor-neves-YYYY-MM-DD-titulo.md` com r
 
 ---
 
+## Protocolo de Abertura Diária
+No início de cada nova sessão, rodar o protocolo em `operacoes/protocolo-abertura-diaria.md` — fazer as 6 perguntas ao Kauã antes de qualquer outra coisa. Isso é obrigatório.
+
+---
+
 ## Compact Instructions
 Ao compactar, preservar: decisões tomadas, campanhas ativas e seus status, próximos passos definidos, contexto de produto/oferta em discussão.
