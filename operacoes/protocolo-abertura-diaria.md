@@ -11,47 +11,70 @@ tags: [mentalidade, rotina, abertura, frequência, reprogramação]
 
 ---
 
-## As 6 Perguntas de Abertura
+## As 8 Perguntas de Abertura
 
-**1. FREQUÊNCIA**
-> "Como você está vibrando agora? 1 a 10 — e por quê?"
+**1. IDENTIDADE — Quem você está sendo hoje?**
+> *"O Kauã que vai aposentar os pais, que esteve no jantar com os maiores do DR, que o Higor disse que pegou o timing certo — esse cara acordou hoje ou acordou outra pessoa?"*
 
-*(Cintia: você é reflexo do que pensa. Pensamentos → sentimentos → ações → resultados.)*
-
----
-
-**2. NARRATIVA**
-> "Qual é a história que você está contando sobre sua situação hoje?"
-
-*(Marcelo: a realidade é objetiva, mas subjetiva na interpretação. O erro é o mesmo — a narrativa é o que diferencia.)*
+Não o que você vai fazer. Quem você está SENDO. Porque para ter, primeiro precisa SER.
+*(Cintia Soares: você precisa matar quem você é hoje para se tornar quem vai conquistar.)*
 
 ---
 
-**3. CRENÇA**
-> "Você está com dúvida ou com certeza de que vai chegar lá?"
+**2. FREQUÊNCIA — Qual é a sua vibração agora?**
+> *"De 1 a 10, onde está sua energia agora? E o que está pesando — ou o que está te elevando?"*
 
-*(Marcelo: quanto maior a dúvida, maior o tempo. Quanto maior a crença, menor o tempo.)*
-
----
-
-**4. EXECUÇÃO**
-> "O que você vai executar hoje nos 4 pilares? Seja específico."
-
-*(Marcelo: executores têm resultado. Ação é a única forma de resultado real.)*
+Se estiver abaixo de 7: o que está contaminando sua frequência? Pessoa, pensamento, ambiente?
+Se estiver acima de 8: o que está gerando isso? Repete amanhã.
+*(Cintia: você é exato reflexo do que pensa e sente. Pensamentos → sentimentos → ações → resultados.)*
 
 ---
 
-**5. DESAFIO**
-> "Tem algo que você está evitando porque dá frio na barriga? O que é?"
+**3. NARRATIVA — Que história você está contando?**
+> *"Olha para onde você está agora — caixa, plano, conexões, evento, profecia cumprida. Qual é a narrativa REAL sobre isso? Ou você está deixando o medo escrever uma história falsa?"*
 
-*(Marcelo: as melhores coisas da vida só aparecem se você se colocar à prova. A forma como você faz uma coisa, você faz as outras.)*
+O erro, o medo, a pressão financeira são os mesmos para todo mundo. O que diferencia você é a narrativa que escolhe sobre eles.
+*(Marcelo Xavier: a realidade é objetiva, mas subjetiva na interpretação. Pare de reclamar — mude a narrativa.)*
 
 ---
 
-**6. ALL WIN**
-> "Qual é o seu ALL WIN de hoje — o que você vai entregar de verdade?"
+**4. COMBUSTÍVEL — Você lembrou deles hoje?**
+> *"Você pensou na sua mãe hoje? No seu pai? Quantas vezes ela trabalhou de madrugada enquanto você dormia. Isso ainda está te movendo — ou você esqueceu?"*
 
-*(Evento: urgência + excelência = ALL WIN. Ou você dá um jeito ou dá uma desculpa.)*
+Toda vez que a vontade de procrastinar bater: fecha os olhos e vê o rosto da sua mãe.
+*(Áudio 16/04: "É difícil ter que ver sua mãe chorando por dinheiro.")*
+
+---
+
+**5. CRENÇA — Você tem certeza ou ainda tem dúvida?**
+> *"Ferrari, Porsche, McLaren — você falou no áudio e estavam na sua frente 3 dias depois. O Higor te disse pessoalmente. A mãe dele te ungiu. Deus já te deu os sinais. Você ainda está com dúvida — ou você tem CERTEZA absoluta de que vai chegar lá?"*
+
+Quanto maior a dúvida, maior o tempo. Quanto maior a crença, menor o tempo.
+*(Marcelo Xavier: as pessoas que têm sucesso têm uma crença tão inabalável que o universo devolve em dobro.)*
+
+---
+
+**6. DESAFIO — O que você está evitando?**
+> *"Tem algo no plano que você está empurrando com a barriga porque dá frio na barriga? Ligar para o expert? Postar o primeiro conteúdo? Mandar mensagem para o Vitor e a Ana? O que é?"*
+
+Aquilo que dá mais frio na barriga é exatamente o que vai te levar para o próximo nível.
+*(Marcelo Xavier: as melhores coisas da vida só aparecem quando você se coloca à prova. A forma como você faz uma coisa, você faz todas as outras.)*
+
+---
+
+**7. EXECUÇÃO — Qual é o plano de hoje?**
+> *"Nos seus 4 pilares — Funil de Expert, Posicionamento, Mentalidade e Networking — o que especificamente você vai executar hoje? Não 'vou trabalhar nisso'. O QUÊ, COMO e ATÉ QUANDO?"*
+
+Sem execução específica não existe plano — existe intenção. E intenção não paga conta.
+*(Marcelo: ação é a única forma de resultado real. Executores têm resultado.)*
+
+---
+
+**8. ALL WIN — Qual é o seu pacto de hoje?**
+> *"Ao final do dia, quando você fechar o computador — o que precisa ter acontecido para você deitar e falar 'eu fui foda hoje'? Esse é o seu ALL WIN. Agora se comprometa com isso."*
+
+Urgência + Excelência. Ou você dá um jeito ou dá uma desculpa. Não existe meio termo.
+*(Evento Ouro Digital: ALL WIN é o padrão. Você entrega tudo para que o resultado entregue tudo de volta.)*
 
 ---
 
