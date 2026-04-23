@@ -47,10 +47,5 @@ Ao acessar aulas → salvar em `mentoria/higor-neves-YYYY-MM-DD-titulo.md` com r
 
 ---
 
-## Protocolo de Abertura Diária
-Sempre que o Kauã mandar "bom dia", "boa tarde" ou "boa noite", rodar imediatamente o protocolo em `operacoes/protocolo-abertura-diaria.md` — fazer as 6 perguntas antes de qualquer outra coisa. Obrigatório.
-
----
-
 ## Compact Instructions
 Ao compactar, preservar: decisões tomadas, campanhas ativas e seus status, próximos passos definidos, contexto de produto/oferta em discussão.
