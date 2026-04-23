@@ -72,6 +72,7 @@ HIGH TICKET
 - **Webinário gravado** → roda todo dia no automático (20h)
 - **Workshop semanal** → ao vivo toda segunda (20h)
 - **YouTube White** → fonte paralela (insight Lucas Ramos)
+- **YouTube para Expert** → rodar o expert no YouTube como canal de autoridade e tráfego orgânico paralelo ⚡ insight 24/04/2026
 
 ---
 
