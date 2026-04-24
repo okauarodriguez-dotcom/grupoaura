@@ -98,18 +98,33 @@ Tornar tangível. O expert precisa visualizar o dinheiro na conta antes de falar
 
 ---
 
-### 8. PITCH — Porcentagem (por último)
+### 8. PITCH — Modelo de remuneração (por último)
 
-Só mencionar a porcentagem **depois** de toda a narrativa construída:
+Só mencionar o modelo **depois** de toda a narrativa construída. Escolher o modelo conforme o perfil do expert:
 
-- Proposta inicial: **10% do lucro líquido**
-- Se o expert achar pouco, duas saídas:
+---
 
-**Saída 1 — Ceder um pouco:**
-> Subir para 15% mostrando que você está sendo flexível
+**MODELO 1 — Divisão 50/50 com investimento compartilhado**
+- Expert entra com parte do investimento em tráfego
+- Lucro dividido meio a meio
+- **Quando usar:** experts grandes, com audiência expressiva e disposição para investir
+- Posicionamento: *"A gente divide o risco e divide o resultado — 50/50."*
 
-**Saída 2 — Escassez e prova social:**
-> *"Já tem outro expert que voltou pra conversar hoje, e eu falei com outro ontem. Estou gostando mais do seu perfil — mas ele já fechou a 10-20%."*
+---
+
+**MODELO 2 — 10% do lucro líquido (você banca tudo)**
+- Você entra com 100% do investimento: tráfego, edição, estrutura, ferramentas
+- Expert recebe 10% do lucro líquido
+- **Quando usar:** maioria dos casos — expert médio, sem capital para investir
+- Posicionamento: *"Você não investe nada. Se no primeiro mês a gente fizer R$X, a sua parte seria R$Y."*
+- Se o expert achar pouco → subir para 15% ou usar escassez: *"Tenho outro expert que fechou hoje a 10%."*
+
+---
+
+**MODELO 3 — 5% de comissão do front-end**
+- Expert recebe 5% sobre cada venda do produto de entrada (front-end)
+- Sem participação no lucro líquido total
+- **Quando usar:** operações mais simples, experts menores ou como modelo de entrada rápida
 
 ---
 
