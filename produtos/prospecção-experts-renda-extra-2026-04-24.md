@@ -335,10 +335,104 @@ Criar produto de entrada focado em "TikTok Shop sem aparecer: primeira comissão
 
 ---
 
+---
+
+## 3ª RODADA — ANÁLISE INSTAGRAM (24/04/2026)
+> *Análise manual perfil a perfil via Puppeteer. Critério-chave: tráfego frio — qualidade da audiência orgânica irrelevante.*
+
+---
+
+### APROVADOS — 3ª RODADA
+
+| Expert | @handle | Seguidores | Mecanismo | Alerta | Prioridade |
+|--------|---------|-----------|-----------|--------|-----------|
+| **Shara Barros** | @sharabarros__ | 155k | TOP Afiliada Shopee — R$1M faturado | Verificar Ads Library | 🔴 MÁXIMA |
+| **Gimena de Souza** | @gimedesouza | 375k | Afiliada "sem produto próprio" — resultado lifestyle | Verificar mecanismo exato + Ads Library | 🟠 ALTA |
+| **Anderson Martins** | @tubarao_ecommerce | 98k | Sistema SVA — IA integrada Amazon — R$7M | Seguido por Elida Dias — verificar Ads Library | 🟠 ALTA |
+| **Vitória Müller** | @euvitoriamuller | (prev. sessão) | IA + TikTok Shop | Verificar produto ativo | 🟠 ALTA |
+| **Lorena** | @lorenassm | (prev. sessão) | Vender sem aparecer + Instagram Shop angle | — | 🟠 ALTA |
+| **Rafaele Monteiro** | @eurafaelemonteiro | (prev. sessão) | (confirmar mecanismo) | — | 🟠 ALTA |
+| **Júnior Maia** | @junniormaiaa | 23.6k | Dropshipping Europa — +7 dígitos em euro — +12 países | Abordagem estruturada (usa formulário Tally) | 🟠 ALTA |
+| **Natiele Bertapeli** | @natielebertapeli | (prev. sessão) | Marketplace multiplataforma | — | 🟡 MÉDIA |
+| **Ju Gonçalves** | @jugoncalvesdemello | (prev. sessão) | Método sem aparecer sem investir | — | 🟡 MÉDIA |
+| **Ana Carolina** | @annafrcoo | (prev. sessão) | IA + Mercado Livre | — | 🟡 MÉDIA |
+| **Bianca Constantino** | @biancaconstantino_ | (prev. sessão) | (confirmar) | 🚨 Verificar Ads Library | 🟡 MÉDIA |
+| **Rafael Bottrel** | @bottrel_ | (prev. sessão) | (confirmar) | 🚨 Verificar Ads Library | 🟡 MÉDIA |
+| **Anderson Gavineski** | @andergavineski | (prev. sessão) | Afiliado Shopee | — | 🟡 MÉDIA |
+| **Marina Rosa** | @marinarosaoficial | (prev. sessão) | Vender em dólar nos EUA | — | 🟡 MÉDIA |
+
+---
+
+### RADAR — 3ª RODADA
+
+| Expert | @handle | Seguidores | Por que radar |
+|--------|---------|-----------|--------------|
+| **Vitória Barbosa** | @vikbarboss_ | 30k | Mecanismo vago, 34 posts, números baixos |
+| **Bruno Gabarra** | @brunogabarra | (prev. sessão) | Mecanismo não convenceu Kauã |
+| **João Adolfo** | @joaoadolfooficial | (prev. sessão) | Verificar produto e mecanismo |
+
+---
+
+### DESCARTADOS — 3ª RODADA
+
+| Expert | @handle | Motivo |
+|--------|---------|--------|
+| Cris Pillar | @crispillar_ | Sem mecanismo de vendas na internet |
+| Adriano Borges | @adrianoborgesoficial | Intuição do Kauã — descartado |
+| Nagelaa | @nagelaa | Não convenceu |
+| Pedro Guimarães | @opedroguimaraes | Sem método — perfil estratégico, não expert |
+| Annalu Muniz | @annalumuniz | Nicho finanças pessoais — projeto separado futuro |
+
+---
+
+## RANKING FINAL CONSOLIDADO — TODAS AS RODADAS
+
+> Experts a abordar em ordem de prioridade. Verificar Ads Library antes de qualquer abordagem nos marcados com 🚨.
+
+| # | Expert | @handle | Seguidores | Mecanismo | Prioridade |
+|---|--------|---------|-----------|-----------|-----------|
+| 1 | **Rayane Oliveira** | @nannyyoliveiraa | 208k | Ex-militar Shopee/Meli/Amazon sem aparecer — 24k alunos | 🔴 MÁXIMA |
+| 2 | **Shara Barros** | @sharabarros__ | 155k | TOP Afiliada Shopee — R$1M faturado 🚨 Ads Library | 🔴 MÁXIMA |
+| 3 | **Marcele Jesus** | @marcelepro | 103k YT | Nova Era Lojas Parceiras | 🔴 MÁXIMA |
+| 4 | **Gimena de Souza** | @gimedesouza | 375k | Afiliada sem produto próprio 🚨 Ads Library | 🟠 ALTA |
+| 5 | **Anderson Martins** | @tubarao_ecommerce | 98k | IA + Amazon — R$7M 🚨 Ads Library | 🟠 ALTA |
+| 6 | **Júnior Maia** | @junniormaiaa | 23.6k | Dropshipping Europa — ganhar em euro | 🟠 ALTA |
+| 7 | **Lorena** | @lorenassm | — | Vender sem aparecer + Instagram Shop | 🟠 ALTA |
+| 8 | **Anele Bragante** | — | 128k YT | Importação sem concorrência | 🟠 ALTA |
+| 9 | **Mayara Prado** | @maayara | 259k YT | Afiliado multiplataforma | 🟠 ALTA |
+| 10 | **Vitória Müller** | @euvitoriamuller | — | IA + TikTok Shop | 🟡 MÉDIA |
+| 11 | **Rafaele Monteiro** | @eurafaelemonteiro | — | (confirmar) | 🟡 MÉDIA |
+| 12 | **Natiele Bertapeli** | @natielebertapeli | — | Marketplace | 🟡 MÉDIA |
+| 13 | **Ana Carolina** | @annafrcoo | — | IA + Mercado Livre | 🟡 MÉDIA |
+| 14 | **Marina Rosa** | @marinarosaoficial | — | Venda em dólar | 🟡 MÉDIA |
+| 15 | **Anderson Gavineski** | @andergavineski | — | Afiliado Shopee | 🟡 MÉDIA |
+| 16 | **Bianca Constantino** | @biancaconstantino_ | — | — 🚨 Ads Library | 🟡 MÉDIA |
+| 17 | **Rafael Bottrel** | @bottrel_ | — | — 🚨 Ads Library | 🟡 MÉDIA |
+| 18 | **Ju Gonçalves** | @jugoncalvesdemello | — | Sem aparecer sem investir | 🟡 MÉDIA |
+| 19 | **Maísa Santos** | @maisasantosfs | 43k YT | Shopee + TikTok Shop | 🟡 MÉDIA |
+| 20 | **Lidia Duarte** | — | 175k YT | Fontes de renda digital | 🟡 MÉDIA |
+
+---
+
 ## PRÓXIMOS PASSOS
 
-1. **Abordar Marcele Jesus** (@marcelepro) — produto + LP prontos, falta tráfego. Proposta direta de co-produção com VSL profissional.
-2. **Abordar Rayane Oliveira** (@nannyyoliveiraa) — história forte, audiência IG validada, sem estrutura de tráfego.
-3. **Abordar Maísa Santos** por email (maisaferreira98@outlook.com) — contato direto disponível.
-4. **Montar script de abordagem** único para cada perfil (DM, email, WhatsApp).
-5. Verificar se alguma já tem coprodutor ativo antes de abordar.
+### ANTES DE ABORDAR — Verificar Ads Library
+- [ ] Shara Barros (@sharabarros__)
+- [ ] Anderson Martins (@tubarao_ecommerce)
+- [ ] Gimena de Souza (@gimedesouza)
+- [ ] Bianca Constantino (@biancaconstantino_)
+- [ ] Rafael Bottrel (@bottrel_)
+
+### ABORDAGEM — Ordem de execução
+1. **@nannyyoliveiraa** (Rayane Oliveira) — DM Instagram
+2. **@sharabarros__** (Shara Barros) — DM Instagram (após Ads Library)
+3. **@marcelepro** (Marcele Jesus) — DM Instagram
+4. **@junniormaiaa** (Júnior Maia) — abordagem via formulário Tally (proposta estruturada)
+5. **@tubarao_ecommerce** (Anderson Martins) — DM Instagram (após Ads Library)
+6. **@gimedesouza** (Gimena de Souza) — DM Instagram (após confirmar mecanismo + Ads Library)
+7. Demais por ordem do ranking
+
+### PENDENTE
+- Montar script de abordagem (DM padrão + variações por perfil)
+- Estruturar framework da call com expert
+- Modelar contrato de coprodução
