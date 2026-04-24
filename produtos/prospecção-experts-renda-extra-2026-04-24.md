@@ -271,10 +271,74 @@ Risco maior que as outras. Confirmar engajamento real antes de abordar.
 
 ---
 
+---
+
+## SEGUNDA RODADA — CANDIDATOS ADICIONAIS
+
+---
+
+### 10. Juliana Garcia
+**Plataforma:** YouTube @Julianagarrcia
+**Seguidores:** 37,7k YouTube
+
+**Tipo de conteúdo:** TikTok Shop + Shopee afiliada. Como criar vídeos sem ter o produto. Conteúdo prático e atual.
+
+**Autoridade percebida:** BAIXA-MÉDIA — 37,7k subs, views recentes de 2-10k. Consistente mas sem destaque ainda.
+
+**Como monetiza:** Não identificado — sem produto próprio ou LP aparente.
+
+**Funil estruturado:** NÃO — só conteúdo orgânico.
+
+**Falhas de monetização:**
+- Sem produto próprio
+- Dependente de conteúdo orgânico sem monetização direta
+- Nicho de TikTok Shop é muito competitivo
+
+**Potencial de escala com DR:** MÉDIO — audiência engajada no nicho certo mas falta produto e credencial forte.
+
+**Oportunidade:**
+Criar produto de entrada focado em "TikTok Shop sem aparecer: primeira comissão em 7 dias". Ticket R$197. Ela produz conteúdo constante e tem engajamento relativo.
+
+**Contato:** YouTube / Instagram (buscar @julianagarccia ou similar)
+
+---
+
+### DESCARTADOS (2ª RODADA)
+
+| Expert | Motivo do descarte |
+|--------|--------------------|
+| Nicole Cavalari (34,7k) | Inativa há 1 ano |
+| Fran Lima (306k) | Views colapsadas (645-1,4k) — canal morto |
+| Rafaela Oliveira (5,87k) | Pequena demais |
+| Ana Marketeira (6,75k) | Nicho errado (YouTube growth) |
+| Dhessica Custodio (53,4k) | Views em queda (183-824) |
+| Hilma/Papo de Afiliada (19,8k) | Views colapsadas (123-949) |
+| Elisa Miranda (133k) | Foco em vagas CLT — nicho diferente |
+| Thiago Boeira (540k) | Grande demais + homem |
+
+---
+
+## RANKING FINAL ATUALIZADO (todas as rodadas)
+
+| # | Expert | Plataforma | Seguidores | Mecanismo | Potencial DR | Prioridade |
+|---|--------|-----------|------------|-----------|-------------|-----------|
+| 1 | **Marcele Jesus** | YT + IG | 103k | Nova Era Lojas Parceiras | MUITO ALTO | 🔴 ABORDE JÁ |
+| 2 | **Rayane Oliveira** | IG | 208k | Ex-militar Shopee/Meli/Amazon | ALTO | 🔴 ABORDE JÁ |
+| 3 | **Anele Bragante** | YT | 128k | Importação sem concorrência | ALTO | 🟠 ALTA |
+| 4 | **Mayara Prado** | YT + IG | 259k | Afiliado multiplataforma | ALTO | 🟠 ALTA |
+| 5 | **Maísa Santos** | YT + IG | 43k | Shopee + TikTok Shop | MÉDIO-ALTO | 🟡 MÉDIA |
+| 6 | **Lidia Duarte** | YT | 175k | Fontes de renda digital | MÉDIO-ALTO | 🟡 MÉDIA |
+| 7 | **Mulher de Negócios (Ray)** | YT | 56k | Afiliada produtos físicos | MÉDIO | 🟡 MÉDIA |
+| 8 | **Juliana Garcia** | YT | 37,7k | TikTok Shop + Shopee | MÉDIO | 🟢 BAIXA |
+| 9 | **Tainara Rita** | YT | 26k | R$10k na Shopee | MÉDIO | 🟢 BAIXA |
+| 10 | **Andreza Viana** | YT | 102k | Vendas Shopee | MÉDIO | ⚪ OBSERVAR |
+
+---
+
 ## PRÓXIMOS PASSOS
 
-1. **Abordar Marcele Jesus** (@marcelepro) — ela já tem produto + LP, falta só o tráfego. Proposta direta de co-produção com VSL profissional.
+1. **Abordar Marcele Jesus** (@marcelepro) — produto + LP prontos, falta tráfego. Proposta direta de co-produção com VSL profissional.
 2. **Abordar Rayane Oliveira** (@nannyyoliveiraa) — história forte, audiência IG validada, sem estrutura de tráfego.
-3. **Montar script de abordagem** para cada perfil (DM, email, WhatsApp).
-4. **Abordar Maísa Santos** por email (maisaferreira98@outlook.com) — contato mais fácil.
-5. Pesquisar se alguma já tem coprodutor ativo antes de abordar.
+3. **Abordar Maísa Santos** por email (maisaferreira98@outlook.com) — contato direto disponível.
+4. **Montar script de abordagem** único para cada perfil (DM, email, WhatsApp).
+5. Verificar se alguma já tem coprodutor ativo antes de abordar.
