@@ -164,6 +164,66 @@ Hook: "Antes de fechar essa página... Eu preciso te mostrar uma última coisa"
 
 ---
 
+## ÁREA DE MEMBROS — MILION.IA
+
+**Plataforma:** Milion.ia (proprietária da equipe da Elida)  
+**URL:** `https://app.usemillionia.com`  
+**Domínio raiz:** `usemillionia.com` (registrado na Hostinger, sem site público)
+
+**Fluxo do webinário (exclusivo para compradores):**
+```
+Compra front (R$197) + U1 Modo Dólar (R$497)
+         ↓
+WhatsApp API dispara convite automático
+         ↓
+Link para app.usemillionia.com (login com email/senha da compra)
+         ↓
+Webinário dentro da área de membros (inacessível sem login)
+```
+
+**Insight:** Não é HotWebinar, Circle, Zoom nem nenhuma plataforma pública. É uma plataforma 100% proprietária — o webinário não tem URL pública adivinhável.
+
+---
+
+## PÁGINAS COMPLETAS DO DOMÍNIO (sitemap + descobertas)
+
+| Página | Função |
+|--------|--------|
+| `/googleads/` | VSL principal — tráfego pago Meta |
+| `/vsl/` | VSL base |
+| `/vsl23/` | VSL versão 2023 |
+| `/vsl-sempv/` | VSL sem pré-venda |
+| `/vsl-kwai/` | VSL variante Kwai |
+| `/elementor-452/` | VSL "Sistema de Renda Oculta com IA" (draft/hidden) |
+| `/presell/` | Pré-venda → checkout direto |
+| `/vslquiz/` | Quiz pós-compra → upsell (versão atual) |
+| `/vslquiz-novo/` | Quiz nova versão |
+| `/vslquiz23/` | Quiz versão 2023 |
+| `/up-dolar/` | Upsell 1 — Modo Dólar (variante) |
+| `/up1-dolar/` | Upsell 1 — Modo Dólar (principal) |
+| `/down1/` | Downsell U1 — R$397 |
+| `/down1-dolar/` | Downsell variante |
+| `/up2-million/` | Upsell 2 — Sistema Milionário Premium |
+| `/down2-dolar/` | Downsell U2 — R$449 |
+| `/up-dolar-kiwify/` | Funil completo replicado na Kiwify |
+| `/down1-dolar-kiwify/` | Downsell Kiwify |
+| `/down2-dolar-kiwify/` | Downsell 2 Kiwify |
+| `/up2-mentoria-kiwify/` | Upsell 2 Kiwify (mentoria) |
+| `/o-novo-jogo/` | CPL — Lançamento 3 dias ao vivo |
+| `/o-novo-jogo-ads/` | CPL variante ads |
+| `/o-novo-jogo-2-ads/` | CPL segunda variante ads |
+| `/o-novo-jogo-deuruim/` | CPL fallback ("deu ruim") |
+| `/o-novo-jogo-ads-deuruim/` | CPL ads fallback |
+| `/obg/` | Pós-compra — onboarding (tutorial de acesso + app) |
+| `/afiliados/` | Página de afiliados |
+| `/bio/` | Link na bio |
+| `/s/` | Armadilha para scrapers de sitemap |
+| `/termos/` | Termos e condições |
+
+**Insight chave:** A Elida mantém o funil duplicado em **Hub.la e Kiwify** simultaneamente — split test de plataforma de checkout ou segmentação por canal.
+
+---
+
 ## INSIGHTS PARA NOSSA OPERAÇÃO
 
 1. **Quiz como gatilho de upsell** — mecanismo elegante. A pessoa se auto-qualifica como "alto potencial" e o upsell se apresenta como desbloqueio. Dá pra replicar.
