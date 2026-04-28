@@ -1,0 +1,972 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pitch Parceria — Monica de Oliveira</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reset.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.css">
+<style>
+  :root {
+    --bg: #0a0a0a;
+    --bg-card: #111111;
+    --bg-card2: #161616;
+    --text: #ffffff;
+    --muted: #9ca3af;
+    --border: #1f1f1f;
+    --accent: #7c3aed;
+    --accent-light: rgba(124,58,237,0.15);
+    --accent-glow: rgba(124,58,237,0.08);
+    --green: #059669;
+    --red-muted: #374151;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  .reveal {
+    font-family: 'Inter', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+  }
+
+  .reveal .slides section {
+    height: 100vh;
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 100px;
+    text-align: center;
+  }
+
+  /* ── TIPOGRAFIA ── */
+  .reveal h1 {
+    font-size: clamp(40px, 5.5vw, 88px);
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    line-height: 1.05;
+    color: var(--text);
+  }
+  .reveal h2 {
+    font-size: clamp(28px, 3.5vw, 56px);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+  }
+  .reveal h3 {
+    font-size: clamp(18px, 2.2vw, 34px);
+    font-weight: 600;
+    line-height: 1.2;
+  }
+  .reveal p { line-height: 1.6; }
+
+  /* ── UTILITÁRIOS ── */
+  .tag {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 24px;
+  }
+  .accent { color: var(--accent); }
+  .muted { color: var(--muted); }
+  .white { color: #fff; }
+
+  .divider {
+    width: 56px;
+    height: 3px;
+    background: var(--accent);
+    margin: 28px auto;
+    border-radius: 2px;
+  }
+
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 32px 28px;
+    text-align: left;
+  }
+  .card-accent {
+    border-color: var(--accent);
+    background: var(--accent-light);
+  }
+
+  .avatar {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    background: var(--accent-light);
+    border: 2px solid var(--accent);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    font-weight: 800;
+    color: var(--accent);
+    margin-bottom: 16px;
+    flex-shrink: 0;
+  }
+
+  /* ── SLIDES ESPECÍFICOS ── */
+
+  /* Slide 1 — Capa */
+  .slide-capa {
+    background: radial-gradient(ellipse at 80% 20%, rgba(124,58,237,0.12) 0%, transparent 60%), var(--bg);
+  }
+  .slide-capa h1 { max-width: 820px; }
+  .capa-sub {
+    font-size: clamp(16px, 1.8vw, 24px);
+    color: var(--muted);
+    max-width: 680px;
+    margin-top: 8px;
+    line-height: 1.55;
+  }
+  .capa-accent-line {
+    font-size: clamp(14px, 1.5vw, 20px);
+    color: var(--accent);
+    max-width: 640px;
+    margin-top: 6px;
+    font-weight: 500;
+    line-height: 1.5;
+  }
+
+  /* Slide 2 — Validação */
+  .slide-validacao .quote-block {
+    max-width: 720px;
+    text-align: left;
+    padding: 0 20px;
+  }
+  .quote-line {
+    font-size: clamp(15px, 1.8vw, 22px);
+    line-height: 1.75;
+    color: var(--muted);
+    margin-bottom: 10px;
+  }
+  .quote-line strong { color: var(--text); }
+  .quote-line.highlight { color: var(--text); font-size: clamp(16px, 2vw, 26px); font-weight: 600; }
+
+  /* Slide 3 — O Modelo */
+  .modelo-desc {
+    max-width: 700px;
+    font-size: clamp(14px, 1.6vw, 20px);
+    color: var(--muted);
+    line-height: 1.75;
+    margin-top: 12px;
+  }
+  .modelo-desc strong { color: var(--text); }
+
+  /* Slide 4 — Funil */
+  .funil-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 0;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    max-width: 1100px;
+  }
+  .funil-step {
+    display: flex;
+    align-items: center;
+    gap: 0;
+  }
+  .funil-box {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 10px 14px;
+    font-size: 11px;
+    font-weight: 600;
+    text-align: center;
+    color: var(--text);
+    min-width: 80px;
+    line-height: 1.3;
+  }
+  .funil-box.accent-box {
+    background: var(--accent-light);
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+  .funil-box .funil-value {
+    font-size: 10px;
+    font-weight: 700;
+    color: var(--accent);
+    margin-top: 4px;
+    display: block;
+  }
+  .funil-arrow {
+    color: var(--accent);
+    font-size: 16px;
+    padding: 0 6px;
+    font-weight: 700;
+  }
+  .funil-caption {
+    font-size: clamp(12px, 1.4vw, 16px);
+    color: var(--muted);
+    max-width: 680px;
+    margin-top: 28px;
+    line-height: 1.6;
+  }
+  .funil-caption strong { color: var(--text); }
+
+  /* Slide 5 — Diagnóstico */
+  .diag-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+    width: 100%;
+    max-width: 860px;
+    margin-top: 28px;
+    text-align: left;
+  }
+  .diag-antes {
+    background: #0f0f0f;
+    border: 1px solid #222;
+    border-radius: 14px;
+    padding: 32px 28px;
+  }
+  .diag-depois {
+    background: var(--accent-light);
+    border: 1px solid var(--accent);
+    border-radius: 14px;
+    padding: 32px 28px;
+  }
+  .diag-label {
+    font-size: 10px;
+    font-weight: 800;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+  }
+  .diag-label.antes { color: #4b5563; }
+  .diag-label.depois { color: var(--accent); }
+  .diag-item {
+    font-size: clamp(12px, 1.4vw, 15px);
+    color: var(--muted);
+    margin-bottom: 10px;
+    padding-left: 16px;
+    position: relative;
+    line-height: 1.5;
+  }
+  .diag-item::before { content: '—'; position: absolute; left: 0; color: #374151; }
+  .diag-item.bright { color: var(--text); }
+  .diag-item.bright::before { color: var(--accent); }
+
+  /* Slide 6 — Experts */
+  .experts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    width: 100%;
+    max-width: 980px;
+    margin-top: 24px;
+  }
+  .expert-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 24px 20px;
+    text-align: left;
+  }
+  .expert-handle {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--accent);
+    letter-spacing: 0.05em;
+    margin-bottom: 6px;
+  }
+  .expert-name {
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--text);
+    margin-bottom: 10px;
+  }
+  .expert-result {
+    font-size: clamp(20px, 2.5vw, 30px);
+    font-weight: 900;
+    color: var(--accent);
+    line-height: 1;
+    margin-bottom: 8px;
+  }
+  .expert-desc {
+    font-size: 11px;
+    color: var(--muted);
+    line-height: 1.5;
+  }
+  .expert-followers {
+    font-size: 10px;
+    color: #4b5563;
+    margin-top: 8px;
+    font-weight: 500;
+  }
+
+  /* Slide 6B — 2 experts */
+  .experts-grid-2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+    width: 100%;
+    max-width: 760px;
+    margin-top: 24px;
+  }
+
+  /* Slide 7 — Kauã */
+  .slide-kaua {
+    flex-direction: row !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 60px !important;
+    text-align: left !important;
+    padding: 60px 80px !important;
+  }
+  .kaua-photo-placeholder {
+    width: 340px;
+    min-width: 300px;
+    aspect-ratio: 3/4;
+    max-height: 480px;
+    background: linear-gradient(135deg, #1a0a2e 0%, #0a0a0a 100%);
+    border-radius: 20px;
+    border: 1px solid var(--border);
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    overflow: hidden;
+    position: relative;
+  }
+  .kaua-photo-placeholder img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 20px;
+  }
+  .kaua-photo-label {
+    position: absolute;
+    bottom: 16px;
+    left: 16px;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    color: var(--muted);
+    text-transform: uppercase;
+  }
+  .kaua-creds {
+    list-style: none;
+    margin-top: 20px;
+  }
+  .kaua-creds li {
+    font-size: clamp(12px, 1.4vw, 16px);
+    color: var(--muted);
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border);
+    padding-left: 16px;
+    position: relative;
+    line-height: 1.5;
+  }
+  .kaua-creds li::before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: var(--accent);
+    font-weight: 700;
+  }
+  .kaua-creds li strong { color: var(--text); }
+
+  /* Slide 8 — História */
+  .historia-text {
+    max-width: 720px;
+    text-align: left;
+  }
+  .historia-para {
+    font-size: clamp(14px, 1.7vw, 20px);
+    color: var(--muted);
+    line-height: 1.8;
+    margin-bottom: 18px;
+  }
+  .historia-para strong { color: var(--text); }
+
+  /* Slide 9 — Divisão */
+  .divisao-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 28px;
+    width: 100%;
+    max-width: 900px;
+    margin-top: 24px;
+    text-align: left;
+  }
+  .divisao-col {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 28px 24px;
+  }
+  .divisao-col.kauas {
+    border-color: var(--accent);
+    background: rgba(124,58,237,0.05);
+  }
+  .divisao-col-title {
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    color: var(--muted);
+  }
+  .divisao-col.kauas .divisao-col-title { color: var(--accent); }
+  .divisao-item {
+    font-size: clamp(12px, 1.3vw, 15px);
+    color: var(--muted);
+    padding: 8px 0 8px 16px;
+    position: relative;
+    border-bottom: 1px solid #1a1a1a;
+    line-height: 1.4;
+  }
+  .divisao-item::before { content: '—'; position: absolute; left: 0; color: #333; }
+  .divisao-col.kauas .divisao-item::before { color: var(--accent); }
+  .divisao-col.kauas .divisao-item { color: var(--text); }
+  .divisao-horas {
+    font-size: 11px;
+    color: var(--accent);
+    font-weight: 700;
+    margin-top: 16px;
+    letter-spacing: 0.05em;
+  }
+
+  /* Slide 10 — Projeção */
+  .proj-table {
+    width: 100%;
+    max-width: 860px;
+    margin-top: 24px;
+    border-collapse: collapse;
+  }
+  .proj-table th {
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    padding: 12px 20px;
+    border-bottom: 1px solid var(--border);
+    text-align: center;
+  }
+  .proj-table th:first-child { text-align: left; }
+  .proj-table td {
+    padding: 14px 20px;
+    font-size: clamp(12px, 1.4vw, 15px);
+    border-bottom: 1px solid #111;
+    text-align: center;
+    color: var(--muted);
+  }
+  .proj-table td:first-child { text-align: left; color: var(--text); font-weight: 600; }
+  .proj-table tr.highlight-row td {
+    background: rgba(124,58,237,0.08);
+    color: var(--text);
+    font-weight: 700;
+  }
+  .proj-table tr.highlight-row td:first-child { color: var(--accent); }
+  .big-number-proj {
+    font-size: clamp(44px, 6vw, 80px);
+    font-weight: 900;
+    color: var(--accent);
+    line-height: 1;
+    margin: 28px 0 8px;
+  }
+  .proj-caption {
+    font-size: clamp(11px, 1.3vw, 14px);
+    color: var(--muted);
+    max-width: 580px;
+    line-height: 1.6;
+  }
+
+  /* Slide 11 — Proteção */
+  .protecao-list {
+    list-style: none;
+    max-width: 700px;
+    margin-top: 24px;
+    text-align: left;
+  }
+  .protecao-list li {
+    font-size: clamp(13px, 1.5vw, 18px);
+    color: var(--muted);
+    padding: 14px 0 14px 32px;
+    border-bottom: 1px solid var(--border);
+    position: relative;
+    line-height: 1.5;
+  }
+  .protecao-list li::before {
+    content: '✓';
+    position: absolute;
+    left: 0;
+    color: var(--accent);
+    font-weight: 800;
+    font-size: 16px;
+  }
+  .protecao-list li strong { color: var(--text); }
+  .protecao-closing {
+    font-size: clamp(13px, 1.5vw, 18px);
+    color: var(--muted);
+    max-width: 620px;
+    margin-top: 28px;
+    line-height: 1.7;
+  }
+  .protecao-closing strong { color: var(--text); }
+
+  /* Slide 12 — CTA */
+  .slide-cta {
+    background: linear-gradient(135deg, #5b21b6 0%, #7c3aed 50%, #6d28d9 100%) !important;
+  }
+  .slide-cta h1 { color: #fff; }
+  .cta-sub {
+    font-size: clamp(16px, 2vw, 26px);
+    color: rgba(255,255,255,0.8);
+    max-width: 640px;
+    margin-top: 10px;
+    line-height: 1.55;
+  }
+  .cta-body {
+    font-size: clamp(13px, 1.5vw, 18px);
+    color: rgba(255,255,255,0.65);
+    max-width: 600px;
+    margin-top: 28px;
+    line-height: 1.75;
+  }
+  .cta-body strong { color: rgba(255,255,255,0.9); }
+
+  /* Slide 13 — Contato */
+  .slide-contato {
+    background: radial-gradient(ellipse at 50% 50%, rgba(124,58,237,0.08) 0%, transparent 70%), var(--bg);
+  }
+  .contato-handle {
+    font-size: clamp(36px, 6vw, 88px);
+    font-weight: 900;
+    color: var(--accent);
+    letter-spacing: -0.03em;
+    line-height: 1;
+    margin: 8px 0;
+  }
+  .contato-tagline {
+    font-size: clamp(12px, 1.4vw, 16px);
+    color: var(--muted);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-top: 16px;
+  }
+  .contato-final {
+    font-size: clamp(12px, 1.5vw, 18px);
+    color: #2d2d2d;
+    font-weight: 700;
+    margin-top: 40px;
+    letter-spacing: 0.05em;
+  }
+
+  /* ── Reveal.js overrides ── */
+  .reveal .progress { background: #111; height: 3px; }
+  .reveal .progress span { background: var(--bg); }
+  .reveal .slide-number { font-family: 'Inter', sans-serif; font-size: 11px; color: #333; }
+  .reveal .controls { display: none !important; }
+</style>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+
+<!-- ════════════════════════════════════════════
+     SLIDE 1 — CAPA
+════════════════════════════════════════════ -->
+<section class="slide-capa">
+  <div class="tag">APRESENTAÇÃO EXCLUSIVA</div>
+  <h1>Você tem o ativo mais raro<br>do mercado digital.</h1>
+  <div class="divider"></div>
+  <p class="capa-sub">Autoridade real. Audiência que confia.</p>
+  <p class="capa-accent-line">Tudo que falta é a engrenagem certa para isso gerar dinheiro enquanto você dorme.</p>
+</section>
+
+<!-- ════════════════════════════════════════════
+     SLIDE 2 — VALIDAÇÃO
+════════════════════════════════════════════ -->
+<section class="slide-validacao">
+  <div class="tag">POR QUE VOCÊ FOI ESCOLHIDA</div>
+  <h2>Você não foi encontrada<br>por acaso.</h2>
+  <div class="divider"></div>
+  <div class="quote-block">
+    <p class="quote-line">Eu analiso dezenas de perfis toda semana.</p>
+    <p class="quote-line">A maioria tem <strong>audiência</strong> — mas não tem autoridade real.</p>
+    <p class="quote-line">Alguns têm <strong>autoridade</strong> — mas não têm audiência que engaja.</p>
+    <br>
+    <p class="quote-line highlight" style="color:#fff; font-size:clamp(17px,2vw,26px);">Você tem os dois.<br><span style="color:var(--accent)">E isso, no mercado de hoje, vale muito mais do que a maioria imagina.</span></p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════
+     SLIDE 3 — O MODELO
+════════════════════════════════════════════ -->
+<section>
+  <div class="tag">O MODELO</div>
+  <h2>Você já construiu<br>a parte mais difícil.</h2>
+  <div class="divider"></div>
+  <p class="modelo-desc">
+    <strong>Confiança não se compra com dinheiro.</strong><br>
+    Audiência que acredita em você levou anos para construir.<br><br>
+    O que falta é simples: um sistema que converta essa confiança<br>em receita previsível — todos os dias, sem você estar presente.
+  </p>
+  <br>
+  <div style="background:var(--bg-card); border:1px solid var(--border); border-radius:14px; padding:24px 36px; max-width:680px; margin-top:8px;">
+    <p style="font-size:clamp(13px,1.6vw,19px); color:var(--muted); line-height:1.75;">
+      <strong style="color:#fff">Direct Response com Expert</strong> é isso:<br>
+      sua voz, sua história, sua autoridade —<br>
+      dentro de um funil que vende 24 horas por dia,<br>
+      <span style="color:var(--accent); font-weight:600">sem você precisar atender mais uma pessoa.</span>
+    </p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════
+     SLIDE 4 — O FUNIL
+════════════════════════════════════════════ -->
+<section>
+  <div class="tag">COMO O DINHEIRO É GERADO</div>
+  <h3 style="margin-bottom:0;">Uma pessoa entra. O sistema faz o resto.</h3>
+  <div class="divider"></div>
+
+  <div class="funil-wrapper">
+    <div class="funil-step">
+      <div class="funil-box">ANÚNCIO<br><span style="font-size:9px;color:#4b5563;">tráfego pago</span></div>
+      <div class="funil-arrow">→</div>
+    </div>
+    <div class="funil-step">
+      <div class="funil-box">VSL<br><span style="font-size:9px;color:#4b5563;">vídeo de vendas</span></div>
+      <div class="funil-arrow">→</div>
+    </div>
+    <div class="funil-step">
+      <div class="funil-box">CHECKOUT<br><span style="font-size:9px;color:#4b5563;">produto principal</span></div>
+      <div class="funil-arrow">→</div>
+    </div>
+    <div class="funil-step">
+      <div class="funil-box accent-box">UPSELL 01<span class="funil-value">R$ 599</span></div>
+      <div class="funil-arrow">→</div>
+    </div>
+    <div class="funil-step">
+      <div class="funil-box accent-box">UPSELL 02<span class="funil-value">R$ 2.000</span></div>
+      <div class="funil-arrow">→</div>
+    </div>
+    <div class="funil-step">
+      <div class="funil-box">WEBNÁRIO<br><span style="font-size:9px;color:#4b5563;">ao vivo</span></div>
+      <div class="funil-arrow">→</div>
+    </div>
+    <div class="funil-step">
+      <div class="funil-box accent-box" style="background:rgba(124,58,237,0.25)">HIGH TICKET<span class="funil-value">10k · 20k · 50k</span></div>
+      <div class="funil-arrow">→</div>
+    </div>
+    <div class="funil-step">
+      <div class="funil-box">LANÇA-<br>MENTO</div>
+      <div class="funil-arrow">→</div>
+    </div>
+    <div class="funil-step">
+      <div class="funil-box">EVENTO<br>PRESENCIAL</div>
+    </div>
+  </div>
+
+  <p class="funil-caption">
+    Cada pessoa que entra no funil passa por múltiplas ofertas em sequência.<br>
+    <strong>Você cria uma vez. O funil vende para sempre.</strong>
+  </p>
+</section>
+
+<!-- ════════════════════════════════════════════
+     SLIDE 5 — DIAGNÓSTICO
+════════════════════════════════════════════ -->
+<section>
+  <div class="tag">A VERDADE QUE NINGUÉM TE CONTA</div>
+  <h2>Cada hora que você trabalha<br>tem um teto.</h2>
+  <div class="divider"></div>
+
+  <div class="diag-grid">
+    <div class="diag-antes">
+      <div class="diag-label antes">HOJE</div>
+      <p class="diag-item">Hora × atendimento = teto fixo de receita</p>
+      <p class="diag-item">Quando você descansa, a receita para</p>
+      <p class="diag-item">Crescer significa trabalhar mais</p>
+      <p class="diag-item">Sua renda está atrelada ao seu tempo</p>
+    </div>
+    <div class="diag-depois">
+      <div class="diag-label depois">COM ESTRUTURA</div>
+      <p class="diag-item bright">Audiência × funil = escala real e previsível</p>
+      <p class="diag-item bright">Quando você dorme, o funil vende</p>
+      <p class="diag-item bright">Crescer significa ajustar os anúncios</p>
+      <p class="diag-item bright">Sua renda escala enquanto você vive</p>
+    </div>
+  </div>
+
+  <p style="font-size:clamp(12px,1.4vw,16px);color:#4b5563;margin-top:20px; font-style:italic;">
+    Isso não é falta de competência. É falta de estrutura.
+  </p>
+</section>
+
+<!-- ════════════════════════════════════════════
+     SLIDE 6A — PROVA (Experts reais — parte 1)
+════════════════════════════════════════════ -->
+<section>
+  <div class="tag">ISSO NÃO É TEORIA</div>
+  <h3>Experts como você já estão fazendo isso.</h3>
+  <p style="font-size:clamp(12px,1.4vw,16px);color:var(--muted);margin-top:4px;">Cada um deles tinha audiência, autoridade e zero estrutura de funil. Hoje têm os três.</p>
+
+  <div class="experts-grid" style="margin-top:28px;">
+
+    <div class="expert-card">
+      <div class="expert-handle">@elidadiasv</div>
+      <div class="expert-name">Elida Dias</div>
+      <div class="expert-result">R$ 20M+</div>
+      <p class="expert-desc">Ex jovem aprendiz da periferia de Belém. Com tráfego direto e VSL, escalou para R$20 milhões e formou +30 mil alunos.</p>
+      <div class="expert-followers">350k seguidores · verificada</div>
+    </div>
+
+    <div class="expert-card" style="border-color:var(--accent);">
+      <div class="expert-handle">@lucasramos1_</div>
+      <div class="expert-name">Lucas Ramos</div>
+      <div class="expert-result">8 dígitos</div>
+      <p class="expert-desc">Sócio 50/50 dos maiores experts do Brasil. Múltiplos 8 dígitos faturados. 6 dígitos de lucro/dia no modelo perpétuo.</p>
+      <div class="expert-followers">Produtor referência em DR com expert</div>
+    </div>
+
+    <div class="expert-card">
+      <div class="expert-handle">@enzoneto</div>
+      <div class="expert-name">Enzo Neto — Chef</div>
+      <div class="expert-result">1,1M seg.</div>
+      <p class="expert-desc">Chef que transformou conhecimento culinário em o curso de cozinha mais escolhido do Brasil. Escala total com funil de expert.</p>
+      <div class="expert-followers">1,1 milhão de seguidores · verificado</div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════
+     SLIDE 6B — PROVA (Experts reais — parte 2)
+════════════════════════════════════════════ -->
+<section>
+  <div class="tag">ISSO NÃO É TEORIA</div>
+  <h3>O modelo escala em qualquer nicho.</h3>
+
+  <div class="experts-grid-2" style="margin-top:28px;">
+
+    <div class="expert-card" style="border-color:var(--accent);">
+      <div class="expert-handle">@priscianepereira</div>
+      <div class="expert-name">Prisciane Pereira</div>
+      <div class="expert-result">953k seg.</div>
+      <p class="expert-desc" style="font-size:13px;">Marketing de Vendas Online. Renda Extra Sem Estoque — funil de VSL com tráfego pago em escala real e verificável.</p>
+      <div class="expert-followers">953 mil seguidores · verificada</div>
+    </div>
+
+    <div class="expert-card">
+      <div class="expert-handle">@fealvessn</div>
+      <div class="expert-name">Felipe Alves</div>
+      <div class="expert-result">6,9M seg.</div>
+      <p class="expert-desc" style="font-size:13px;">Desenvolvimento pessoal e mentalidade. Autoridade construída com conteúdo — funil estruturado multiplica o resultado do orgânico.</p>
+      <div class="expert-followers">6,9 milhões de seguidores · verificado</div>
+    </div>
+
+  </div>
+
+  <p style="font-size:clamp(12px,1.4vw,16px);color:var(--muted);max-width:640px;margin-top:24px;line-height:1.6;">
+    Todos começaram onde você está agora:<br>com audiência, autoridade e a pergunta certa a fazer.
+  </p>
+</section>
+
+<!-- ════════════════════════════════════════════
+     SLIDE 7 — QUEM É O KAUÃ
+════════════════════════════════════════════ -->
+<section class="slide-kaua">
+  <div class="kaua-photo-placeholder">
+    <!-- SUBSTITUIR: colocar a foto do palco do Ouro Digital aqui -->
+    <!-- <img src="foto-kaua-palco.jpg" alt="Kauã Rodriguez"> -->
+    <div style="width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:16px;">
+      <div style="font-size:72px;font-weight:900;color:var(--accent);opacity:0.3;">KR</div>
+      <div style="font-size:11px;color:#333;text-align:center;padding:0 20px;line-height:1.5;">[ substituir pela foto<br>do palco Ouro Digital ]</div>
+    </div>
+    <div class="kaua-photo-label">Ouro Digital · DirectAds</div>
+  </div>
+
+  <div>
+    <div class="tag" style="text-align:left;">QUEM OPERA ISSO</div>
+    <h2 style="text-align:left;">Kauã<br>Rodriguez</h2>
+    <p style="font-size:clamp(13px,1.5vw,18px);color:var(--accent);font-weight:600;margin-top:8px;">Direct Response · Coprodução com Experts</p>
+
+    <ul class="kaua-creds">
+      <li><strong>Não sou consultor que vende conselho.</strong><br>Sou operador — executo, testo, otimizo, escalo.</li>
+      <li>Formado nas <strong>mentorias mais rigorosas</strong> do mercado de performance brasileiro</li>
+      <li>Cada coprodução que eu assino, <strong>eu opero</strong>.<br>Não terceirizo. Não delego para quem não entende.</li>
+      <li>Aprendi com quem <strong>fatura em escala real</strong> —<br>e coloco em prática o que a maioria só ensina.</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════
+     SLIDE 8 — HISTÓRIA DO KAUÃ
+════════════════════════════════════════════ -->
+<section>
+  <div class="tag">DE ONDE VIM</div>
+  <h2 style="max-width:700px;">Não tive mentor.<br>Não tive capital.<br><span style="color:var(--accent)">Tive obsessão.</span></h2>
+  <div class="divider"></div>
+  <div class="historia-text" style="margin:0 auto;">
+    <p class="historia-para">Comecei estudando cada detalhe do mercado de performance quando a maioria ainda achava que resultado vinha de sorte.</p>
+    <p class="historia-para"><strong>Errei rápido. Aprendi mais rápido ainda.</strong></p>
+    <p class="historia-para">Hoje não carrego teoria — carrego <strong>cicatrizes de teste</strong> e os padrões que funcionam de verdade.<br>É com esse repertório que eu opero cada parceria que assino.</p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════
+     SLIDE 9 — A DIVISÃO
+════════════════════════════════════════════ -->
+<section>
+  <div class="tag">A PARCERIA</div>
+  <h3>Você faz o que <span style="color:var(--accent)">ninguém pode fazer por você</span>.<br>Eu faço todo o resto.</h3>
+
+  <div class="divisao-grid">
+    <div class="divisao-col">
+      <div class="divisao-col-title">Monica faz</div>
+      <p class="divisao-item">Gravar os conteúdos com sua voz e sua história</p>
+      <p class="divisao-item">Ser a autoridade do produto perante o público</p>
+      <p class="divisao-item">Participar das sessões de alto ticket</p>
+      <div class="divisao-horas" style="color:var(--muted);">≈ 4 a 8 horas por semana</div>
+    </div>
+
+    <div class="divisao-col kauas">
+      <div class="divisao-col-title">Kauã faz</div>
+      <p class="divisao-item">Posicionamento e criação do produto do zero</p>
+      <p class="divisao-item">Copy completa: VSL, páginas, anúncios, emails, upsells</p>
+      <p class="divisao-item">Criação e gestão diária dos anúncios pagos</p>
+      <p class="divisao-item">Operação completa do funil de vendas</p>
+      <p class="divisao-item">Suporte ao cliente e gestão de reembolsos</p>
+      <p class="divisao-item">Relatórios semanais de performance</p>
+      <div class="divisao-horas">40+ horas por semana</div>
+    </div>
+  </div>
+
+  <p style="font-size:clamp(12px,1.4vw,15px);color:#4b5563;margin-top:20px;font-style:italic;">
+    Você traz o ativo mais valioso: sua autoridade. Eu trago a engrenagem.
+  </p>
+</section>
+
+<!-- ════════════════════════════════════════════
+     SLIDE 10 — PROJEÇÃO FINANCEIRA
+════════════════════════════════════════════ -->
+<section>
+  <div class="tag">O QUE ISSO REPRESENTA PARA VOCÊ</div>
+  <h3>Em 90 dias, o que sua audiência pode gerar.</h3>
+
+  <table class="proj-table">
+    <thead>
+      <tr>
+        <th>Cenário</th>
+        <th>Invest. em Ads/mês</th>
+        <th>Receita Bruta/mês</th>
+        <th>Seu Share (50%)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Conservador</td>
+        <td>R$ 5.000</td>
+        <td>R$ 25–50k</td>
+        <td>R$ 12–25k</td>
+      </tr>
+      <tr>
+        <td>Moderado</td>
+        <td>R$ 15.000</td>
+        <td>R$ 80–180k</td>
+        <td>R$ 40–90k</td>
+      </tr>
+      <tr class="highlight-row">
+        <td>Escala</td>
+        <td>R$ 40.000</td>
+        <td>R$ 300k+</td>
+        <td>R$ 150k+</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="big-number-proj">R$ 25.000</div>
+  <p style="font-size:clamp(11px,1.2vw,14px);color:var(--accent);font-weight:600;letter-spacing:0.05em;margin-bottom:8px;">CENÁRIO CONSERVADOR · MÊS 1</p>
+  <p class="proj-caption">
+    Baseado em funis ativos no mesmo mercado, com públicos similares ao seu.<br>
+    <strong style="color:var(--text)">Começamos conservador. Escalamos com dado. Você nunca investe mais do que o funil sustenta.</strong>
+  </p>
+</section>
+
+<!-- ════════════════════════════════════════════
+     SLIDE 11 — PROTEÇÃO CONTRATUAL
+════════════════════════════════════════════ -->
+<section>
+  <div class="tag">SUA SEGURANÇA</div>
+  <h2>Tudo que eu prometo,<br><span style="color:var(--accent)">eu assino.</span></h2>
+  <div class="divider"></div>
+
+  <ul class="protecao-list">
+    <li><strong>Contrato formal de coprodução</strong> — redigido por jurídico especializado em mercado digital</li>
+    <li><strong>Acesso total aos dados de vendas em tempo real</strong> — você vê cada centavo que entra</li>
+    <li><strong>Seu conteúdo é seu</strong> — nenhuma gravação pode ser usada fora desta parceria sem sua autorização</li>
+    <li><strong>Sem cláusula de exclusividade</strong> — você mantém todas as suas outras atividades</li>
+    <li><strong>Você pode sair</strong> a qualquer momento, respeitado o período de transição acordado</li>
+  </ul>
+
+  <p class="protecao-closing">
+    Você não precisa confiar em mim porque eu sou bacana.<br>
+    <strong>Você confia porque está escrito, assinado e verificável.</strong>
+  </p>
+</section>
+
+<!-- ════════════════════════════════════════════
+     SLIDE 12 — CTA
+════════════════════════════════════════════ -->
+<section class="slide-cta">
+  <h1 style="max-width:740px;">O que te impediria<br>de tentar?</h1>
+  <p class="cta-sub">Você tem a autoridade. Eu tenho a operação.<br>Falta apenas decidir se você quer ver isso funcionando.</p>
+
+  <p class="cta-body">
+    Esta call de 30 minutos não é para te vender nada.<br>
+    É para você entender, <strong>com todos os dados na mesa</strong>, se faz sentido para o seu momento.<br><br>
+    Se fizer — avançamos.<br>
+    Se não fizer — você sai com clareza do que é possível para o seu negócio.<br><br>
+    <strong>Nos dois casos, você ganha.</strong>
+  </p>
+</section>
+
+<!-- ════════════════════════════════════════════
+     SLIDE 13 — CONTATO
+════════════════════════════════════════════ -->
+<section class="slide-contato">
+  <div class="tag">A PRÓXIMA JOGADA É SUA</div>
+  <p style="font-size:clamp(14px,1.6vw,20px);color:var(--muted);">Kauã Rodriguez</p>
+  <div class="contato-handle">@okauarodriguez</div>
+  <p class="contato-tagline">Direct Response · Coprodução com Experts</p>
+  <p class="contato-final">A próxima jogada é sua.</p>
+</section>
+
+</div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.js"></script>
+<script>
+Reveal.initialize({
+  hash: true,
+  transition: 'fade',
+  transitionSpeed: 'slow',
+  backgroundTransition: 'fade',
+  center: true,
+  controls: false,
+  progress: true,
+  slideNumber: false,
+  width: 1920,
+  height: 1080,
+  margin: 0,
+  minScale: 0.1,
+  maxScale: 2.0,
+});
+</script>
+</body>
+</html>
