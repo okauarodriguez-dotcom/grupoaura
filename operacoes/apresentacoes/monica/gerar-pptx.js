@@ -842,7 +842,7 @@ function loadPhoto(filepath) {
 
   // Rows
   rows.forEach((r, ri) => {
-    const rowY = 2.3 + ri * 0.75;
+    const rowY = 2.3 + ri * 0.65;
     if (r.accent) {
       s.addShape(pptx.ShapeType.rect, {
         x: 1.3, y: rowY, w: 11.2, h: 0.65,
@@ -861,40 +861,40 @@ function loadPhoto(filepath) {
 
   // Big number
   s.addText("R$ 15.000", {
-    x: 1, y: 4.15, w: W / 2 - 1, h: 1.1,
+    x: 1, y: 4.5, w: W / 2 - 1, h: 1.1,
     fontSize: 68, color: ACCENT, bold: true,
     align: "center", fontFace: "Calibri"
   });
   s.addText("SEU SHARE · MÊS 1\nCENÁRIO CONSERVADOR", {
-    x: 1, y: 5.25, w: W / 2 - 1, h: 0.55,
+    x: 1, y: 5.6, w: W / 2 - 1, h: 0.55,
     fontSize: 9, color: MUTED, bold: true,
     align: "center", charSpacing: 1, fontFace: "Calibri", lineSpacingMultiple: 1.4
   });
 
   // Divisor vertical
   s.addShape(pptx.ShapeType.rect, {
-    x: W / 2 - 0.02, y: 4.1, w: 0.04, h: 1.8,
+    x: W / 2 - 0.02, y: 4.45, w: 0.04, h: 1.8,
     fill: { color: BORDER }, line: { color: BORDER }
   });
 
   s.addText("R$ 1,2M+", {
-    x: W / 2 + 0.5, y: 4.15, w: W / 2 - 1.2, h: 1.1,
+    x: W / 2 + 0.5, y: 4.5, w: W / 2 - 1.2, h: 1.1,
     fontSize: 68, color: ACCENT, bold: true,
     align: "center", fontFace: "Calibri"
   });
   s.addText("SEU SHARE · ANO 1\nCENÁRIO MODERADO", {
-    x: W / 2 + 0.5, y: 5.25, w: W / 2 - 1.2, h: 0.55,
+    x: W / 2 + 0.5, y: 5.6, w: W / 2 - 1.2, h: 0.55,
     fontSize: 9, color: MUTED, bold: true,
     align: "center", charSpacing: 1, fontFace: "Calibri", lineSpacingMultiple: 1.4
   });
 
   s.addText("Baseado em funis ativos com públicos similares. Começamos conservador, escalamos com dado real.", {
-    x: 1.5, y: 6.05, w: W - 3, h: 0.35,
+    x: 1.5, y: 6.35, w: W - 3, h: 0.35,
     fontSize: 11, color: DARK, italic: true,
     align: "center", fontFace: "Calibri"
   });
   s.addText("Você não investe um centavo — eu coloco o capital de ads e recupero do resultado.", {
-    x: 1.5, y: 6.45, w: W - 3, h: 0.35,
+    x: 1.5, y: 6.8, w: W - 3, h: 0.35,
     fontSize: 13, color: TEXT, bold: true,
     align: "center", fontFace: "Calibri"
   });
@@ -934,20 +934,20 @@ function loadPhoto(filepath) {
 
   items.forEach((item, i) => {
     s.addText("✓", {
-      x: 1.5, y: 3.75 + i * 0.72, w: 0.4, h: 0.55,
+      x: 1.5, y: 3.7 + i * 0.82, w: 0.4, h: 0.7,
       fontSize: 18, color: ACCENT, bold: true, fontFace: "Calibri"
     });
     s.addText([
       { text: item.bold, options: { color: TEXT, bold: true } },
       { text: item.rest, options: { color: MUTED } },
     ], {
-      x: 2.05, y: 3.75 + i * 0.72, w: W - 3.6, h: 0.55,
-      fontSize: 15, fontFace: "Calibri", lineSpacingMultiple: 1.3
+      x: 2.05, y: 3.7 + i * 0.82, w: W - 3.6, h: 0.7,
+      fontSize: 14, fontFace: "Calibri", lineSpacingMultiple: 1.3
     });
   });
 
   s.addText("Você não precisa acreditar na minha palavra.\nVocê vai ter tudo escrito, assinado e verificável.", {
-    x: 1.5, y: 6.65, w: W - 3, h: 0.65,
+    x: 1.5, y: 7.0, w: W - 3, h: 0.65,
     fontSize: 15, color: TEXT, bold: true,
     align: "center", fontFace: "Calibri", lineSpacingMultiple: 1.4
   });
