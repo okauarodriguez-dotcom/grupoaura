@@ -160,25 +160,54 @@ function loadPhoto(filepath) {
   const s = pptx.addSlide();
   bg(s);
 
-  tag(s, "POR QUE EU TE ESCOLHI", 0.5);
-  h2(s, "Eu analisei dezenas de perfis antes de chegar até você.", 1.0);
-  divider(s, 2.5);
+  tag(s, "POR QUE VOCÊ", 0.5);
+  s.addText("Você tem o ativo mais raro\ndo mercado digital.", {
+    x: 1, y: 0.85, w: W - 2, h: 1.55,
+    fontSize: 46, color: TEXT, bold: true,
+    align: "center", fontFace: "Calibri", lineSpacingMultiple: 1.1
+  });
+  divider(s, 2.55);
 
-  const lines = [
-    { text: "A maioria fala de psicanálise como teoria. Você fala ", color: MUTED },
-    { text: "como quem viveu na pele.", color: TEXT, bold: true },
+  // 3 motivos em cards horizontais
+  const razoes = [
+    {
+      titulo: "Autoridade Real",
+      desc: "Você não ensina psicanálise como teoria.\nVocê fala como quem viveu.\nIsso cria confiança que não se compra.",
+    },
+    {
+      titulo: "Audiência que Converte",
+      desc: "Mulheres que se perdem, se anulam e buscam se reconstruir.\nO público que mais compra infoproduto no Brasil.",
+    },
+    {
+      titulo: "Nicho sem Teto",
+      desc: "Autoconhecimento feminino é um dos mercados\nque mais cresce no digital. Você está\nexatamente no centro dele.",
+    },
   ];
 
-  s.addText([
-    { text: "A maioria fala de psicanálise como teoria.\n", options: { color: MUTED } },
-    { text: "Você fala como quem viveu na pele.\n\n", options: { color: TEXT, bold: true } },
-    { text: "Seus posts não ensinam conceitos — eles nomeiam o que a mulher sente,\nmas não sabe colocar em palavras. Isso é raro.\n\n", options: { color: MUTED } },
-    { text: "“Para a mulher que se perde, se anula e não entende por quê”\n", options: { color: ACCENT, bold: true } },
-    { text: "— esse é exatamente o público que mais compra na internet.", options: { color: MUTED } },
-  ], {
-    x: 1.8, y: 2.65, w: W - 3.6, h: 3.5,
-    fontSize: 17, fontFace: "Calibri", align: "center",
-    lineSpacingMultiple: 1.65
+  razoes.forEach((r, i) => {
+    const x = 0.5 + i * 4.3;
+    card(s, x, 2.75, 4.0, 4.3, i === 1);
+
+    s.addText(r.titulo, {
+      x: x + 0.15, y: 2.95, w: 3.7, h: 0.5,
+      fontSize: 16, color: i === 1 ? ACCENT : TEXT,
+      bold: true, fontFace: "Calibri", align: "center"
+    });
+    s.addShape(pptx.ShapeType.rect, {
+      x: x + 1.5, y: 3.5, w: 1.0, h: 0.03,
+      fill: { color: ACCENT }, line: { color: ACCENT }
+    });
+    s.addText(r.desc, {
+      x: x + 0.15, y: 3.65, w: 3.7, h: 2.8,
+      fontSize: 13, color: MUTED, fontFace: "Calibri",
+      align: "center", lineSpacingMultiple: 1.55
+    });
+  });
+
+  s.addText("Tudo que falta é a engrenagem certa para isso gerar dinheiro enquanto você dorme.", {
+    x: 1.5, y: 7.1, w: W - 3, h: 0.35,
+    fontSize: 13, color: ACCENT, bold: true,
+    align: "center", fontFace: "Calibri"
   });
 }
 
@@ -302,7 +331,74 @@ function loadPhoto(filepath) {
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
-// SLIDE 5 — O GAP (mais pessoal, menos teoria)
+// SLIDE 5 — A ESTRATÉGIA (como funciona na prática)
+// ─────────────────────────────────────────────────────────────────────────────
+{
+  const s = pptx.addSlide();
+  bg(s);
+
+  tag(s, "A ESTRATÉGIA — DO ZERO AO PERPÉTUO", 0.4);
+  s.addText("90 dias para o funil rodar.\nDepois, ele vende sozinho.", {
+    x: 1, y: 0.75, w: W - 2, h: 1.3,
+    fontSize: 36, color: TEXT, bold: true,
+    align: "center", fontFace: "Calibri", lineSpacingMultiple: 1.2
+  });
+  divider(s, 2.15);
+
+  const fases = [
+    { num: "01", titulo: "Diagnóstico\n+ Posicionamento", desc: "Mapeamos sua audiência.\nDefinimos o produto, o preço\ne o ângulo da VSL.", tempo: "Semanas 1–2" },
+    { num: "02", titulo: "Criação\n+ Produção", desc: "Você grava as aulas.\nEu produzo a VSL, as páginas,\nos emails e os anúncios.", tempo: "Semanas 3–5" },
+    { num: "03", titulo: "Lançamento\n+ Validação", desc: "Subimos com budget pequeno.\nTestamos. Medimos.\nAjustamos com dado real.", tempo: "Semanas 6–8" },
+    { num: "04", titulo: "Escala\nPerpétua", desc: "Com ROAS validado, escalamos.\nO funil roda 24h sem você.\nNovos produtos na esteira.", tempo: "Mês 3 em diante" },
+  ];
+
+  fases.forEach((f, i) => {
+    const x = 0.35 + i * 3.22;
+    card(s, x, 2.35, 3.0, 4.7, i === 3);
+
+    s.addText(f.num, {
+      x, y: 2.5, w: 3.0, h: 0.35,
+      fontSize: 10, color: ACCENT, bold: true,
+      align: "center", charSpacing: 3, fontFace: "Calibri"
+    });
+    s.addText(f.titulo, {
+      x: x + 0.1, y: 2.9, w: 2.8, h: 0.75,
+      fontSize: 16, color: TEXT, bold: true,
+      align: "center", fontFace: "Calibri", lineSpacingMultiple: 1.2
+    });
+    s.addShape(pptx.ShapeType.rect, {
+      x: x + 1.1, y: 3.72, w: 0.8, h: 0.03,
+      fill: { color: ACCENT }, line: { color: ACCENT }
+    });
+    s.addText(f.desc, {
+      x: x + 0.1, y: 3.85, w: 2.8, h: 2.1,
+      fontSize: 12, color: MUTED, align: "center",
+      fontFace: "Calibri", lineSpacingMultiple: 1.55
+    });
+    s.addText(f.tempo, {
+      x, y: 6.65, w: 3.0, h: 0.25,
+      fontSize: 9, color: i === 3 ? ACCENT : DARK,
+      align: "center", fontFace: "Calibri", bold: i === 3
+    });
+
+    // Seta entre fases
+    if (i < fases.length - 1) {
+      s.addText("→", {
+        x: x + 3.02, y: 3.7, w: 0.2, h: 0.4,
+        fontSize: 14, color: ACCENT, align: "center", fontFace: "Calibri"
+      });
+    }
+  });
+
+  s.addText("Você aparece. Eu opero. O funil vende enquanto você dorme.", {
+    x: 1, y: 7.1, w: W - 2, h: 0.3,
+    fontSize: 13, color: DARK, italic: true,
+    align: "center", fontFace: "Calibri"
+  });
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// SLIDE 5b — O GAP (mais pessoal, menos teoria)
 // ─────────────────────────────────────────────────────────────────────────────
 {
   const s = pptx.addSlide();
@@ -376,7 +472,7 @@ function loadPhoto(filepath) {
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
-// SLIDE 6 — PROVA (experts reais — histórias, não só números)
+// SLIDE 6 — PROVA (experts reais)
 // ─────────────────────────────────────────────────────────────────────────────
 {
   const s = pptx.addSlide();
@@ -398,6 +494,7 @@ function loadPhoto(filepath) {
       resultSub: "com tráfego direto",
       story: "Jovem aprendiz da periferia de Belém.\nSem capital, sem contato.\nUsou o próprio conhecimento como produto.\nHoje tem +30 mil alunos.",
       follow: "350k seguidores · verificada",
+      foto: loadPhoto("c:/Users/Desktop/Downloads/grupoaura/operacoes/apresentacoes/monica/foto-elida.jpg"),
     },
     {
       handle: "@lucasramos1_",
@@ -406,6 +503,7 @@ function loadPhoto(filepath) {
       resultSub: "faturados como produtor",
       story: "Sócio 50/50 dos maiores experts do Brasil.\n6 dígitos de lucro por dia no modelo perpétuo.\nNão é expert — é o cara que opera os bastidores.\nExatamente o que eu faço.",
       follow: "Produtor referência em DR com expert",
+      foto: loadPhoto("c:/Users/Desktop/Downloads/grupoaura/operacoes/apresentacoes/monica/foto-lucas.jpg"),
     },
     {
       handle: "@enzoneto",
@@ -414,6 +512,7 @@ function loadPhoto(filepath) {
       resultSub: "seguidores · funil ativo",
       story: "Transformou conhecimento de cozinha no\ncurso mais escolhido do Brasil.\nNicho que parecia impossível de escalar.\nFunciona quando a estrutura está certa.",
       follow: "1,1 milhão de seguidores · verificado",
+      foto: loadPhoto("c:/Users/Desktop/Downloads/grupoaura/operacoes/apresentacoes/monica/foto-enzo.jpg"),
     },
   ];
 
@@ -425,32 +524,34 @@ function loadPhoto(filepath) {
 
     card(s, x, y, cW, cH, i === 1);
 
+    // Foto de perfil
+    if (e.foto) {
+      s.addImage({ path: e.foto, x: x + 0.15, y: y + 0.15, w: 0.65, h: 0.65,
+        sizing: { type: "cover", w: 0.65, h: 0.65 } });
+    }
     s.addText(e.handle, {
-      x: x + 0.15, y: y + 0.2, w: cW - 0.3, h: 0.3,
-      fontSize: 10, color: ACCENT, bold: true,
-      fontFace: "Calibri", charSpacing: 1
+      x: x + (e.foto ? 0.88 : 0.15), y: y + 0.2, w: cW - (e.foto ? 1.0 : 0.3), h: 0.3,
+      fontSize: 10, color: ACCENT, bold: true, fontFace: "Calibri", charSpacing: 1
     });
     s.addText(e.name, {
-      x: x + 0.15, y: y + 0.55, w: cW - 0.3, h: 0.35,
-      fontSize: 15, color: TEXT, bold: true, fontFace: "Calibri"
+      x: x + (e.foto ? 0.88 : 0.15), y: y + 0.52, w: cW - (e.foto ? 1.0 : 0.3), h: 0.32,
+      fontSize: 14, color: TEXT, bold: true, fontFace: "Calibri"
     });
     s.addText(e.result, {
-      x: x + 0.15, y: y + 0.95, w: cW - 0.3, h: 0.7,
+      x: x + 0.15, y: y + 1.0, w: cW - 0.3, h: 0.7,
       fontSize: 36, color: ACCENT, bold: true, fontFace: "Calibri"
     });
     s.addText(e.resultSub, {
-      x: x + 0.15, y: y + 1.65, w: cW - 0.3, h: 0.25,
+      x: x + 0.15, y: y + 1.68, w: cW - 0.3, h: 0.25,
       fontSize: 10, color: MUTED, fontFace: "Calibri"
     });
-    // Divider pequeno
     s.addShape(pptx.ShapeType.rect, {
-      x: x + 0.15, y: y + 1.95, w: 0.5, h: 0.03,
+      x: x + 0.15, y: y + 1.98, w: 0.5, h: 0.03,
       fill: { color: ACCENT }, line: { color: ACCENT }
     });
     s.addText(e.story, {
       x: x + 0.15, y: y + 2.1, w: cW - 0.3, h: 2.4,
-      fontSize: 12, color: MUTED, fontFace: "Calibri",
-      lineSpacingMultiple: 1.55
+      fontSize: 12, color: MUTED, fontFace: "Calibri", lineSpacingMultiple: 1.55
     });
     s.addText(e.follow, {
       x: x + 0.15, y: y + 4.85, w: cW - 0.3, h: 0.3,
@@ -476,14 +577,16 @@ function loadPhoto(filepath) {
       resultSub: "seguidores em escala",
       story: "Ensina renda extra com Shopee.\nCriou um funil de VSL que vende\ntodos os dias, com tráfego pago.\nO mesmo sistema que seria aplicado aqui.",
       follow: "953 mil seguidores · verificada",
+      foto: loadPhoto("c:/Users/Desktop/Downloads/grupoaura/operacoes/apresentacoes/monica/foto-prisciane.jpg"),
     },
     {
       handle: "@fealvessn",
       name: "Felipe Alves",
       result: "6,9M",
-      resultSub: "seguidores · multiple produtos",
+      resultSub: "seguidores · múltiplos produtos",
       story: "Desenvolvimento pessoal e autoconhecimento.\nNicho muito próximo ao seu.\nAutoridade construída com conteúdo —\nfunil estruturado multiplica o orgânico.",
       follow: "6,9 milhões de seguidores · verificado",
+      foto: loadPhoto("c:/Users/Desktop/Downloads/grupoaura/operacoes/apresentacoes/monica/foto-fealves.jpg"),
     },
   ];
 
@@ -495,12 +598,17 @@ function loadPhoto(filepath) {
 
     card(s, x, y, colW, cH, i === 0);
 
+    // Foto de perfil
+    if (e.foto) {
+      s.addImage({ path: e.foto, x: x + 0.2, y: y + 0.15, w: 0.65, h: 0.65,
+        sizing: { type: "cover", w: 0.65, h: 0.65 } });
+    }
     s.addText(e.handle, {
-      x: x + 0.2, y: y + 0.2, w: colW - 0.4, h: 0.3,
+      x: x + (e.foto ? 0.95 : 0.2), y: y + 0.2, w: colW - (e.foto ? 1.1 : 0.4), h: 0.3,
       fontSize: 10, color: ACCENT, bold: true, fontFace: "Calibri", charSpacing: 1
     });
     s.addText(e.name, {
-      x: x + 0.2, y: y + 0.55, w: colW - 0.4, h: 0.4,
+      x: x + (e.foto ? 0.95 : 0.2), y: y + 0.52, w: colW - (e.foto ? 1.1 : 0.4), h: 0.38,
       fontSize: 18, color: TEXT, bold: true, fontFace: "Calibri"
     });
     s.addText(e.result, {
@@ -549,7 +657,8 @@ function loadPhoto(filepath) {
   // Tentar carregar foto do Kauã
   const fotoKaua = loadPhoto("c:/Users/Desktop/Downloads/grupoaura/operacoes/apresentacoes/monica/kaua-palco.jpg")
     || loadPhoto("c:/Users/Desktop/Downloads/grupoaura/operacoes/apresentacoes/monica/kaua.jpg")
-    || loadPhoto("c:/Users/Desktop/Downloads/491211111_3466720810130264_3807835024903484999_n.jpg");
+    || loadPhoto("c:/Users/Desktop/Downloads/491211111_3466720810130264_3807635024903484999_n.jpg")
+    || loadPhoto("c:/Users/Desktop/Downloads/492974033_122179994108342720_7808352670886967956_n.jpg");
 
   if (fotoKaua) {
     s.addImage({
@@ -594,10 +703,10 @@ function loadPhoto(filepath) {
   });
 
   const creds = [
-    { b: "Não sou consultor que vende conselho.", r: " Sou operador — executo, testo, escalo." },
-    { b: "Formado nas mentorias mais rigorosas", r: " do mercado de performance do Brasil." },
-    { b: "Cada coprodução que assino, eu opero.", r: " Não terceirizo o que importa." },
-    { b: "Aprendi errando.", r: " Carrego cicatrizes de teste, não teoria." },
+    { b: "+7 dígitos faturados", r: " em coproduções com experts." },
+    { b: "6 anos no digital.", r: " Construindo antes de virar tendência." },
+    { b: "Escalei mais de 3 experts", r: " a múltiplos 6 dígitos por mês." },
+    { b: "Convidado a palestrar no Ouro Digital", r: " — um dos maiores eventos de performance do Brasil." },
   ];
 
   creds.forEach((c, i) => {
@@ -619,39 +728,7 @@ function loadPhoto(filepath) {
   });
 }
 
-// ─────────────────────────────────────────────────────────────────────────────
-// SLIDE 9 — HISTÓRIA (mais vulnerável)
-// ─────────────────────────────────────────────────────────────────────────────
-{
-  const s = pptx.addSlide();
-  bg(s);
-
-  tag(s, "DE ONDE VIM", 0.5);
-
-  s.addText("Não tive mentor.\nNão tive capital.\nTive obsessão.", {
-    x: 1, y: 0.85, w: W - 2, h: 2.1,
-    fontSize: 52, color: TEXT, bold: true,
-    align: "center", fontFace: "Calibri",
-    lineSpacingMultiple: 1.1
-  });
-
-  // Destaque "Tive obsessão" já está no texto, mas vamos colorir via rich text
-  divider(s, 3.1);
-
-  s.addText([
-    { text: "Comecei estudando cada detalhe do mercado de performance quando a maioria\n", options: { color: MUTED } },
-    { text: "ainda achava que resultado vinha de sorte.\n\n", options: { color: MUTED } },
-    { text: "Errei rápido. Aprendi mais rápido ainda.\n\n", options: { color: TEXT, bold: true } },
-    { text: "Hoje não carrego teoria — carrego ", options: { color: MUTED } },
-    { text: "cicatrizes de teste", options: { color: ACCENT, bold: true } },
-    { text: " e os padrões que funcionam de verdade.\n", options: { color: MUTED } },
-    { text: "É com esse repertório que eu opero cada parceria que assino.", options: { color: MUTED } },
-  ], {
-    x: 1.8, y: 3.3, w: W - 3.6, h: 3.0,
-    fontSize: 17, fontFace: "Calibri", align: "center",
-    lineSpacingMultiple: 1.7
-  });
-}
+// SLIDE 9 — removido conforme solicitado
 
 // ─────────────────────────────────────────────────────────────────────────────
 // SLIDE 10 — A DIVISÃO (muito simples, muito claro)
@@ -741,9 +818,9 @@ function loadPhoto(filepath) {
 
   // Tabela manual
   const rows = [
-    { scenario: "Conservador", ads: "R$ 5k/mês", gross: "R$ 25–50k/mês", share: "R$ 12–25k/mês", accent: false },
-    { scenario: "Moderado",    ads: "R$ 15k/mês", gross: "R$ 80–180k/mês", share: "R$ 40–90k/mês", accent: false },
-    { scenario: "Escala",      ads: "R$ 40k/mês", gross: "R$ 300k+/mês", share: "R$ 150k+/mês", accent: true },
+    { scenario: "Conservador", ads: "R$ 5k/mês", gross: "R$ 30–60k/mês", share: "R$ 15–30k/mês", accent: false },
+    { scenario: "Moderado",    ads: "R$ 20k/mês", gross: "R$ 100–200k/mês", share: "R$ 50–100k/mês", accent: false },
+    { scenario: "Escala",      ads: "R$ 50k/mês", gross: "R$ 400k+/mês", share: "R$ 200k+/mês", accent: true },
   ];
 
   const headers = ["Cenário", "Invest. em Ads", "Receita Bruta", "Seu Share (50%)"];
@@ -783,22 +860,40 @@ function loadPhoto(filepath) {
   });
 
   // Big number
-  s.addText("R$ 25.000", {
-    x: 1, y: 4.3, w: W - 2, h: 1.3,
-    fontSize: 88, color: ACCENT, bold: true,
+  s.addText("R$ 15.000", {
+    x: 1, y: 4.15, w: W / 2 - 1, h: 1.1,
+    fontSize: 68, color: ACCENT, bold: true,
     align: "center", fontFace: "Calibri"
   });
-  s.addText("SEU SHARE · CENÁRIO CONSERVADOR · MÊS 1", {
-    x: 1, y: 5.55, w: W - 2, h: 0.35,
-    fontSize: 10, color: ACCENT, bold: true,
-    align: "center", charSpacing: 2, fontFace: "Calibri"
+  s.addText("SEU SHARE · MÊS 1\nCENÁRIO CONSERVADOR", {
+    x: 1, y: 5.25, w: W / 2 - 1, h: 0.55,
+    fontSize: 9, color: MUTED, bold: true,
+    align: "center", charSpacing: 1, fontFace: "Calibri", lineSpacingMultiple: 1.4
   });
-  s.addText("Baseado em funis ativos com públicos similares ao seu. Começamos conservador. Escalamos com dado.", {
-    x: 1.5, y: 6.0, w: W - 3, h: 0.4,
-    fontSize: 12, color: DARK, italic: true,
+
+  // Divisor vertical
+  s.addShape(pptx.ShapeType.rect, {
+    x: W / 2 - 0.02, y: 4.1, w: 0.04, h: 1.8,
+    fill: { color: BORDER }, line: { color: BORDER }
+  });
+
+  s.addText("R$ 1,2M+", {
+    x: W / 2 + 0.5, y: 4.15, w: W / 2 - 1.2, h: 1.1,
+    fontSize: 68, color: ACCENT, bold: true,
     align: "center", fontFace: "Calibri"
   });
-  s.addText("Você nunca investe mais do que o funil sustenta.", {
+  s.addText("SEU SHARE · ANO 1\nCENÁRIO MODERADO", {
+    x: W / 2 + 0.5, y: 5.25, w: W / 2 - 1.2, h: 0.55,
+    fontSize: 9, color: MUTED, bold: true,
+    align: "center", charSpacing: 1, fontFace: "Calibri", lineSpacingMultiple: 1.4
+  });
+
+  s.addText("Baseado em funis ativos com públicos similares. Começamos conservador, escalamos com dado real.", {
+    x: 1.5, y: 6.05, w: W - 3, h: 0.35,
+    fontSize: 11, color: DARK, italic: true,
+    align: "center", fontFace: "Calibri"
+  });
+  s.addText("Você não investe um centavo — eu coloco o capital de ads e recupero do resultado.", {
     x: 1.5, y: 6.45, w: W - 3, h: 0.35,
     fontSize: 13, color: TEXT, bold: true,
     align: "center", fontFace: "Calibri"
@@ -824,37 +919,36 @@ function loadPhoto(filepath) {
 
   divider(s, 2.55);
 
-  s.addText("Sei que a maior dúvida de qualquer expert é: \"e se eu entregar meu conteúdo e não receber nada?\"\nEssa dúvida é legítima. E é exatamente por isso que tudo vai estar em papel.", {
-    x: 1.5, y: 2.75, w: W - 3, h: 0.95,
-    fontSize: 15, color: MUTED, align: "center",
-    fontFace: "Calibri", lineSpacingMultiple: 1.55
+  s.addText("Tudo que combinamos entra no contrato.\nNada fica só na palavra.", {
+    x: 1.5, y: 2.75, w: W - 3, h: 0.85,
+    fontSize: 18, color: MUTED, align: "center",
+    fontFace: "Calibri", lineSpacingMultiple: 1.45
   });
 
   const items = [
-    { bold: "Contrato formal de coprodução", rest: " — redigido por jurídico especializado em mercado digital" },
-    { bold: "Acesso total aos dados de vendas em tempo real", rest: " — você vê cada centavo que entra" },
-    { bold: "Seu conteúdo é seu", rest: " — nenhuma gravação usada fora desta parceria sem sua autorização" },
-    { bold: "Sem exclusividade", rest: " — você mantém todos os seus atendimentos e projetos" },
-    { bold: "Você pode sair", rest: " — a qualquer momento, respeitado o período de transição" },
+    { bold: "Divisão de receita clara e verificável", rest: " — você acompanha em tempo real." },
+    { bold: "Seu conteúdo permanece seu", rest: " — nada é usado fora desta parceria sem sua autorização." },
+    { bold: "Sem exclusividade", rest: " — você mantém todos os seus projetos e atendimentos." },
+    { bold: "Saída garantida", rest: " — se quiser sair, a operação tem transição estruturada." },
   ];
 
   items.forEach((item, i) => {
     s.addText("✓", {
-      x: 1.3, y: 3.85 + i * 0.62, w: 0.4, h: 0.5,
-      fontSize: 16, color: ACCENT, bold: true, fontFace: "Calibri"
+      x: 1.5, y: 3.75 + i * 0.72, w: 0.4, h: 0.55,
+      fontSize: 18, color: ACCENT, bold: true, fontFace: "Calibri"
     });
     s.addText([
       { text: item.bold, options: { color: TEXT, bold: true } },
       { text: item.rest, options: { color: MUTED } },
     ], {
-      x: 1.8, y: 3.85 + i * 0.62, w: W - 3.2, h: 0.5,
-      fontSize: 14, fontFace: "Calibri", lineSpacingMultiple: 1.3
+      x: 2.05, y: 3.75 + i * 0.72, w: W - 3.6, h: 0.55,
+      fontSize: 15, fontFace: "Calibri", lineSpacingMultiple: 1.3
     });
   });
 
-  s.addText("Você não precisa confiar em mim porque eu sou bacana.\nVocê confia porque está escrito, assinado e verificável.", {
-    x: 1.5, y: 7.0, w: W - 3, h: 0.55,
-    fontSize: 14, color: TEXT, bold: true,
+  s.addText("Você não precisa acreditar na minha palavra.\nVocê vai ter tudo escrito, assinado e verificável.", {
+    x: 1.5, y: 6.65, w: W - 3, h: 0.65,
+    fontSize: 15, color: TEXT, bold: true,
     align: "center", fontFace: "Calibri", lineSpacingMultiple: 1.4
   });
 }
