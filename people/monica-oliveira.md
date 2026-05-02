@@ -33,12 +33,16 @@
 ## Próximos Passos
 
 ### Kauã faz até domingo:
+- [x] Criar grupo no WhatsApp com Monica e Marcos
+- [x] Mandar convite da call de segunda
+- [x] Compartilhar vídeo da palestra no evento Higor Neves
+- [ ] Resolver questões do contrato (tributação exterior, Marcos co-investidor, fluxo do dinheiro)
 - [ ] Enviar contrato para Monica e Marcos
-- [ ] Criar grupo no WhatsApp com Monica e Marcos
-- [ ] Mandar convite da call de segunda
-- [ ] Compartilhar vídeo da palestra no evento Higor Neves
-- [ ] Análise de mercado (concorrentes de relacionamento rodando)
+- [ ] Análise minuciosa do perfil da Monica
 - [ ] Pesquisa de público (mente da mulher com problema de relacionamento)
+- [ ] Análise de mercado (concorrentes de relacionamento rodando)
+- [ ] Desenvolver perguntas para extrair na call de segunda
+- [ ] Analisar produto da Monica (Método CIT / Caminho da Mulher Sábia)
 
 ### Call de alinhamento:
 - **Segunda-feira, 02/05/2026 — 17h (horário de Brasília)**
