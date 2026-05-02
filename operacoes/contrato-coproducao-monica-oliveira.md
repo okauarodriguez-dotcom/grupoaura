@@ -65,9 +65,9 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 **2.1.** O presente contrato tem por objeto a formalização de parceria de coprodução digital entre as Partes, com o fim de criar, estruturar, produzir, lançar e operar produto digital no nicho de relacionamento, maturidade emocional e desenvolvimento feminino, utilizando como base o conhecimento, método e imagem da Expert.
 
-**2.2.** O produto será comercializado prioritariamente por meio de funil de vendas de tráfego pago (VSL), estruturado e operado exclusivamente pelo Estrategista Principal.
+**2.2.** O produto será comercializado prioritariamente por meio de funil de vendas de tráfego pago (VSL), estruturado e operado exclusivamente pelo Estrategista Principal. O produto assumirá o formato de curso digital gravado, com possibilidade de inclusão de eventos ao vivo, webinários, mentorias em grupo e oferta de alto valor (high ticket), conforme planejamento estratégico definido pelo Estrategista Principal.
 
-**2.3.** A estrutura definitiva de produtos, preços e sequência de funil poderá ser ajustada pelo Estrategista Principal, ouvidas as demais Partes, conforme a performance das campanhas e demandas do mercado.
+**2.3.** A estrutura definitiva de produtos, preços, sequência de funil e formatos de entrega poderá ser ajustada pelo Estrategista Principal, ouvidas as demais Partes, conforme a performance das campanhas e demandas do mercado, sendo vedada qualquer redução unilateral nos percentuais de participação previstos na Cláusula 10.
 
 **2.4.** Toda a infraestrutura técnica, operacional e comercial da operação — incluindo plataforma de hospedagem de vídeos, plataforma de vendas, sistema de rastreamento e analytics, contas de anúncio, pixel de conversão, domínios, automações e demais ferramentas — estará sob titularidade e gestão exclusiva do Estrategista Principal. As demais Partes não deterão acesso administrativo a esses sistemas, ressalvado o acesso de leitura a relatórios financeiros previsto na Cláusula 11.
 
@@ -123,11 +123,11 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 ---
 
-## CLÁUSULA 5 — ATRIBUIÇÕES DO CO-INVESTIDOR E ESTRATEGISTA SECUNDÁRIO (Marcos Oliveira)
+## CLÁUSULA 5 — ATRIBUIÇÕES E INADIMPLÊNCIA DO CO-INVESTIDOR (Marcos Oliveira)
 
 **5.1.** Compete ao Co-investidor:
 
-**a)** Aportar **50% (cinquenta por cento)** do valor investido mensalmente em tráfego pago (Meta Ads), conforme orçamento definido pelo Estrategista Principal;
+**a)** Aportar **50% (cinquenta por cento)** do valor investido mensalmente em tráfego pago (Meta Ads), conforme orçamento definido pelo Estrategista Principal, observado o valor mínimo mensal de **R$ [___] ([___] reais)**, acordado entre as Partes;
 
 **b)** Participar das reuniões estratégicas periódicas da operação, contribuindo com análises, sugestões e perspectivas sobre o negócio;
 
@@ -138,6 +138,20 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 **e)** Respeitar integralmente a autonomia decisória do Estrategista Principal, a quem compete a decisão final sobre todas as questões estratégicas, operacionais e comerciais da operação.
 
 **5.2.** Os custos relativos a ferramentas, plataformas, produção de conteúdo e infraestrutura técnica são de responsabilidade exclusiva do Estrategista Principal e não integram o aporte do Co-investidor.
+
+**5.3. Inadimplência do Co-investidor**
+
+**a)** Na hipótese de o Co-investidor não realizar o aporte mensal no prazo acordado, o Estrategista Principal notificará por escrito (WhatsApp ou e-mail) com prazo de **5 (cinco) dias úteis** para regularização;
+
+**b)** Não regularizado o aporte no prazo, o Estrategista Principal poderá, a seu critério:
+
+— **Opção 1:** Cobrir integralmente o valor não aportado com recursos próprios, passando a deter o percentual equivalente ao aporte não realizado no resultado do período, sem prejuízo dos percentuais permanentes da Cláusula 10;
+
+— **Opção 2:** Suspender temporariamente os investimentos em tráfego pago até a regularização, sem que isso configure descumprimento contratual por parte do Estrategista Principal;
+
+— **Opção 3:** Rescindir o contrato com o Co-investidor, sem necessidade de aviso prévio, assumindo integralmente a operação, sendo devida ao Co-investidor apenas a remuneração proporcional ao período efetivamente cumprido.
+
+**c)** A inadimplência reiterada — definida como **2 (dois) ou mais** meses de atraso ou não aporte em um período de **12 (doze) meses** — configura justa causa para rescisão imediata sem ônus ao Estrategista Principal.
 
 ---
 
@@ -239,22 +253,22 @@ O lucro líquido distribuível corresponde ao faturamento bruto da operação, d
 
 **a)** Investimento total em tráfego pago (Meta Ads e demais plataformas);
 **b)** Taxas da plataforma de vendas (gateway de pagamento, antecipação, chargeback);
-**c)** Custos com ferramentas e infraestrutura diretamente relacionados à operação e acordados entre as Partes;
+**c)** Custos com ferramentas e infraestrutura diretamente relacionados à operação e previamente acordados entre as Partes;
 **d)** Reembolsos processados no período.
 
 **10.3.** Custos de produção de conteúdo, edição, copywriting, ferramentas de gestão e demais despesas operacionais do Estrategista Principal **não** integram o rol de deduções do lucro líquido, sendo de responsabilidade exclusiva dele.
 
 **10.4. Pagamento à Expert**
 
-**a)** Frequência: mensal, até o dia **[___]** do mês subsequente ao período de apuração;
+**a)** Frequência: mensal, até o dia **10 (dez)** do mês subsequente ao período de apuração;
 **b)** Forma: transferência bancária (TED/PIX) em conta corrente de titularidade de Monica Oliveira no Brasil;
 **c)** Moeda: Real Brasileiro (R$);
 **d)** Responsabilidade tributária: Monica Oliveira é inteiramente responsável pelo cumprimento de suas obrigações fiscais, inclusive no que se refere à sua condição de residente no exterior, eximindo o Estrategista Principal de qualquer responsabilidade fiscal sobre os valores repassados.
 
 **10.5. Pagamento ao Co-investidor**
 
-**a)** Frequência: mensal, junto ao fechamento do relatório mensal;
-**b)** Forma: [a definir entre Kauã Henrique Rodrigues da Silva e Marcos Oliveira];
+**a)** Frequência: mensal, até o dia **10 (dez)** do mês subsequente ao período de apuração;
+**b)** Forma: transferência bancária (TED/PIX) para conta de titularidade de Marcos Oliveira;
 **c)** Moeda: Real Brasileiro (R$).
 
 **10.6.** O Estrategista Principal poderá reter parte do lucro líquido como reserva operacional, desde que devidamente comunicado às demais Partes no relatório mensal, não podendo tal retenção superar **20% (vinte por cento)** do lucro líquido apurado em cada período.
@@ -263,10 +277,10 @@ O lucro líquido distribuível corresponde ao faturamento bruto da operação, d
 
 ## CLÁUSULA 11 — TRANSPARÊNCIA FINANCEIRA E RELATÓRIOS
 
-**11.1.** O Estrategista Principal compromete-se a emitir relatório mensal de performance até o dia **[___]** do mês subsequente, contendo obrigatoriamente:
+**11.1.** O Estrategista Principal compromete-se a emitir relatório mensal de performance até o dia **05 (cinco)** do mês subsequente, contendo obrigatoriamente:
 
 **a)** Faturamento bruto do período;
-**b)** Discriminação de todos os custos deduzidos;
+**b)** Discriminação de todos os custos deduzidos com respectivos comprovantes;
 **c)** Lucro líquido apurado;
 **d)** Valor do repasse a cada Parte;
 **e)** Principais métricas de campanha (faturamento por produto, ROAS, volume de vendas);
@@ -340,7 +354,7 @@ O lucro líquido distribuível corresponde ao faturamento bruto da operação, d
 
 **15.4.** A invalidade ou nulidade de qualquer cláusula deste contrato não afetará a validade das demais, que permanecerão em pleno vigor.
 
-**15.5.** As Partes elegem a assinatura eletrônica como meio válido e legalmente vinculante para formalização deste instrumento, nos termos da Lei nº 14.063/2020.
+**15.5.** As Partes elegem a assinatura eletrônica como meio válido e legalmente vinculante para formalização deste instrumento, nos termos da Lei nº 14.063/2020. Dado que a Expert reside no exterior, a assinatura será realizada por meio de plataforma de assinatura eletrônica qualificada (preferencialmente ClickSign ou DocuSign), com envio por e-mail para cada Parte, sendo dispensada a presença física ou reconhecimento em cartório.
 
 ---
 
@@ -350,7 +364,7 @@ O lucro líquido distribuível corresponde ao faturamento bruto da operação, d
 
 **16.2.** Não alcançado acordo na negociação direta, as Partes submeterão o conflito à **mediação**, a ser conduzida por mediador escolhido de comum acordo, no prazo de **30 (trinta) dias**.
 
-**16.3.** Persistindo o conflito após a mediação, fica eleito o Foro da Comarca de **[___]**, Estado de **[___]**, com exclusão de qualquer outro, por mais privilegiado que seja, para dirimir as questões oriundas deste contrato.
+**16.3.** Persistindo o conflito após a mediação, fica eleito o Foro da Comarca de **São Paulo**, Estado de **São Paulo**, com exclusão de qualquer outro, por mais privilegiado que seja, para dirimir as questões oriundas deste contrato.
 
 **16.4.** Este contrato é regido exclusivamente pela legislação brasileira, em especial pelo Código Civil Brasileiro (Lei nº 10.406/2002) e pela legislação aplicável ao mercado digital e direitos autorais.
 
@@ -358,7 +372,7 @@ O lucro líquido distribuível corresponde ao faturamento bruto da operação, d
 
 ## ASSINATURAS
 
-E por estarem assim justas e contratadas, as Partes assinam o presente instrumento em 3 (três) vias de igual teor e forma, na presença das testemunhas abaixo.
+E por estarem assim justas e contratadas, as Partes assinam o presente instrumento por meio de plataforma de assinatura eletrônica qualificada, com plena validade jurídica nos termos da Lei nº 14.063/2020.
 
 **Local e data:** __________________, _____ de __________________ de 2026.
 
