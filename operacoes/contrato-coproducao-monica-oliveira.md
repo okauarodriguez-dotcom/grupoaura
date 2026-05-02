@@ -3,7 +3,7 @@
 **Partes Contratantes:**
 - **Kauã Henrique Rodrigues da Silva** — Estrategista Principal e Operador
 - **Marcos Paulo Passos de Oliveira** — Co-investidor e Estrategista Secundário
-- **Monica Oliveira** — Expert e Rosto do Produto
+- **Monica Passos de Oliveira** — Expert e Rosto do Produto
 
 ---
 
@@ -48,12 +48,11 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 - Telefone: (21) 99230-4493
 
 **1.3. EXPERT**
-- Nome completo: Monica Oliveira
-- CPF: [___]
-- Endereço de residência atual: [país de residência no exterior]
-- Cidade de origem: [a confirmar]
-- E-mail: [___]
-- Telefone/WhatsApp: [___]
+- Nome completo: Monica Passos de Oliveira
+- CPF: 091.152.477-08
+- Endereço: Rua Dona Zulmira, 112, Casa 15 — Maracanã, Rio de Janeiro/RJ, CEP 20550-160
+- E-mail: monicaoliveira4780@gmail.com
+- Telefone/WhatsApp: +1 (813) 947-8824
 - Instagram profissional: @monicadeoliveira.psi
 - Conta bancária para recebimento: a ser indicada pela Expert e acordada entre as Partes antes do primeiro repasse
 
@@ -71,7 +70,7 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 ---
 
-## CLÁUSULA 3 — ATRIBUIÇÕES DA EXPERT (Monica Oliveira)
+## CLÁUSULA 3 — ATRIBUIÇÕES DA EXPERT (Monica Passos de Oliveira)
 
 **3.1.** Compete exclusivamente à Expert as seguintes obrigações, que assume de forma irrevogável durante a vigência deste contrato:
 
@@ -159,7 +158,7 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 **6.2.** Os salários, honorários, encargos trabalhistas, previdenciários e quaisquer outros custos decorrentes dessas contratações são de responsabilidade exclusiva do Estrategista Principal e não serão deduzidos do lucro líquido distribuível, conforme previsto na Cláusula 11.3.
 
-**6.3.** Monica Oliveira e Marcos Paulo Passos de Oliveira não possuem qualquer vínculo empregatício, societário ou de responsabilidade com os colaboradores contratados pelo Estrategista Principal, sendo expressamente vedada qualquer reclamação trabalhista ou previdenciária em face das demais Partes decorrente dessas contratações.
+**6.3.** Monica Passos de Oliveira e Marcos Paulo Passos de Oliveira não possuem qualquer vínculo empregatício, societário ou de responsabilidade com os colaboradores contratados pelo Estrategista Principal, sendo expressamente vedada qualquer reclamação trabalhista ou previdenciária em face das demais Partes decorrente dessas contratações.
 
 **6.4.** Caso as Partes venham a acordar, em instrumento escrito separado, a contratação de pessoal custeada em conjunto, os respectivos custos poderão ser incluídos nas deduções previstas na Cláusula 11.2, mediante formalização prévia por todas as Partes.
 
@@ -193,7 +192,7 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 ## CLÁUSULA 8 — DIREITOS DE IMAGEM, VOZ E NOME
 
-**8.1.** Monica Oliveira autoriza, de forma expressa e irrevogável durante a vigência deste contrato, o uso de sua imagem, voz, nome e likeness em:
+**8.1.** Monica Passos de Oliveira autoriza, de forma expressa e irrevogável durante a vigência deste contrato, o uso de sua imagem, voz, nome e likeness em:
 
 **a)** Anúncios pagos em plataformas digitais (Meta Ads, Google Ads e demais plataformas);
 
@@ -209,7 +208,7 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 ## CLÁUSULA 9 — SIGILO E CONFIDENCIALIDADE
 
-**9.1.** Monica Oliveira e Marcos Paulo Passos de Oliveira obrigam-se, de forma solidária e independente entre si, a:
+**9.1.** Monica Passos de Oliveira e Marcos Paulo Passos de Oliveira obrigam-se, de forma solidária e independente entre si, a:
 
 **a)** Não revelar, divulgar ou compartilhar, por qualquer meio, a terceiros: estratégia da operação, estrutura do funil, mecanismo do produto, roteiros de copy, scripts de VSL, dados de performance (faturamento, ROAS, CPA, CPM, volumes de venda) ou qualquer informação operacional da parceria;
 
@@ -237,7 +236,7 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 ## CLÁUSULA 10 — EXCLUSIVIDADE PARCIAL NO NICHO
 
-**10.1.** A Expert Monica Oliveira poderá manter outras fontes de renda, projetos pessoais e atendimentos clínicos individuais durante a vigência deste contrato, desde que não conflitem com as obrigações aqui previstas.
+**10.1.** A Expert Monica Passos de Oliveira poderá manter outras fontes de renda, projetos pessoais e atendimentos clínicos individuais durante a vigência deste contrato, desde que não conflitem com as obrigações aqui previstas.
 
 **10.2.** É expressamente vedado à Expert, durante a vigência deste contrato, firmar qualquer acordo de coprodução, parceria de tráfego pago ou operação digital estruturada com terceiros no nicho de relacionamento, maturidade emocional ou desenvolvimento feminino.
 
@@ -256,7 +255,7 @@ O resultado financeiro da operação será distribuído da seguinte forma:
 | Parte | Participação |
 |-------|-------------|
 | Kauã Henrique Rodrigues da Silva — Estrategista Principal | 50% |
-| Monica Oliveira — Expert | 25% |
+| Monica Passos de Oliveira — Expert | 25% |
 | Marcos Paulo Passos de Oliveira — Co-investidor | 25% |
 
 **11.2. Cálculo do Lucro Líquido**
@@ -276,9 +275,9 @@ O lucro líquido distribuível corresponde ao faturamento bruto da operação, d
 **11.4. Pagamento à Expert**
 
 **a)** Frequência: mensal, referente ao mês anterior já encerrado, com repasse até o dia **15 (quinze)** do mês subsequente ao período de apuração;
-**b)** Forma: transferência bancária (TED/PIX) para conta bancária de titularidade de Monica Oliveira, a ser por ela indicada e acordada entre as Partes no início da operação;
+**b)** Forma: transferência bancária (TED/PIX) para conta bancária de titularidade de Monica Passos de Oliveira, a ser por ela indicada e acordada entre as Partes no início da operação;
 **c)** Moeda: Real Brasileiro (R$);
-**d)** Responsabilidade tributária: Monica Oliveira é inteiramente responsável pelo cumprimento de suas obrigações fiscais, inclusive no que se refere à sua condição de residente no exterior, eximindo o Estrategista Principal de qualquer responsabilidade fiscal sobre os valores repassados.
+**d)** Responsabilidade tributária: Monica Passos de Oliveira é inteiramente responsável pelo cumprimento de suas obrigações fiscais, inclusive no que se refere à sua condição de residente no exterior, eximindo o Estrategista Principal de qualquer responsabilidade fiscal sobre os valores repassados.
 
 **11.5. Pagamento ao Co-investidor**
 
@@ -301,7 +300,7 @@ O lucro líquido distribuível corresponde ao faturamento bruto da operação, d
 **e)** Principais métricas de campanha (faturamento por produto, ROAS, volume de vendas);
 **f)** Resumo operacional (novos criativos testados, campanhas pausadas, escalas realizadas).
 
-**12.2.** Monica Oliveira e Marcos Paulo Passos de Oliveira poderão solicitar acesso de leitura ao painel da plataforma de vendas, com visualização limitada ao faturamento e volume de vendas, sem acesso a dados de clientes ou configurações do sistema.
+**12.2.** Monica Passos de Oliveira e Marcos Paulo Passos de Oliveira poderão solicitar acesso de leitura ao painel da plataforma de vendas, com visualização limitada ao faturamento e volume de vendas, sem acesso a dados de clientes ou configurações do sistema.
 
 **12.3.** Em caso de questionamento sobre os valores apurados, qualquer Parte poderá solicitar auditoria dos relatórios mediante comunicação escrita, devendo o Estrategista Principal apresentar os comprovantes em até **10 (dez) dias úteis**.
 
@@ -311,7 +310,7 @@ O lucro líquido distribuível corresponde ao faturamento bruto da operação, d
 
 **13.1.** Em caso de rescisão contratual por qualquer motivo, aplicam-se as seguintes restrições pelo prazo de **12 (doze) meses** contados da data de rescisão:
 
-**13.2. Monica Oliveira:**
+**13.2. Monica Passos de Oliveira:**
 
 **a)** Não poderá operar, participar ou ser rosto de produto digital similar no nicho de relacionamento, maturidade emocional ou desenvolvimento feminino, em parceria com terceiros;
 
