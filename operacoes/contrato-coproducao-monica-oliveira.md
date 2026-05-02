@@ -1,5 +1,5 @@
 # Contrato de Coprodução
-**Partes:** Kauã Henrique Rodrigues da Silva (Estrategista) × Marcos Oliveira (Co-investidor) × Monica Oliveira (Expert)
+**Partes:** Kauã Henrique Rodrigues da Silva (Estrategista Principal) × Marcos Oliveira (Co-investidor e Estrategista Secundário) × Monica Oliveira (Expert)
 **Data:** 02/05/2026
 
 ---
@@ -11,7 +11,7 @@
 - CPF: [___]
 - E-mail: okauarodriguez@gmail.com
 
-### CO-INVESTIDOR
+### CO-INVESTIDOR E ESTRATEGISTA SECUNDÁRIO
 - Nome: Marcos Oliveira
 - CPF: [___]
 - E-mail: [___]
@@ -28,7 +28,7 @@
 
 ## CLÁUSULA 1 — OBJETO DO CONTRATO
 
-O presente contrato estabelece os termos de uma parceria de coprodução digital, na qual Monica Oliveira atuará como Expert e Rosto do produto, enquanto Kauã Henrique Rodrigues da Silva atuará como Estrategista e Operador, e Marcos Oliveira como Co-investidor.
+O presente contrato estabelece os termos de uma parceria de coprodução digital, na qual Monica Oliveira atuará como Expert e Rosto do produto, Kauã Henrique Rodrigues da Silva atuará como Estrategista Principal e Operador, e Marcos Oliveira como Co-investidor e Estrategista Secundário — participando ativamente do acompanhamento e das decisões estratégicas da operação, sob liderança de Kauã Henrique Rodrigues da Silva.
 
 Toda a operação — plataforma de vídeos, plataforma de vendas, plataforma de rastreamento, ferramentas, domínios e infraestrutura técnica — ocorrerá dentro da estrutura própria de Kauã Henrique Rodrigues da Silva. Monica e Marcos não terão acesso administrativo a esses sistemas, salvo acesso de leitura a relatórios financeiros previsto na Cláusula 9.
 
@@ -64,10 +64,11 @@ Kauã Henrique Rodrigues da Silva se compromete a:
 
 ---
 
-## CLÁUSULA 4 — CO-INVESTIMENTO (Marcos Oliveira)
+## CLÁUSULA 4 — CO-INVESTIMENTO E PAPEL ESTRATÉGICO (Marcos Oliveira)
 
 - Marcos Oliveira entrará com 50% do investimento em tráfego pago (Meta Ads) — custos de ferramentas, plataformas, produção e infraestrutura são responsabilidade exclusiva de Kauã Henrique Rodrigues da Silva
 - Kauã Henrique Rodrigues da Silva entra com os outros 50% do investimento em tráfego
+- Marcos participará das reuniões estratégicas da operação e terá acesso às informações da campanha, podendo contribuir com análises e sugestões — sempre sob decisão final de Kauã Henrique Rodrigues da Silva
 - Remuneração de Marcos definida na Cláusula 9
 - Em caso de rescisão entre Kauã e Marcos, todos os ativos permanecem integralmente com Kauã Henrique Rodrigues da Silva
 
@@ -102,16 +103,18 @@ Monica Oliveira autoriza expressamente:
 
 ## CLÁUSULA 7 — SIGILO E CONFIDENCIALIDADE
 
-**Monica Oliveira:**
-- Não revela estratégia, funil, mecanismo, copy ou estrutura da operação a terceiros
-- Não compartilha dados financeiros da operação (faturamento, ROAS, volumes)
-- Não indica concorrentes de Kauã à sua base
-- Não participa de projetos concorrentes no mesmo nicho durante o contrato
+**Monica Oliveira e Marcos Oliveira** (mesmas obrigações de sigilo):
+- Não revelam estratégia, funil, mecanismo, copy, estrutura ou dados operacionais a terceiros
+- Não compartilham dados financeiros da operação (faturamento, ROAS, volumes, investimentos)
+- Não divulgam os termos deste contrato ou de remuneração sem consentimento de Kauã Henrique Rodrigues da Silva
+- Não utilizam informações estratégicas da operação em benefício próprio ou de terceiros fora deste contrato
+- Não indicam ou recomendam concorrentes de Kauã Henrique Rodrigues da Silva às suas redes de contato
+- Não participam de projetos concorrentes no mesmo nicho durante a vigência do contrato
 
-**Kauã Henrique Rodrigues da Silva e Marcos Oliveira:**
-- Não compartilham dados pessoais, financeiros ou informações sensíveis de Monica com terceiros
-- Não divulgam os termos de remuneração sem consentimento de Monica
-- Não usam imagem ou nome de Monica fora do escopo desta operação
+**Kauã Henrique Rodrigues da Silva:**
+- Não compartilha dados pessoais, financeiros ou informações sensíveis de Monica ou Marcos com terceiros sem consentimento
+- Não divulga os termos individuais de remuneração das partes sem consentimento
+- Não usa imagem, voz ou nome de Monica fora do escopo desta operação
 
 ---
 
@@ -168,6 +171,7 @@ Descontados do faturamento bruto antes da divisão:
 **Marcos Oliveira:**
 - Não investe ou co-financia operações concorrentes no nicho por 12 meses após rescisão
 - Não usa informações estratégicas, dados ou ativos da operação em benefício próprio ou de terceiros
+- Não leva base de alunos, leads ou dados de clientes
 - Aviso prévio mínimo: 60 dias
 
 **Continuidade da entrega:**
@@ -205,7 +209,7 @@ Local e data: __________________, ____ de __________ de 2026
 **Kauã Henrique Rodrigues da Silva — Estrategista Principal**
 Assinatura: ___________________________
 
-**Marcos Oliveira — Co-investidor**
+**Marcos Oliveira — Co-investidor e Estrategista Secundário**
 Assinatura: ___________________________
 
 **Monica Oliveira — Expert**
