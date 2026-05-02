@@ -51,7 +51,7 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 - Nome completo: Monica Oliveira
 - CPF: [___]
 - Endereço de residência atual: [país de residência no exterior]
-- Cidade de origem: Porto Ferreira/SP, Brasil
+- Cidade de origem: [a confirmar]
 - E-mail: [___]
 - Telefone/WhatsApp: [___]
 - Instagram profissional: @monicadeoliveira.psi
@@ -270,6 +270,8 @@ O lucro líquido distribuível corresponde ao faturamento bruto da operação, d
 **e)** Reembolsos processados no período.
 
 **11.3.** Custos de produção de conteúdo, edição, copywriting, ferramentas de gestão, salários e encargos de funcionários contratados pelo Estrategista Principal para a operação, e demais despesas operacionais internas do Estrategista Principal **não** integram o rol de deduções do lucro líquido, sendo de responsabilidade exclusiva dele e custeados a partir de sua participação de 50%.
+
+**Adendo 11.3.1.** Caso as Partes acordem, por escrito e de forma unânime, a contratação conjunta de qualquer colaborador ou serviço externo — tais como gestor de tráfego terceirizado, editor, designer ou suporte — cujos custos devam ser compartilhados entre elas, esses valores passarão a integrar o rol de deduções do lucro líquido previsto no item 11.2, na proporção acordada, a partir do mês em que tal instrumento for formalizado.
 
 **11.4. Pagamento à Expert**
 
