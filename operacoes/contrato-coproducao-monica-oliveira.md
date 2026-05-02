@@ -5,8 +5,6 @@
 - **Marcos Oliveira** — Co-investidor e Estrategista Secundário
 - **Monica Oliveira** — Expert e Rosto do Produto
 
-**Data de Celebração:** 02 de maio de 2026
-
 ---
 
 ## PREÂMBULO
@@ -69,7 +67,7 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 **2.3.** A estrutura definitiva de produtos, preços, sequência de funil e formatos de entrega poderá ser ajustada pelo Estrategista Principal, ouvidas as demais Partes, conforme a performance das campanhas e demandas do mercado, sendo vedada qualquer redução unilateral nos percentuais de participação previstos na Cláusula 10.
 
-**2.4.** Toda a infraestrutura técnica, operacional e comercial da operação — incluindo plataforma de hospedagem de vídeos, plataforma de vendas, sistema de rastreamento e analytics, contas de anúncio, pixel de conversão, domínios, automações e demais ferramentas — estará sob titularidade e gestão exclusiva do Estrategista Principal. As demais Partes não deterão acesso administrativo a esses sistemas, ressalvado o acesso de leitura a relatórios financeiros previsto na Cláusula 11.
+**2.4.** Toda a infraestrutura técnica, operacional e comercial da operação — incluindo plataforma de hospedagem de vídeos, plataforma de vendas, sistema de rastreamento e analytics, contas de anúncio, pixel de conversão, domínios, automações e demais ferramentas — estará sob titularidade e gestão exclusiva do Estrategista Principal. As demais Partes não deterão acesso administrativo a esses sistemas, ressalvado o acesso de leitura a relatórios financeiros previsto na Cláusula 12.
 
 ---
 
@@ -115,9 +113,9 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 **f)** Estruturar e gerir o suporte operacional ao produto (atendimento ao cliente, processamento de reembolsos, entrega de acessos);
 
-**g)** Emitir relatórios mensais de performance para a Expert e o Co-investidor, conforme previsto na Cláusula 11;
+**g)** Emitir relatórios mensais de performance para a Expert e o Co-investidor, conforme previsto na Cláusula 12;
 
-**h)** Realizar os repasses financeiros às demais Partes conforme os termos e prazos da Cláusula 10;
+**h)** Realizar os repasses financeiros às demais Partes conforme os termos e prazos da Cláusula 11;
 
 **i)** Garantir a continuidade da entrega dos produtos já comercializados em caso de rescisão contratual de qualquer das Partes.
 
@@ -127,7 +125,7 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 **5.1.** Compete ao Co-investidor:
 
-**a)** Aportar **50% (cinquenta por cento)** do valor investido mensalmente em tráfego pago (Meta Ads), conforme orçamento definido pelo Estrategista Principal, observado o valor mínimo mensal de **R$ [___] ([___] reais)**, acordado entre as Partes;
+**a)** Aportar **50% (cinquenta por cento)** do valor investido mensalmente em tráfego pago (Meta Ads), conforme orçamento definido pelo Estrategista Principal;
 
 **b)** Participar das reuniões estratégicas periódicas da operação, contribuindo com análises, sugestões e perspectivas sobre o negócio;
 
@@ -155,7 +153,21 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 ---
 
-## CLÁUSULA 6 — PROPRIEDADE INTELECTUAL E DOS ATIVOS
+## CLÁUSULA 6 — CONTRATAÇÃO DE PESSOAL E ENCARGOS TRABALHISTAS
+
+**6.1.** Toda contratação de pessoal necessária à operação — incluindo, mas não se limitando a: gestor de tráfego, editor de vídeo, designer, suporte ao cliente, copywriter ou qualquer outro colaborador — é de responsabilidade exclusiva do Estrategista Principal, que atuará como único empregador ou contratante.
+
+**6.2.** Os salários, honorários, encargos trabalhistas, previdenciários e quaisquer outros custos decorrentes dessas contratações são de responsabilidade exclusiva do Estrategista Principal e não serão deduzidos do lucro líquido distribuível, conforme previsto na Cláusula 11.3.
+
+**6.3.** Monica Oliveira e Marcos Oliveira não possuem qualquer vínculo empregatício, societário ou de responsabilidade com os colaboradores contratados pelo Estrategista Principal, sendo expressamente vedada qualquer reclamação trabalhista ou previdenciária em face das demais Partes decorrente dessas contratações.
+
+**6.4.** Caso as Partes venham a acordar, em instrumento escrito separado, a contratação de pessoal custeada em conjunto, os respectivos custos poderão ser incluídos nas deduções previstas na Cláusula 10.2, mediante formalização prévia por todas as Partes.
+
+---
+
+## CLÁUSULA 7 — PROPRIEDADE INTELECTUAL E DOS ATIVOS
+
+
 
 **6.1.** Pertencem exclusiva e irrevogavelmente a Kauã Henrique Rodrigues da Silva, independentemente de rescisão contratual por qualquer motivo:
 
@@ -179,7 +191,7 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 ---
 
-## CLÁUSULA 7 — DIREITOS DE IMAGEM, VOZ E NOME
+## CLÁUSULA 8 — DIREITOS DE IMAGEM, VOZ E NOME
 
 **7.1.** Monica Oliveira autoriza, de forma expressa e irrevogável durante a vigência deste contrato, o uso de sua imagem, voz, nome e likeness em:
 
@@ -195,7 +207,7 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 ---
 
-## CLÁUSULA 8 — SIGILO E CONFIDENCIALIDADE
+## CLÁUSULA 9 — SIGILO E CONFIDENCIALIDADE
 
 **8.1.** Monica Oliveira e Marcos Oliveira obrigam-se, de forma solidária e independente entre si, a:
 
@@ -223,7 +235,7 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 ---
 
-## CLÁUSULA 9 — EXCLUSIVIDADE PARCIAL NO NICHO
+## CLÁUSULA 10 — EXCLUSIVIDADE PARCIAL NO NICHO
 
 **9.1.** A Expert Monica Oliveira poderá manter outras fontes de renda, projetos pessoais e atendimentos clínicos individuais durante a vigência deste contrato, desde que não conflitem com as obrigações aqui previstas.
 
@@ -235,7 +247,7 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 ---
 
-## CLÁUSULA 10 — REMUNERAÇÃO E FORMA DE PAGAMENTO
+## CLÁUSULA 11 — REMUNERAÇÃO E FORMA DE PAGAMENTO
 
 **10.1. Divisão do Lucro Líquido**
 
@@ -253,10 +265,11 @@ O lucro líquido distribuível corresponde ao faturamento bruto da operação, d
 
 **a)** Investimento total em tráfego pago (Meta Ads e demais plataformas);
 **b)** Taxas da plataforma de vendas (gateway de pagamento, antecipação, chargeback);
-**c)** Custos com ferramentas e infraestrutura diretamente relacionados à operação e previamente acordados entre as Partes;
-**d)** Reembolsos processados no período.
+**c)** Tributos incidentes sobre o faturamento bruto apurados no CNPJ do Estrategista Principal (incluindo, mas não se limitando a: ISS, PIS, COFINS, CSLL, IRPJ ou Simples Nacional conforme regime tributário vigente) — uma vez que toda a receita da operação é faturada pela pessoa jurídica do Estrategista Principal;
+**d)** Custos com ferramentas e infraestrutura diretamente relacionados à operação e previamente acordados entre as Partes;
+**e)** Reembolsos processados no período.
 
-**10.3.** Custos de produção de conteúdo, edição, copywriting, ferramentas de gestão e demais despesas operacionais do Estrategista Principal **não** integram o rol de deduções do lucro líquido, sendo de responsabilidade exclusiva dele.
+**10.3.** Custos de produção de conteúdo, edição, copywriting, ferramentas de gestão, salários e encargos de funcionários contratados pelo Estrategista Principal para a operação, e demais despesas operacionais internas do Estrategista Principal **não** integram o rol de deduções do lucro líquido, sendo de responsabilidade exclusiva dele e custeados a partir de sua participação de 50%.
 
 **10.4. Pagamento à Expert**
 
@@ -275,7 +288,7 @@ O lucro líquido distribuível corresponde ao faturamento bruto da operação, d
 
 ---
 
-## CLÁUSULA 11 — TRANSPARÊNCIA FINANCEIRA E RELATÓRIOS
+## CLÁUSULA 12 — TRANSPARÊNCIA FINANCEIRA E RELATÓRIOS
 
 **11.1.** O Estrategista Principal compromete-se a emitir relatório mensal de performance até o dia **05 (cinco)** do mês subsequente, contendo obrigatoriamente:
 
@@ -292,7 +305,7 @@ O lucro líquido distribuível corresponde ao faturamento bruto da operação, d
 
 ---
 
-## CLÁUSULA 12 — NÃO COMPETIÇÃO E RESCISÃO
+## CLÁUSULA 13 — NÃO COMPETIÇÃO E RESCISÃO
 
 **12.1.** Em caso de rescisão contratual por qualquer motivo, aplicam-se as seguintes restrições pelo prazo de **12 (doze) meses** contados da data de rescisão:
 
@@ -322,7 +335,7 @@ O lucro líquido distribuível corresponde ao faturamento bruto da operação, d
 
 ---
 
-## CLÁUSULA 13 — METAS, ENTREGAS MÍNIMAS E PERFORMANCE
+## CLÁUSULA 14 — METAS, ENTREGAS MÍNIMAS E PERFORMANCE
 
 **13.1.** As metas de entrega mínima da Expert (volume de gravações, frequência de webinários, disponibilidade para high ticket) serão estabelecidas de comum acordo entre as Partes e formalizadas em **Adendo** a este contrato, no prazo máximo de **30 (trinta) dias** após a assinatura.
 
@@ -334,17 +347,17 @@ O lucro líquido distribuível corresponde ao faturamento bruto da operação, d
 
 ---
 
-## CLÁUSULA 14 — VIGÊNCIA E RENOVAÇÃO
+## CLÁUSULA 15 — VIGÊNCIA E RENOVAÇÃO
 
 **14.1.** O presente contrato vigorará pelo prazo mínimo de **12 (doze) meses**, contados da data de sua assinatura por todas as Partes.
 
 **14.2.** Findo o prazo mínimo, o contrato será renovado automaticamente por períodos iguais e sucessivos de 12 meses, salvo manifestação expressa de qualquer das Partes em sentido contrário, comunicada com antecedência mínima de **60 (sessenta) dias** antes do término do período vigente.
 
-**14.3.** Durante o prazo mínimo de 12 meses, nenhuma das Partes poderá rescindir o contrato sem justa causa, salvo mediante o pagamento da multa prevista na Cláusula 12.5.
+**14.3.** Durante o prazo mínimo de 12 meses, nenhuma das Partes poderá rescindir o contrato sem justa causa, salvo mediante o pagamento da multa prevista na Cláusula 13.5.
 
 ---
 
-## CLÁUSULA 15 — DISPOSIÇÕES GERAIS
+## CLÁUSULA 16 — DISPOSIÇÕES GERAIS
 
 **15.1.** Este contrato constitui o acordo integral entre as Partes relativamente ao seu objeto, substituindo quaisquer entendimentos, propostas, negociações ou acordos verbais anteriores.
 
@@ -358,13 +371,13 @@ O lucro líquido distribuível corresponde ao faturamento bruto da operação, d
 
 ---
 
-## CLÁUSULA 16 — RESOLUÇÃO DE CONFLITOS
+## CLÁUSULA 17 — RESOLUÇÃO DE CONFLITOS
 
 **16.1.** Em caso de divergência ou conflito decorrente deste contrato, as Partes comprometem-se a buscar, primeiramente, a resolução amigável mediante negociação direta, no prazo de **15 (quinze) dias** contados da comunicação formal do conflito.
 
 **16.2.** Não alcançado acordo na negociação direta, as Partes submeterão o conflito à **mediação**, a ser conduzida por mediador escolhido de comum acordo, no prazo de **30 (trinta) dias**.
 
-**16.3.** Persistindo o conflito após a mediação, fica eleito o Foro da Comarca de **São Paulo**, Estado de **São Paulo**, com exclusão de qualquer outro, por mais privilegiado que seja, para dirimir as questões oriundas deste contrato.
+**16.3.** Persistindo o conflito após a mediação, fica eleito o Foro da Comarca de **Porto Ferreira**, Estado de **São Paulo**, com exclusão de qualquer outro, por mais privilegiado que seja, para dirimir as questões oriundas deste contrato.
 
 **16.4.** Este contrato é regido exclusivamente pela legislação brasileira, em especial pelo Código Civil Brasileiro (Lei nº 10.406/2002) e pela legislação aplicável ao mercado digital e direitos autorais.
 
