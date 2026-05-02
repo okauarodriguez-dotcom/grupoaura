@@ -1,216 +1,403 @@
-# Contrato de Coprodução
-**Partes:** Kauã Henrique Rodrigues da Silva (Estrategista Principal) × Marcos Oliveira (Co-investidor e Estrategista Secundário) × Monica Oliveira (Expert)
-**Data:** 02/05/2026
+# CONTRATO DE COPRODUÇÃO DIGITAL E PARCERIA ESTRATÉGICA
+
+**Partes Contratantes:**
+- **Kauã Henrique Rodrigues da Silva** — Estrategista Principal e Operador
+- **Marcos Oliveira** — Co-investidor e Estrategista Secundário
+- **Monica Oliveira** — Expert e Rosto do Produto
+
+**Data de Celebração:** 02 de maio de 2026
 
 ---
 
-## IDENTIFICAÇÃO DAS PARTES
+## PREÂMBULO
 
-### ESTRATEGISTA PRINCIPAL
-- Nome: Kauã Henrique Rodrigues da Silva
-- CPF: [___]
-- E-mail: okauarodriguez@gmail.com
+Pelo presente instrumento particular de Contrato de Coprodução Digital e Parceria Estratégica, as partes acima identificadas, doravante denominadas individualmente como **"Estrategista Principal"**, **"Co-investidor"** e **"Expert"**, e em conjunto como **"Partes"**, têm entre si justo e contratado o seguinte, que mutuamente aceitam e outorgam.
 
-### CO-INVESTIDOR E ESTRATEGISTA SECUNDÁRIO
-- Nome: Marcos Oliveira
+As Partes reconhecem que este instrumento nasce da livre manifestação de vontade de cada uma delas, após plena ciência de seus termos e condições, sem qualquer vício de consentimento.
+
+---
+
+## CONSIDERANDO
+
+**CONSIDERANDO** que o Estrategista Principal possui experiência comprovada em tráfego pago, copywriting, estruturação de funis digitais e operação de produtos digitais no mercado de infoprodutos brasileiro;
+
+**CONSIDERANDO** que a Expert possui conhecimento técnico, autoridade e credibilidade estabelecida no nicho de relacionamento, maturidade emocional e desenvolvimento feminino, bem como método próprio de transformação desenvolvido desde 2018;
+
+**CONSIDERANDO** que o Co-investidor possui capacidade financeira e conhecimento estratégico do mercado digital, desejando participar da operação como investidor e parceiro estratégico secundário;
+
+**CONSIDERANDO** que as Partes identificaram oportunidade de negócio de interesse mútuo, consistente na criação, produção e comercialização de produto digital de alto valor no nicho de relacionamento e desenvolvimento feminino;
+
+**CONSIDERANDO** que cada Parte contribui com recursos, competências e capacidades distintas e complementares para a viabilização do negócio;
+
+Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condições a seguir estipuladas.
+
+---
+
+## CLÁUSULA 1 — QUALIFICAÇÃO DAS PARTES
+
+**1.1. ESTRATEGISTA PRINCIPAL**
+- Nome completo: Kauã Henrique Rodrigues da Silva
 - CPF: [___]
+- Endereço: [___]
+- E-mail profissional: okauarodriguez@gmail.com
+- Telefone: [___]
+
+**1.2. CO-INVESTIDOR E ESTRATEGISTA SECUNDÁRIO**
+- Nome completo: Marcos Oliveira
+- CPF: [___]
+- Endereço: [___]
 - E-mail: [___]
+- Telefone: [___]
 
-### EXPERT
-- Nome: Monica Oliveira
+**1.3. EXPERT**
+- Nome completo: Monica Oliveira
 - CPF: [___]
+- Endereço de residência atual: [país de residência no exterior]
+- Cidade de origem: Porto Ferreira/SP, Brasil
 - E-mail: [___]
-- Instagram: @monicadeoliveira.psi
-- Residência: exterior (1h de diferença de Brasília)
-- Conta bancária: Banco [___] | Agência [___] | Conta [___]
+- Telefone/WhatsApp: [___]
+- Instagram profissional: @monicadeoliveira.psi
+- Conta bancária para recebimento (Brasil): Banco [___] | Agência [___] | Conta [___] | Titular: Monica Oliveira | CPF: [___]
 
 ---
 
-## CLÁUSULA 1 — OBJETO DO CONTRATO
+## CLÁUSULA 2 — OBJETO DO CONTRATO
 
-O presente contrato estabelece os termos de uma parceria de coprodução digital, na qual Monica Oliveira atuará como Expert e Rosto do produto, Kauã Henrique Rodrigues da Silva atuará como Estrategista Principal e Operador, e Marcos Oliveira como Co-investidor e Estrategista Secundário — participando ativamente do acompanhamento e das decisões estratégicas da operação, sob liderança de Kauã Henrique Rodrigues da Silva.
+**2.1.** O presente contrato tem por objeto a formalização de parceria de coprodução digital entre as Partes, com o fim de criar, estruturar, produzir, lançar e operar produto digital no nicho de relacionamento, maturidade emocional e desenvolvimento feminino, utilizando como base o conhecimento, método e imagem da Expert.
 
-Toda a operação — plataforma de vídeos, plataforma de vendas, plataforma de rastreamento, ferramentas, domínios e infraestrutura técnica — ocorrerá dentro da estrutura própria de Kauã Henrique Rodrigues da Silva. Monica e Marcos não terão acesso administrativo a esses sistemas, salvo acesso de leitura a relatórios financeiros previsto na Cláusula 9.
+**2.2.** O produto será comercializado prioritariamente por meio de funil de vendas de tráfego pago (VSL), estruturado e operado exclusivamente pelo Estrategista Principal, compreendendo as seguintes etapas de monetização:
+- Produto de entrada (front-end): VSL com oferta de R$ 297,00
+- Upsell 1: R$ 599,00
+- Upsell 2: R$ 2.000,00
+- Webinário gravado e/ou ao vivo
+- Produto de alto valor (high ticket): entre R$ 20.000,00 e R$ 50.000,00
 
----
+**2.3.** A estrutura definitiva de produtos, preços e sequência de funil poderá ser ajustada pelo Estrategista Principal, ouvidas as demais Partes, conforme a performance das campanhas e demandas do mercado.
 
-## CLÁUSULA 2 — ATRIBUIÇÕES DA EXPERT (Monica Oliveira)
-
-Monica Oliveira se compromete a:
-
-- Ceder o uso do perfil @monicadeoliveira.psi via Meta Business Manager (sem entrega de senha)
-- Seguir as diretrizes de bio, posicionamento e perfil definidas pelo Estrategista
-- Gravar VSLs, criativos e anúncios conforme briefing entregue pelo Estrategista
-- Participar de webinários gravados e ao vivo conforme calendário acordado
-- Conduzir workshops e mentorias com a base de alunos conforme calendário acordado
-- Ser o rosto da entrega do produto (aulas, conteúdos, high ticket)
-- Seguir os direcionamentos estratégicos de Kauã Henrique Rodrigues da Silva — a estratégia, o funil e o posicionamento pertencem exclusivamente a ele
-- Comunicar com mínimo de 60 dias de antecedência qualquer impossibilidade de cumprir as entregas
+**2.4.** Toda a infraestrutura técnica, operacional e comercial da operação — incluindo plataforma de hospedagem de vídeos, plataforma de vendas, sistema de rastreamento e analytics, contas de anúncio, pixel de conversão, domínios, automações e demais ferramentas — estará sob titularidade e gestão exclusiva do Estrategista Principal. As demais Partes não deterão acesso administrativo a esses sistemas, ressalvado o acesso de leitura a relatórios financeiros previsto na Cláusula 11.
 
 ---
 
-## CLÁUSULA 3 — ATRIBUIÇÕES DO ESTRATEGISTA (Kauã Henrique Rodrigues da Silva)
+## CLÁUSULA 3 — ATRIBUIÇÕES DA EXPERT (Monica Oliveira)
 
-Kauã Henrique Rodrigues da Silva se compromete a:
+**3.1.** Compete exclusivamente à Expert as seguintes obrigações, que assume de forma irrevogável durante a vigência deste contrato:
 
-- Realizar o investimento em tráfego pago conforme orçamento acordado
-- Estruturar e manter toda a infraestrutura técnica dentro de sua estrutura própria: plataforma de vídeos, plataforma de vendas, plataforma de rastreamento, ferramentas, pixel, automações e domínios
-- Criar a copy de VSL, anúncios, páginas de venda, e-mails e upsells
-- Gerir as campanhas e otimizar a operação
-- Editar vídeos e produzir criativos
-- Suporte operacional à entrega do produto
-- Relatórios mensais para Monica e Marcos
-- Realizar os repasses conforme Cláusula 9
+**a)** Ceder o uso e acesso ao perfil @monicadeoliveira.psi por meio do Meta Business Manager, sem transferência de senha, para fins de veiculação de anúncios pagos e gestão de conteúdo estratégico;
 
----
+**b)** Adaptar a bio, o posicionamento e a identidade visual do perfil conforme diretrizes definidas pelo Estrategista Principal, sem prejuízo à autenticidade da Expert;
 
-## CLÁUSULA 4 — CO-INVESTIMENTO E PAPEL ESTRATÉGICO (Marcos Oliveira)
+**c)** Gravar VSLs, vídeos de anúncios, criativos e demais materiais audiovisuais conforme briefing fornecido pelo Estrategista Principal, dentro dos prazos acordados;
 
-- Marcos Oliveira entrará com 50% do investimento em tráfego pago (Meta Ads) — custos de ferramentas, plataformas, produção e infraestrutura são responsabilidade exclusiva de Kauã Henrique Rodrigues da Silva
-- Kauã Henrique Rodrigues da Silva entra com os outros 50% do investimento em tráfego
-- Marcos participará das reuniões estratégicas da operação e terá acesso às informações da campanha, podendo contribuir com análises e sugestões — sempre sob decisão final de Kauã Henrique Rodrigues da Silva
-- Remuneração de Marcos definida na Cláusula 9
-- Em caso de rescisão entre Kauã e Marcos, todos os ativos permanecem integralmente com Kauã Henrique Rodrigues da Silva
+**d)** Participar de webinários gravados e/ou ao vivo conforme calendário de entregas previamente estabelecido entre as Partes;
 
----
+**e)** Conduzir aulas, workshops, mentorias em grupo e atendimentos coletivos com a base de alunos, conforme calendário acordado;
 
-## CLÁUSULA 5 — PROPRIEDADE DOS ATIVOS
+**f)** Ser o rosto, a voz e a autoridade do produto em todas as frentes de entrega: anúncios, produto digital, atendimento ao aluno, high ticket e eventos presenciais ou digitais;
 
-Pertencem exclusivamente a Kauã Henrique Rodrigues da Silva, independentemente de rescisão:
+**g)** Seguir integralmente os direcionamentos estratégicos do Estrategista Principal no que tange ao posicionamento da oferta, funil de vendas, copy e estrutura do produto — sem interferir nas decisões operacionais de tráfego, edição ou infraestrutura;
 
-- Todo conteúdo produzido: VSLs, criativos, aulas gravadas, e-mails, copies
-- Marca, nome do produto e posicionamento criados durante a parceria
-- Dados gerados: pixel, lista de leads, base de clientes
-- Toda a infraestrutura: contas de anúncio, ferramentas, domínio, plataformas
+**h)** Comunicar ao Estrategista Principal, com antecedência mínima de **60 (sessenta) dias**, qualquer impedimento, limitação ou impossibilidade de cumprir as entregas previstas;
 
-**Sobre o Instagram:**
-- Conta pessoal de Monica — não transferível
-- Kauã tem acesso e gestão via Meta Business Manager durante o contrato
-- Monica não pode remover conteúdo ou alterar perfil sem aprovação de Kauã
-- Após rescisão: Monica fica com a conta, mas não pode usar nome, marca ou produto criados na parceria
+**i)** Manter postura profissional compatível com a imagem do produto durante toda a vigência do contrato, em especial nas redes sociais e em interações públicas.
+
+**3.2.** A Expert declara que possui plena capacidade e disponibilidade para cumprir as obrigações acima, inclusive no que se refere à gravação de conteúdo via dispositivo móvel (smartphone), sendo este o formato aceito e validado pelo Estrategista Principal para fins de produção.
 
 ---
 
-## CLÁUSULA 6 — DIREITOS DE IMAGEM E VOZ
+## CLÁUSULA 4 — ATRIBUIÇÕES DO ESTRATEGISTA PRINCIPAL (Kauã Henrique Rodrigues da Silva)
 
-Monica Oliveira autoriza expressamente:
+**4.1.** Compete ao Estrategista Principal:
 
-- Uso de sua imagem, voz e nome em anúncios pagos e materiais de marketing da operação
-- Em caso de rescisão, materiais já publicados podem continuar sendo veiculados por até 90 dias após o encerramento
-- Esta autorização é irrevogável durante esse prazo — Monica não poderá solicitar remoção dos anúncios nesse período
+**a)** Realizar e gerir o investimento em tráfego pago (Meta Ads) correspondente à sua participação, conforme Cláusula 5;
 
----
+**b)** Estruturar, implementar e manter toda a infraestrutura técnica da operação: plataforma de hospedagem de vídeos, plataforma de vendas, pixel de conversão, automações, rastreamento, domínios, integrações e demais ferramentas necessárias;
 
-## CLÁUSULA 7 — SIGILO E CONFIDENCIALIDADE
+**c)** Criar toda a copy da operação: roteiros de VSL, anúncios em vídeo e imagem, páginas de venda, sequências de e-mail, scripts de webinário, páginas de upsell e quaisquer outros materiais de conversão;
 
-**Monica Oliveira e Marcos Oliveira** (mesmas obrigações de sigilo):
-- Não revelam estratégia, funil, mecanismo, copy, estrutura ou dados operacionais a terceiros
-- Não compartilham dados financeiros da operação (faturamento, ROAS, volumes, investimentos)
-- Não divulgam os termos deste contrato ou de remuneração sem consentimento de Kauã Henrique Rodrigues da Silva
-- Não utilizam informações estratégicas da operação em benefício próprio ou de terceiros fora deste contrato
-- Não indicam ou recomendam concorrentes de Kauã Henrique Rodrigues da Silva às suas redes de contato
-- Não participam de projetos concorrentes no mesmo nicho durante a vigência do contrato
+**d)** Gerir, monitorar e otimizar as campanhas de tráfego pago de forma contínua, incluindo criação de novos criativos, testes A/B, escalas e pausas conforme performance;
 
-**Kauã Henrique Rodrigues da Silva:**
-- Não compartilha dados pessoais, financeiros ou informações sensíveis de Monica ou Marcos com terceiros sem consentimento
-- Não divulga os termos individuais de remuneração das partes sem consentimento
-- Não usa imagem, voz ou nome de Monica fora do escopo desta operação
+**e)** Coordenar a edição de vídeos, produção de criativos e demais materiais de marketing da operação;
+
+**f)** Estruturar e gerir o suporte operacional ao produto (atendimento ao cliente, processamento de reembolsos, entrega de acessos);
+
+**g)** Emitir relatórios mensais de performance para a Expert e o Co-investidor, conforme previsto na Cláusula 11;
+
+**h)** Realizar os repasses financeiros às demais Partes conforme os termos e prazos da Cláusula 10;
+
+**i)** Garantir a continuidade da entrega dos produtos já comercializados em caso de rescisão contratual de qualquer das Partes.
 
 ---
 
-## CLÁUSULA 8 — EXCLUSIVIDADE PARCIAL NO NICHO
+## CLÁUSULA 5 — ATRIBUIÇÕES DO CO-INVESTIDOR E ESTRATEGISTA SECUNDÁRIO (Marcos Oliveira)
 
-- Monica pode manter outras rendas, projetos e atendimentos individuais
-- Não pode ter outro coprodutor ou operador de tráfego no nicho de relacionamento, maturidade emocional ou desenvolvimento feminino durante o contrato
-- Atendimentos clínicos individuais estão fora dessa restrição
+**5.1.** Compete ao Co-investidor:
 
----
+**a)** Aportar **50% (cinquenta por cento)** do valor investido mensalmente em tráfego pago (Meta Ads), conforme orçamento definido pelo Estrategista Principal;
 
-## CLÁUSULA 9 — REMUNERAÇÃO
+**b)** Participar das reuniões estratégicas periódicas da operação, contribuindo com análises, sugestões e perspectivas sobre o negócio;
 
-### Divisão do lucro líquido
+**c)** Acompanhar os relatórios mensais de performance e ter ciência das principais métricas da operação;
 
-| Parte | % |
-|-------|---|
-| Kauã Henrique Rodrigues da Silva | 50% |
-| Monica Oliveira | 25% |
-| Marcos Oliveira | 25% |
+**d)** Cumprir os compromissos financeiros de aporte nos prazos acordados, comunicando qualquer impossibilidade com antecedência mínima de **30 (trinta) dias**;
 
-### Cálculo do lucro líquido
+**e)** Respeitar integralmente a autonomia decisória do Estrategista Principal, a quem compete a decisão final sobre todas as questões estratégicas, operacionais e comerciais da operação.
 
-Descontados do faturamento bruto antes da divisão:
-- Investimento em tráfego pago (Meta Ads)
-- Taxa da plataforma de vendas
-- Demais custos operacionais acordados e documentados no relatório mensal
+**5.2.** Os custos relativos a ferramentas, plataformas, produção de conteúdo e infraestrutura técnica são de responsabilidade exclusiva do Estrategista Principal e não integram o aporte do Co-investidor.
 
-### Pagamento a Monica Oliveira
-- Frequência: mensal (até o dia [___] de cada mês)
-- Forma: depósito em conta corrente brasileira
-- Moeda: Real Brasileiro (R$)
-- Responsabilidade fiscal no exterior é inteiramente de Monica
-
-### Pagamento a Marcos Oliveira
-- Frequência: mensal, junto ao fechamento do relatório
-- Forma: [a definir entre Kauã e Marcos]
-
-### Acesso aos relatórios
-- Relatório mensal para ambos: faturamento bruto, custos discriminados, lucro líquido e repasses
-- Monica pode solicitar acesso de leitura ao painel da plataforma de vendas
+**5.3.** O Co-investidor não terá acesso administrativo aos sistemas da operação, podendo acessar apenas os relatórios financeiros mensais conforme Cláusula 11.
 
 ---
 
-## CLÁUSULA 10 — NÃO COMPETIÇÃO E RESCISÃO
+## CLÁUSULA 6 — PROPRIEDADE INTELECTUAL E DOS ATIVOS
 
-**Monica Oliveira:**
-- Não opera produto similar no nicho de relacionamento/desenvolvimento feminino por 12 meses após rescisão
-- Não usa VSLs, criativos ou conteúdo produzido na parceria em operação própria ou com terceiros
-- Não leva base de alunos, leads ou dados de clientes
-- Aviso prévio mínimo: 60 dias
-- Mantém entregas durante o aviso prévio
+**6.1.** Pertencem exclusiva e irrevogavelmente a Kauã Henrique Rodrigues da Silva, independentemente de rescisão contratual por qualquer motivo:
 
-**Marcos Oliveira:**
-- Não investe ou co-financia operações concorrentes no nicho por 12 meses após rescisão
-- Não usa informações estratégicas, dados ou ativos da operação em benefício próprio ou de terceiros
-- Não leva base de alunos, leads ou dados de clientes
-- Aviso prévio mínimo: 60 dias
+**a)** Todo o conteúdo produzido no âmbito da operação: roteiros de VSL, vídeos gravados, criativos, scripts de anúncio, aulas, materiais de apoio, sequências de e-mail e qualquer outro material de marketing ou educacional;
 
-**Continuidade da entrega:**
-Kauã Henrique Rodrigues da Silva é o único responsável por garantir a continuidade da entrega dos produtos já vendidos em caso de rescisão.
+**b)** A marca, o nome do produto, o posicionamento e o mecanismo único desenvolvidos durante a parceria;
 
----
+**c)** Todos os dados gerados pela operação: pixel de conversão e audiências customizadas, lista de leads, base de clientes, histórico de compras e dados comportamentais;
 
-## CLÁUSULA 11 — METAS E PERFORMANCE MÍNIMA
+**d)** Toda a infraestrutura digital: contas de anúncio, plataformas de vendas, plataformas de vídeo, domínios, automações e ferramentas.
 
-- As quantidades mínimas de entregas serão estipuladas entre as partes ao longo do processo e formalizadas em adendos a este contrato
-- Em caso de descumprimento reiterado, Kauã notifica Monica com 15 dias para regularização
-- Descumprimento após o prazo dá direito a Kauã de rescindir sem ônus
+**6.2.** Sobre o perfil @monicadeoliveira.psi:
+
+**a)** A conta pessoal do Instagram é de titularidade exclusiva da Expert e não é transferível;
+
+**b)** Durante a vigência do contrato, o Estrategista Principal deterá acesso e gestão do perfil via Meta Business Manager para fins de veiculação de anúncios e orientação estratégica de conteúdo;
+
+**c)** A Expert não poderá remover conteúdo, alterar elementos estratégicos do perfil (bio, destaques, links) ou publicar conteúdo que contrarie o posicionamento definido, sem prévia aprovação do Estrategista Principal;
+
+**d)** Após a rescisão, a Expert retoma o controle integral da conta, mas fica vedada de utilizar o nome do produto, a marca, os mecanismos, a copy ou qualquer elemento estratégico criado durante a parceria.
 
 ---
 
-## CLÁUSULA 12 — DURAÇÃO E RENOVAÇÃO
+## CLÁUSULA 7 — DIREITOS DE IMAGEM, VOZ E NOME
 
-- Prazo mínimo: 12 meses a partir da assinatura
-- Renovação automática por igual período, salvo aviso com 60 dias de antecedência
+**7.1.** Monica Oliveira autoriza, de forma expressa e irrevogável durante a vigência deste contrato, o uso de sua imagem, voz, nome e likeness em:
+
+**a)** Anúncios pagos em plataformas digitais (Meta Ads, Google Ads e demais plataformas);
+
+**b)** Páginas de venda, VSLs, materiais de upsell e quaisquer outros materiais de marketing da operação;
+
+**c)** Materiais educacionais do produto (aulas, PDFs, gravações de webinário).
+
+**7.2.** Em caso de rescisão contratual por qualquer motivo, os materiais já produzidos e publicados poderão continuar sendo veiculados pelo Estrategista Principal por prazo de até **90 (noventa) dias** contados da data da rescisão, período durante o qual a Expert não poderá solicitar a remoção desses materiais.
+
+**7.3.** Após o prazo previsto no item 7.2, qualquer uso de imagem, voz ou nome da Expert em novos materiais deverá ser previamente autorizado por escrito.
 
 ---
 
-## CLÁUSULA 13 — FORO E LEGISLAÇÃO
+## CLÁUSULA 8 — SIGILO E CONFIDENCIALIDADE
 
-- Regido pela legislação brasileira
-- Foro: Comarca de [___]
-- Mediação como primeira tentativa antes de ação judicial
+**8.1.** Monica Oliveira e Marcos Oliveira obrigam-se, de forma solidária e independente entre si, a:
+
+**a)** Não revelar, divulgar ou compartilhar, por qualquer meio, a terceiros: estratégia da operação, estrutura do funil, mecanismo do produto, roteiros de copy, scripts de VSL, dados de performance (faturamento, ROAS, CPA, CPM, volumes de venda) ou qualquer informação operacional da parceria;
+
+**b)** Não divulgar os termos deste contrato, incluindo percentuais de remuneração de qualquer das Partes, sem autorização expressa e escrita do Estrategista Principal;
+
+**c)** Não utilizar qualquer informação estratégica, dado de mercado ou conhecimento adquirido no âmbito desta operação em benefício próprio ou de terceiros, fora do escopo deste contrato;
+
+**d)** Não recomendar, indicar ou facilitar a contratação de concorrentes diretos do Estrategista Principal junto às suas redes de contato, audiências ou bases de seguidores;
+
+**e)** Não participar, direta ou indiretamente, de projetos, operações ou iniciativas concorrentes no nicho de relacionamento, maturidade emocional ou desenvolvimento feminino durante toda a vigência deste contrato.
+
+**8.2.** O Estrategista Principal obriga-se a:
+
+**a)** Não compartilhar dados pessoais, financeiros ou informações sensíveis da Expert ou do Co-investidor com terceiros, sem consentimento expresso dos respectivos titulares;
+
+**b)** Não divulgar os termos individuais de remuneração de qualquer das Partes sem consentimento;
+
+**c)** Não utilizar a imagem, voz ou nome da Expert fora do escopo expressamente previsto neste contrato.
+
+**8.3.** A obrigação de sigilo prevista nesta cláusula permanece válida e exigível pelo prazo de **24 (vinte e quatro) meses** após o término deste contrato, independentemente do motivo da rescisão.
+
+**8.4.** O descumprimento de qualquer obrigação de sigilo prevista nesta cláusula sujeitará a Parte infratora ao pagamento de multa contratual equivalente a **R$ 50.000,00 (cinquenta mil reais)**, sem prejuízo da indenização por perdas e danos que se apurar.
+
+---
+
+## CLÁUSULA 9 — EXCLUSIVIDADE PARCIAL NO NICHO
+
+**9.1.** A Expert Monica Oliveira poderá manter outras fontes de renda, projetos pessoais e atendimentos clínicos individuais durante a vigência deste contrato, desde que não conflitem com as obrigações aqui previstas.
+
+**9.2.** É expressamente vedado à Expert, durante a vigência deste contrato, firmar qualquer acordo de coprodução, parceria de tráfego pago ou operação digital estruturada com terceiros no nicho de relacionamento, maturidade emocional ou desenvolvimento feminino.
+
+**9.3.** Atendimentos clínicos psicanalíticos individuais e atividades de conteúdo orgânico nas redes sociais não são afetados pela restrição do item 9.2, desde que não envolvam operação de tráfego pago com terceiros.
+
+**9.4.** O Co-investidor Marcos Oliveira não poderá, durante a vigência deste contrato, co-investir, financiar ou participar de operações concorrentes no nicho de relacionamento, maturidade emocional ou desenvolvimento feminino.
+
+---
+
+## CLÁUSULA 10 — REMUNERAÇÃO E FORMA DE PAGAMENTO
+
+**10.1. Divisão do Lucro Líquido**
+
+O resultado financeiro da operação será distribuído da seguinte forma:
+
+| Parte | Participação |
+|-------|-------------|
+| Kauã Henrique Rodrigues da Silva — Estrategista Principal | 50% |
+| Monica Oliveira — Expert | 25% |
+| Marcos Oliveira — Co-investidor | 25% |
+
+**10.2. Cálculo do Lucro Líquido**
+
+O lucro líquido distribuível corresponde ao faturamento bruto da operação, deduzidos os seguintes custos, devidamente comprovados e documentados:
+
+**a)** Investimento total em tráfego pago (Meta Ads e demais plataformas);
+**b)** Taxas da plataforma de vendas (gateway de pagamento, antecipação, chargeback);
+**c)** Custos com ferramentas e infraestrutura diretamente relacionados à operação e acordados entre as Partes;
+**d)** Reembolsos processados no período.
+
+**10.3.** Custos de produção de conteúdo, edição, copywriting, ferramentas de gestão e demais despesas operacionais do Estrategista Principal **não** integram o rol de deduções do lucro líquido, sendo de responsabilidade exclusiva dele.
+
+**10.4. Pagamento à Expert**
+
+**a)** Frequência: mensal, até o dia **[___]** do mês subsequente ao período de apuração;
+**b)** Forma: transferência bancária (TED/PIX) em conta corrente de titularidade de Monica Oliveira no Brasil;
+**c)** Moeda: Real Brasileiro (R$);
+**d)** Responsabilidade tributária: Monica Oliveira é inteiramente responsável pelo cumprimento de suas obrigações fiscais, inclusive no que se refere à sua condição de residente no exterior, eximindo o Estrategista Principal de qualquer responsabilidade fiscal sobre os valores repassados.
+
+**10.5. Pagamento ao Co-investidor**
+
+**a)** Frequência: mensal, junto ao fechamento do relatório mensal;
+**b)** Forma: [a definir entre Kauã Henrique Rodrigues da Silva e Marcos Oliveira];
+**c)** Moeda: Real Brasileiro (R$).
+
+**10.6.** O Estrategista Principal poderá reter parte do lucro líquido como reserva operacional, desde que devidamente comunicado às demais Partes no relatório mensal, não podendo tal retenção superar **20% (vinte por cento)** do lucro líquido apurado em cada período.
+
+---
+
+## CLÁUSULA 11 — TRANSPARÊNCIA FINANCEIRA E RELATÓRIOS
+
+**11.1.** O Estrategista Principal compromete-se a emitir relatório mensal de performance até o dia **[___]** do mês subsequente, contendo obrigatoriamente:
+
+**a)** Faturamento bruto do período;
+**b)** Discriminação de todos os custos deduzidos;
+**c)** Lucro líquido apurado;
+**d)** Valor do repasse a cada Parte;
+**e)** Principais métricas de campanha (faturamento por produto, ROAS, volume de vendas);
+**f)** Resumo operacional (novos criativos testados, campanhas pausadas, escalas realizadas).
+
+**11.2.** Monica Oliveira e Marcos Oliveira poderão solicitar acesso de leitura ao painel da plataforma de vendas, com visualização limitada ao faturamento e volume de vendas, sem acesso a dados de clientes ou configurações do sistema.
+
+**11.3.** Em caso de questionamento sobre os valores apurados, qualquer Parte poderá solicitar auditoria dos relatórios mediante comunicação escrita, devendo o Estrategista Principal apresentar os comprovantes em até **10 (dez) dias úteis**.
+
+---
+
+## CLÁUSULA 12 — NÃO COMPETIÇÃO E RESCISÃO
+
+**12.1.** Em caso de rescisão contratual por qualquer motivo, aplicam-se as seguintes restrições pelo prazo de **12 (doze) meses** contados da data de rescisão:
+
+**12.2. Monica Oliveira:**
+
+**a)** Não poderá operar, participar ou ser rosto de produto digital similar no nicho de relacionamento, maturidade emocional ou desenvolvimento feminino, em parceria com terceiros;
+
+**b)** Não poderá utilizar VSLs, criativos, roteiros, copies, mecanismos ou qualquer conteúdo produzido no âmbito desta parceria em operação própria ou de terceiros;
+
+**c)** Não poderá levar, transferir, comercializar ou compartilhar a base de alunos, lista de leads, dados de clientes ou qualquer dado gerado pela operação;
+
+**d)** Deverá cumprir aviso prévio mínimo de **60 (sessenta) dias**, mantendo integralmente suas entregas durante esse período.
+
+**12.3. Marcos Oliveira:**
+
+**a)** Não poderá investir, co-financiar ou participar de operações concorrentes no mesmo nicho pelo prazo de 12 meses;
+
+**b)** Não poderá utilizar informações estratégicas, dados de mercado, dados de performance ou ativos da operação em benefício próprio ou de terceiros;
+
+**c)** Não poderá levar, transferir ou comercializar a base de alunos, lista de leads ou dados de clientes;
+
+**d)** Deverá cumprir aviso prévio mínimo de **60 (sessenta) dias**.
+
+**12.4.** Em caso de rescisão, o Estrategista Principal é o único responsável por garantir a continuidade da entrega dos produtos já comercializados aos alunos ativos.
+
+**12.5.** A rescisão antecipada sem cumprimento do aviso prévio, salvo por descumprimento contratual grave da outra Parte, sujeitará a Parte infratora ao pagamento de multa equivalente a **3 (três) meses** de média de repasse do período imediatamente anterior.
+
+---
+
+## CLÁUSULA 13 — METAS, ENTREGAS MÍNIMAS E PERFORMANCE
+
+**13.1.** As metas de entrega mínima da Expert (volume de gravações, frequência de webinários, disponibilidade para high ticket) serão estabelecidas de comum acordo entre as Partes e formalizadas em **Adendo** a este contrato, no prazo máximo de **30 (trinta) dias** após a assinatura.
+
+**13.2.** Em caso de descumprimento reiterado das metas formalizadas, o Estrategista Principal notificará a Expert por escrito, concedendo prazo de **15 (quinze) dias corridos** para regularização.
+
+**13.3.** Não sanada a irregularidade no prazo, o Estrategista Principal poderá rescindir o contrato sem ônus e sem necessidade de aviso prévio adicional.
+
+**13.4.** Para fins desta cláusula, considera-se descumprimento reiterado a ocorrência de **2 (duas) ou mais** falhas não justificadas em um período de **3 (três) meses** consecutivos.
+
+---
+
+## CLÁUSULA 14 — VIGÊNCIA E RENOVAÇÃO
+
+**14.1.** O presente contrato vigorará pelo prazo mínimo de **12 (doze) meses**, contados da data de sua assinatura por todas as Partes.
+
+**14.2.** Findo o prazo mínimo, o contrato será renovado automaticamente por períodos iguais e sucessivos de 12 meses, salvo manifestação expressa de qualquer das Partes em sentido contrário, comunicada com antecedência mínima de **60 (sessenta) dias** antes do término do período vigente.
+
+**14.3.** Durante o prazo mínimo de 12 meses, nenhuma das Partes poderá rescindir o contrato sem justa causa, salvo mediante o pagamento da multa prevista na Cláusula 12.5.
+
+---
+
+## CLÁUSULA 15 — DISPOSIÇÕES GERAIS
+
+**15.1.** Este contrato constitui o acordo integral entre as Partes relativamente ao seu objeto, substituindo quaisquer entendimentos, propostas, negociações ou acordos verbais anteriores.
+
+**15.2.** Qualquer alteração ou aditamento a este contrato somente será válido mediante instrumento escrito, assinado por todas as Partes.
+
+**15.3.** A tolerância de qualquer das Partes quanto ao inadimplemento da outra não constitui novação, renúncia ou precedente, podendo a Parte tolerante exigir o cumprimento integral a qualquer momento.
+
+**15.4.** A invalidade ou nulidade de qualquer cláusula deste contrato não afetará a validade das demais, que permanecerão em pleno vigor.
+
+**15.5.** As Partes elegem a assinatura eletrônica como meio válido e legalmente vinculante para formalização deste instrumento, nos termos da Lei nº 14.063/2020.
+
+---
+
+## CLÁUSULA 16 — RESOLUÇÃO DE CONFLITOS
+
+**16.1.** Em caso de divergência ou conflito decorrente deste contrato, as Partes comprometem-se a buscar, primeiramente, a resolução amigável mediante negociação direta, no prazo de **15 (quinze) dias** contados da comunicação formal do conflito.
+
+**16.2.** Não alcançado acordo na negociação direta, as Partes submeterão o conflito à **mediação**, a ser conduzida por mediador escolhido de comum acordo, no prazo de **30 (trinta) dias**.
+
+**16.3.** Persistindo o conflito após a mediação, fica eleito o Foro da Comarca de **[___]**, Estado de **[___]**, com exclusão de qualquer outro, por mais privilegiado que seja, para dirimir as questões oriundas deste contrato.
+
+**16.4.** Este contrato é regido exclusivamente pela legislação brasileira, em especial pelo Código Civil Brasileiro (Lei nº 10.406/2002) e pela legislação aplicável ao mercado digital e direitos autorais.
 
 ---
 
 ## ASSINATURAS
 
-Local e data: __________________, ____ de __________ de 2026
+E por estarem assim justas e contratadas, as Partes assinam o presente instrumento em 3 (três) vias de igual teor e forma, na presença das testemunhas abaixo.
 
-**Kauã Henrique Rodrigues da Silva — Estrategista Principal**
+**Local e data:** __________________, _____ de __________________ de 2026.
+
+---
+
+**KAUÃ HENRIQUE RODRIGUES DA SILVA**
+Estrategista Principal e Operador
+CPF: [___]
 Assinatura: ___________________________
 
-**Marcos Oliveira — Co-investidor e Estrategista Secundário**
+---
+
+**MARCOS OLIVEIRA**
+Co-investidor e Estrategista Secundário
+CPF: [___]
 Assinatura: ___________________________
 
-**Monica Oliveira — Expert**
+---
+
+**MONICA OLIVEIRA**
+Expert e Rosto do Produto
+CPF: [___]
+Assinatura: ___________________________
+
+---
+
+**TESTEMUNHA 1**
+Nome: ___________________________
+CPF: ___________________________
+Assinatura: ___________________________
+
+**TESTEMUNHA 2**
+Nome: ___________________________
+CPF: ___________________________
 Assinatura: ___________________________
