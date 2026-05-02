@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contrato de Coprodução Digital — Grupo Aura</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Times+New+Roman&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 12pt;
+    color: #000;
+    background: #fff;
+  }
+
+  .page {
+    width: 210mm;
+    min-height: 297mm;
+    margin: 0 auto;
+    padding: 25mm 30mm 25mm 35mm;
+  }
+
+  @media print {
+    body { margin: 0; }
+    .page {
+      width: 100%;
+      padding: 20mm 25mm 20mm 30mm;
+      page-break-after: always;
+    }
+    .no-break { page-break-inside: avoid; }
+  }
+
+  /* Cabeçalho */
+  .header {
+    text-align: center;
+    margin-bottom: 20pt;
+    border-bottom: 2px solid #000;
+    padding-bottom: 14pt;
+  }
+
+  .header h1 {
+    font-size: 13pt;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.5pt;
+    line-height: 1.5;
+  }
+
+  .header .partes {
+    margin-top: 10pt;
+    font-size: 11pt;
+    line-height: 1.8;
+  }
+
+  /* Seções */
+  h2 {
+    font-size: 11pt;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 18pt;
+    margin-bottom: 8pt;
+    letter-spacing: 0.3pt;
+  }
+
+  .secao-titulo {
+    font-size: 11pt;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 18pt;
+    margin-bottom: 8pt;
+    border-left: 3px solid #000;
+    padding-left: 8pt;
+  }
+
+  /* Parágrafos */
+  p {
+    text-align: justify;
+    line-height: 1.6;
+    margin-bottom: 8pt;
+    text-indent: 0;
+  }
+
+  .considerando p {
+    text-align: justify;
+    margin-bottom: 6pt;
+    line-height: 1.6;
+  }
+
+  /* Itens de cláusula */
+  .item {
+    margin-bottom: 6pt;
+    line-height: 1.6;
+  }
+
+  .item-titulo {
+    font-weight: bold;
+    display: inline;
+  }
+
+  .sub-item {
+    margin-left: 20pt;
+    margin-bottom: 5pt;
+    line-height: 1.6;
+    text-align: justify;
+  }
+
+  .opcao {
+    margin-left: 25pt;
+    margin-bottom: 5pt;
+    line-height: 1.6;
+    text-align: justify;
+  }
+
+  /* Tabela de divisão */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10pt 0;
+    font-size: 11pt;
+  }
+
+  table th {
+    background: #f0f0f0;
+    border: 1px solid #000;
+    padding: 5pt 8pt;
+    text-align: left;
+    font-weight: bold;
+  }
+
+  table td {
+    border: 1px solid #000;
+    padding: 5pt 8pt;
+  }
+
+  /* Qualificação das partes */
+  .qualificacao {
+    margin-left: 10pt;
+    margin-bottom: 4pt;
+    line-height: 1.6;
+  }
+
+  /* Bloco de assinaturas */
+  .assinaturas {
+    margin-top: 30pt;
+  }
+
+  .assinatura-bloco {
+    margin-bottom: 30pt;
+    page-break-inside: avoid;
+  }
+
+  .assinatura-linha {
+    border-top: 1px solid #000;
+    width: 260pt;
+    margin-top: 30pt;
+    margin-bottom: 4pt;
+  }
+
+  .assinatura-nome {
+    font-weight: bold;
+    font-size: 11pt;
+  }
+
+  .assinatura-cargo {
+    font-size: 10pt;
+    margin-bottom: 2pt;
+  }
+
+  .assinatura-cpf {
+    font-size: 10pt;
+  }
+
+  /* Testemunhas lado a lado */
+  .testemunhas {
+    display: flex;
+    gap: 40pt;
+    margin-top: 20pt;
+  }
+
+  .testemunha-bloco {
+    flex: 1;
+  }
+
+  /* Rodapé */
+  .rodape {
+    margin-top: 20pt;
+    padding-top: 8pt;
+    border-top: 1px solid #999;
+    font-size: 9pt;
+    color: #555;
+    text-align: center;
+  }
+
+  /* Preâmbulo especial */
+  .preambulo {
+    text-align: justify;
+    line-height: 1.7;
+    margin-bottom: 10pt;
+  }
+
+  /* Numeração interna */
+  .num {
+    font-weight: bold;
+  }
+
+  strong { font-weight: bold; }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- CABEÇALHO -->
+  <div class="header">
+    <h1>Contrato de Coprodução Digital<br>e Parceria Estratégica</h1>
+    <div class="partes">
+      <strong>Kauã Henrique Rodrigues da Silva</strong> — Estrategista Principal e Operador<br>
+      <strong>Marcos Oliveira</strong> — Co-investidor e Estrategista Secundário<br>
+      <strong>Monica Oliveira</strong> — Expert e Rosto do Produto
+    </div>
+  </div>
+
+  <!-- PREÂMBULO -->
+  <div class="secao-titulo">Preâmbulo</div>
+  <p class="preambulo">
+    Pelo presente instrumento particular de Contrato de Coprodução Digital e Parceria Estratégica, as partes acima identificadas, doravante denominadas individualmente como <strong>"Estrategista Principal"</strong>, <strong>"Co-investidor"</strong> e <strong>"Expert"</strong>, e em conjunto como <strong>"Partes"</strong>, têm entre si justo e contratado o seguinte, que mutuamente aceitam e outorgam.
+  </p>
+  <p class="preambulo">
+    As Partes reconhecem que este instrumento nasce da livre manifestação de vontade de cada uma delas, após plena ciência de seus termos e condições, sem qualquer vício de consentimento.
+  </p>
+
+  <!-- CONSIDERANDO -->
+  <div class="secao-titulo">Considerando</div>
+  <div class="considerando">
+    <p><strong>CONSIDERANDO</strong> que o Estrategista Principal possui experiência comprovada em tráfego pago, copywriting, estruturação de funis digitais e operação de produtos digitais no mercado de infoprodutos brasileiro;</p>
+    <p><strong>CONSIDERANDO</strong> que a Expert possui conhecimento técnico, autoridade e credibilidade estabelecida no nicho de relacionamento, maturidade emocional e desenvolvimento feminino, bem como método próprio de transformação desenvolvido desde 2018;</p>
+    <p><strong>CONSIDERANDO</strong> que o Co-investidor possui capacidade financeira e conhecimento estratégico do mercado digital, desejando participar da operação como investidor e parceiro estratégico secundário;</p>
+    <p><strong>CONSIDERANDO</strong> que as Partes identificaram oportunidade de negócio de interesse mútuo, consistente na criação, produção e comercialização de produto digital de alto valor no nicho de relacionamento e desenvolvimento feminino;</p>
+    <p><strong>CONSIDERANDO</strong> que cada Parte contribui com recursos, competências e capacidades distintas e complementares para a viabilização do negócio;</p>
+    <p>Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condições a seguir estipuladas.</p>
+  </div>
+
+  <!-- CLÁUSULA 1 -->
+  <div class="secao-titulo">Cláusula 1 — Qualificação das Partes</div>
+
+  <div class="item"><span class="num">1.1.</span> <strong>ESTRATEGISTA PRINCIPAL</strong></div>
+  <div class="qualificacao">Nome completo: Kauã Henrique Rodrigues da Silva</div>
+  <div class="qualificacao">CPF: ___________________________</div>
+  <div class="qualificacao">Endereço: ___________________________</div>
+  <div class="qualificacao">E-mail profissional: okauarodriguez@gmail.com</div>
+  <div class="qualificacao">Telefone: ___________________________</div>
+
+  <br>
+  <div class="item"><span class="num">1.2.</span> <strong>CO-INVESTIDOR E ESTRATEGISTA SECUNDÁRIO</strong></div>
+  <div class="qualificacao">Nome completo: Marcos Oliveira</div>
+  <div class="qualificacao">CPF: ___________________________</div>
+  <div class="qualificacao">Endereço: ___________________________</div>
+  <div class="qualificacao">E-mail: ___________________________</div>
+  <div class="qualificacao">Telefone: ___________________________</div>
+
+  <br>
+  <div class="item"><span class="num">1.3.</span> <strong>EXPERT</strong></div>
+  <div class="qualificacao">Nome completo: Monica Oliveira</div>
+  <div class="qualificacao">CPF: ___________________________</div>
+  <div class="qualificacao">Endereço de residência atual: _________________________ (exterior)</div>
+  <div class="qualificacao">Cidade de origem: ___________________________</div>
+  <div class="qualificacao">E-mail: ___________________________</div>
+  <div class="qualificacao">Telefone/WhatsApp: ___________________________</div>
+  <div class="qualificacao">Instagram profissional: @monicadeoliveira.psi</div>
+  <div class="qualificacao">Conta bancária para recebimento: a ser indicada pela Expert e acordada entre as Partes antes do primeiro repasse</div>
+
+  <!-- CLÁUSULA 2 -->
+  <div class="secao-titulo">Cláusula 2 — Objeto do Contrato</div>
+
+  <p><span class="num">2.1.</span> O presente contrato tem por objeto a formalização de parceria de coprodução digital entre as Partes, com o fim de criar, estruturar, produzir, lançar e operar produto digital no nicho de relacionamento, maturidade emocional e desenvolvimento feminino, utilizando como base o conhecimento, método e imagem da Expert.</p>
+
+  <p><span class="num">2.2.</span> O produto será comercializado prioritariamente por meio de funil de vendas de tráfego pago (VSL), estruturado e operado exclusivamente pelo Estrategista Principal. O produto assumirá o formato de curso digital gravado, com possibilidade de inclusão de eventos ao vivo, webinários, mentorias em grupo e oferta de alto valor (high ticket), conforme planejamento estratégico definido pelo Estrategista Principal.</p>
+
+  <p><span class="num">2.3.</span> A estrutura definitiva de produtos, preços, sequência de funil e formatos de entrega poderá ser ajustada pelo Estrategista Principal, ouvidas as demais Partes, conforme a performance das campanhas e demandas do mercado, sendo vedada qualquer redução unilateral nos percentuais de participação previstos na Cláusula 11.</p>
+
+  <p><span class="num">2.4.</span> Toda a infraestrutura técnica, operacional e comercial da operação — incluindo plataforma de hospedagem de vídeos, plataforma de vendas, sistema de rastreamento e analytics, contas de anúncio, pixel de conversão, domínios, automações e demais ferramentas — estará sob titularidade e gestão exclusiva do Estrategista Principal. As demais Partes não deterão acesso administrativo a esses sistemas, ressalvado o acesso de leitura a relatórios financeiros previsto na Cláusula 12.</p>
+
+  <!-- CLÁUSULA 3 -->
+  <div class="secao-titulo">Cláusula 3 — Atribuições da Expert (Monica Oliveira)</div>
+
+  <p><span class="num">3.1.</span> Compete exclusivamente à Expert as seguintes obrigações, que assume de forma irrevogável durante a vigência deste contrato:</p>
+
+  <div class="sub-item"><strong>a)</strong> Ceder o uso e acesso ao perfil @monicadeoliveira.psi por meio do Meta Business Manager, sem transferência de senha, para fins de veiculação de anúncios pagos e gestão de conteúdo estratégico;</div>
+  <div class="sub-item"><strong>b)</strong> Adaptar a bio, o posicionamento e a identidade visual do perfil conforme diretrizes definidas pelo Estrategista Principal, sem prejuízo à autenticidade da Expert;</div>
+  <div class="sub-item"><strong>c)</strong> Gravar VSLs, vídeos de anúncios, criativos e demais materiais audiovisuais conforme briefing fornecido pelo Estrategista Principal, dentro dos prazos acordados;</div>
+  <div class="sub-item"><strong>d)</strong> Participar de webinários gravados e/ou ao vivo conforme calendário de entregas previamente estabelecido entre as Partes;</div>
+  <div class="sub-item"><strong>e)</strong> Conduzir aulas, workshops, mentorias em grupo e atendimentos coletivos com a base de alunos, conforme calendário acordado;</div>
+  <div class="sub-item"><strong>f)</strong> Ser o rosto, a voz e a autoridade do produto em todas as frentes de entrega: anúncios, produto digital, atendimento ao aluno, high ticket e eventos presenciais ou digitais;</div>
+  <div class="sub-item"><strong>g)</strong> Seguir integralmente os direcionamentos estratégicos do Estrategista Principal no que tange ao posicionamento da oferta, funil de vendas, copy e estrutura do produto;</div>
+  <div class="sub-item"><strong>h)</strong> Comunicar ao Estrategista Principal, com antecedência mínima de <strong>60 (sessenta) dias</strong>, qualquer impedimento, limitação ou impossibilidade de cumprir as entregas previstas;</div>
+  <div class="sub-item"><strong>i)</strong> Manter postura profissional compatível com a imagem do produto durante toda a vigência do contrato, em especial nas redes sociais e em interações públicas.</div>
+
+  <p><span class="num">3.2.</span> A Expert declara que possui plena capacidade e disponibilidade para cumprir integralmente as obrigações previstas nesta cláusula.</p>
+
+  <!-- CLÁUSULA 4 -->
+  <div class="secao-titulo">Cláusula 4 — Atribuições do Estrategista Principal (Kauã Henrique Rodrigues da Silva)</div>
+
+  <p><span class="num">4.1.</span> Compete ao Estrategista Principal:</p>
+
+  <div class="sub-item"><strong>a)</strong> Realizar e gerir o investimento em tráfego pago (Meta Ads) correspondente à sua participação, conforme Cláusula 5;</div>
+  <div class="sub-item"><strong>b)</strong> Estruturar, implementar e manter toda a infraestrutura técnica da operação: plataforma de hospedagem de vídeos, plataforma de vendas, pixel de conversão, automações, rastreamento, domínios, integrações e demais ferramentas necessárias;</div>
+  <div class="sub-item"><strong>c)</strong> Criar toda a copy da operação: roteiros de VSL, anúncios em vídeo e imagem, páginas de venda, sequências de e-mail, scripts de webinário, páginas de upsell e quaisquer outros materiais de conversão;</div>
+  <div class="sub-item"><strong>d)</strong> Gerir, monitorar e otimizar as campanhas de tráfego pago de forma contínua, incluindo criação de novos criativos, testes A/B, escalas e pausas conforme performance;</div>
+  <div class="sub-item"><strong>e)</strong> Coordenar a edição de vídeos, produção de criativos e demais materiais de marketing da operação;</div>
+  <div class="sub-item"><strong>f)</strong> Estruturar e gerir o suporte operacional ao produto (atendimento ao cliente, processamento de reembolsos, entrega de acessos);</div>
+  <div class="sub-item"><strong>g)</strong> Emitir relatórios mensais de performance para a Expert e o Co-investidor, conforme previsto na Cláusula 12;</div>
+  <div class="sub-item"><strong>h)</strong> Realizar os repasses financeiros às demais Partes conforme os termos e prazos da Cláusula 11;</div>
+  <div class="sub-item"><strong>i)</strong> Garantir a continuidade da entrega dos produtos já comercializados em caso de rescisão contratual de qualquer das Partes.</div>
+
+  <!-- CLÁUSULA 5 -->
+  <div class="secao-titulo">Cláusula 5 — Atribuições e Inadimplência do Co-investidor (Marcos Oliveira)</div>
+
+  <p><span class="num">5.1.</span> Compete ao Co-investidor:</p>
+
+  <div class="sub-item"><strong>a)</strong> Aportar <strong>50% (cinquenta por cento)</strong> do valor investido mensalmente em tráfego pago (Meta Ads), conforme orçamento definido pelo Estrategista Principal;</div>
+  <div class="sub-item"><strong>b)</strong> Participar das reuniões estratégicas periódicas da operação, contribuindo com análises, sugestões e perspectivas sobre o negócio;</div>
+  <div class="sub-item"><strong>c)</strong> Acompanhar os relatórios mensais de performance e ter ciência das principais métricas da operação;</div>
+  <div class="sub-item"><strong>d)</strong> Cumprir os compromissos financeiros de aporte nos prazos acordados, comunicando qualquer impossibilidade com antecedência mínima de <strong>30 (trinta) dias</strong>;</div>
+  <div class="sub-item"><strong>e)</strong> Respeitar integralmente a autonomia decisória do Estrategista Principal, a quem compete a decisão final sobre todas as questões estratégicas, operacionais e comerciais da operação.</div>
+
+  <p><span class="num">5.2.</span> Os custos relativos a ferramentas, plataformas, produção de conteúdo e infraestrutura técnica são de responsabilidade exclusiva do Estrategista Principal e não integram o aporte do Co-investidor.</p>
+
+  <p><span class="num">5.3.</span> <strong>Inadimplência do Co-investidor</strong></p>
+
+  <div class="sub-item"><strong>a)</strong> Na hipótese de o Co-investidor não realizar o aporte mensal no prazo acordado, o Estrategista Principal notificará por escrito (WhatsApp ou e-mail) com prazo de <strong>5 (cinco) dias úteis</strong> para regularização;</div>
+  <div class="sub-item"><strong>b)</strong> Não regularizado o aporte no prazo, o Estrategista Principal poderá, a seu critério:</div>
+  <div class="opcao"><strong>Opção 1:</strong> Cobrir integralmente o valor não aportado com recursos próprios, passando a deter o percentual equivalente ao aporte não realizado no resultado do período, sem prejuízo dos percentuais permanentes da Cláusula 11;</div>
+  <div class="opcao"><strong>Opção 2:</strong> Suspender temporariamente os investimentos em tráfego pago até a regularização, sem que isso configure descumprimento contratual por parte do Estrategista Principal;</div>
+  <div class="opcao"><strong>Opção 3:</strong> Rescindir o contrato com o Co-investidor, sem necessidade de aviso prévio, assumindo integralmente a operação, sendo devida ao Co-investidor apenas a remuneração proporcional ao período efetivamente cumprido.</div>
+  <div class="sub-item"><strong>c)</strong> A inadimplência reiterada — definida como <strong>2 (dois) ou mais</strong> meses de atraso ou não aporte em um período de <strong>12 (doze) meses</strong> — configura justa causa para rescisão imediata sem ônus ao Estrategista Principal.</div>
+
+  <!-- CLÁUSULA 6 -->
+  <div class="secao-titulo">Cláusula 6 — Contratação de Pessoal e Encargos Trabalhistas</div>
+
+  <p><span class="num">6.1.</span> Toda contratação de pessoal necessária à operação — incluindo, mas não se limitando a: gestor de tráfego, editor de vídeo, designer, suporte ao cliente, copywriter ou qualquer outro colaborador — é de responsabilidade exclusiva do Estrategista Principal, que atuará como único empregador ou contratante.</p>
+
+  <p><span class="num">6.2.</span> Os salários, honorários, encargos trabalhistas, previdenciários e quaisquer outros custos decorrentes dessas contratações são de responsabilidade exclusiva do Estrategista Principal e não serão deduzidos do lucro líquido distribuível, conforme previsto na Cláusula 11.3.</p>
+
+  <p><span class="num">6.3.</span> Monica Oliveira e Marcos Oliveira não possuem qualquer vínculo empregatício, societário ou de responsabilidade com os colaboradores contratados pelo Estrategista Principal, sendo expressamente vedada qualquer reclamação trabalhista ou previdenciária em face das demais Partes decorrente dessas contratações.</p>
+
+  <p><span class="num">6.4.</span> Caso as Partes venham a acordar, em instrumento escrito separado, a contratação de pessoal custeada em conjunto, os respectivos custos poderão ser incluídos nas deduções previstas na Cláusula 11.2, mediante formalização prévia por todas as Partes.</p>
+
+  <!-- CLÁUSULA 7 -->
+  <div class="secao-titulo">Cláusula 7 — Propriedade Intelectual e dos Ativos</div>
+
+  <p><span class="num">7.1.</span> Pertencem exclusiva e irrevogavelmente a Kauã Henrique Rodrigues da Silva, independentemente de rescisão contratual por qualquer motivo:</p>
+
+  <div class="sub-item"><strong>a)</strong> Todo o conteúdo produzido no âmbito da operação: roteiros de VSL, vídeos gravados, criativos, scripts de anúncio, aulas, materiais de apoio, sequências de e-mail e qualquer outro material de marketing ou educacional;</div>
+  <div class="sub-item"><strong>b)</strong> A marca, o nome do produto, o posicionamento e o mecanismo único desenvolvidos durante a parceria;</div>
+  <div class="sub-item"><strong>c)</strong> Todos os dados gerados pela operação: pixel de conversão e audiências customizadas, lista de leads, base de clientes, histórico de compras e dados comportamentais;</div>
+  <div class="sub-item"><strong>d)</strong> Toda a infraestrutura digital: contas de anúncio, plataformas de vendas, plataformas de vídeo, domínios, automações e ferramentas.</div>
+
+  <p><span class="num">7.2.</span> Sobre o perfil @monicadeoliveira.psi:</p>
+
+  <div class="sub-item"><strong>a)</strong> A conta pessoal do Instagram é de titularidade exclusiva da Expert e não é transferível;</div>
+  <div class="sub-item"><strong>b)</strong> Durante a vigência do contrato, o Estrategista Principal deterá acesso e gestão do perfil via Meta Business Manager para fins de veiculação de anúncios e orientação estratégica de conteúdo;</div>
+  <div class="sub-item"><strong>c)</strong> A Expert não poderá remover conteúdo, alterar elementos estratégicos do perfil (bio, destaques, links) ou publicar conteúdo que contrarie o posicionamento definido, sem prévia aprovação do Estrategista Principal;</div>
+  <div class="sub-item"><strong>d)</strong> Após a rescisão, a Expert retoma o controle integral da conta, mas fica vedada de utilizar o nome do produto, a marca, os mecanismos, a copy ou qualquer elemento estratégico criado durante a parceria.</div>
+
+  <!-- CLÁUSULA 8 -->
+  <div class="secao-titulo">Cláusula 8 — Direitos de Imagem, Voz e Nome</div>
+
+  <p><span class="num">8.1.</span> Monica Oliveira autoriza, de forma expressa e irrevogável durante a vigência deste contrato, o uso de sua imagem, voz, nome e <em>likeness</em> em:</p>
+
+  <div class="sub-item"><strong>a)</strong> Anúncios pagos em plataformas digitais (Meta Ads, Google Ads e demais plataformas);</div>
+  <div class="sub-item"><strong>b)</strong> Páginas de venda, VSLs, materiais de upsell e quaisquer outros materiais de marketing da operação;</div>
+  <div class="sub-item"><strong>c)</strong> Materiais educacionais do produto (aulas, PDFs, gravações de webinário).</div>
+
+  <p><span class="num">8.2.</span> Em caso de rescisão contratual por qualquer motivo, os materiais já produzidos e publicados poderão continuar sendo veiculados pelo Estrategista Principal por prazo de até <strong>90 (noventa) dias</strong> contados da data da rescisão, período durante o qual a Expert não poderá solicitar a remoção desses materiais.</p>
+
+  <p><span class="num">8.3.</span> Após o prazo previsto no item 8.2, qualquer uso de imagem, voz ou nome da Expert em novos materiais deverá ser previamente autorizado por escrito.</p>
+
+  <!-- CLÁUSULA 9 -->
+  <div class="secao-titulo">Cláusula 9 — Sigilo e Confidencialidade</div>
+
+  <p><span class="num">9.1.</span> Monica Oliveira e Marcos Oliveira obrigam-se, de forma solidária e independente entre si, a:</p>
+
+  <div class="sub-item"><strong>a)</strong> Não revelar, divulgar ou compartilhar, por qualquer meio, a terceiros: estratégia da operação, estrutura do funil, mecanismo do produto, roteiros de copy, scripts de VSL, dados de performance (faturamento, ROAS, CPA, CPM, volumes de venda) ou qualquer informação operacional da parceria;</div>
+  <div class="sub-item"><strong>b)</strong> Não divulgar os termos deste contrato, incluindo percentuais de remuneração de qualquer das Partes, sem autorização expressa e escrita do Estrategista Principal;</div>
+  <div class="sub-item"><strong>c)</strong> Não utilizar qualquer informação estratégica, dado de mercado ou conhecimento adquirido no âmbito desta operação em benefício próprio ou de terceiros, fora do escopo deste contrato;</div>
+  <div class="sub-item"><strong>d)</strong> Não recomendar, indicar ou facilitar a contratação de concorrentes diretos do Estrategista Principal junto às suas redes de contato, audiências ou bases de seguidores;</div>
+  <div class="sub-item"><strong>e)</strong> Não participar, direta ou indiretamente, de projetos, operações ou iniciativas concorrentes no nicho de relacionamento, maturidade emocional ou desenvolvimento feminino durante toda a vigência deste contrato.</div>
+
+  <p><span class="num">9.2.</span> O Estrategista Principal obriga-se a:</p>
+
+  <div class="sub-item"><strong>a)</strong> Não compartilhar dados pessoais, financeiros ou informações sensíveis da Expert ou do Co-investidor com terceiros, sem consentimento expresso dos respectivos titulares;</div>
+  <div class="sub-item"><strong>b)</strong> Não divulgar os termos individuais de remuneração de qualquer das Partes sem consentimento;</div>
+  <div class="sub-item"><strong>c)</strong> Não utilizar a imagem, voz ou nome da Expert fora do escopo expressamente previsto neste contrato.</div>
+
+  <p><span class="num">9.3.</span> A obrigação de sigilo prevista nesta cláusula permanece válida e exigível pelo prazo de <strong>24 (vinte e quatro) meses</strong> após o término deste contrato, independentemente do motivo da rescisão.</p>
+
+  <p><span class="num">9.4.</span> O descumprimento de qualquer obrigação de sigilo prevista nesta cláusula sujeitará a Parte infratora ao pagamento de multa contratual equivalente a <strong>R$ 50.000,00 (cinquenta mil reais)</strong>, sem prejuízo da indenização por perdas e danos que se apurar.</p>
+
+  <!-- CLÁUSULA 10 -->
+  <div class="secao-titulo">Cláusula 10 — Exclusividade Parcial no Nicho</div>
+
+  <p><span class="num">10.1.</span> A Expert Monica Oliveira poderá manter outras fontes de renda, projetos pessoais e atendimentos clínicos individuais durante a vigência deste contrato, desde que não conflitem com as obrigações aqui previstas.</p>
+
+  <p><span class="num">10.2.</span> É expressamente vedado à Expert, durante a vigência deste contrato, firmar qualquer acordo de coprodução, parceria de tráfego pago ou operação digital estruturada com terceiros no nicho de relacionamento, maturidade emocional ou desenvolvimento feminino.</p>
+
+  <p><span class="num">10.3.</span> Atendimentos clínicos psicanalíticos individuais e atividades de conteúdo orgânico nas redes sociais não são afetados pela restrição do item 10.2, desde que não envolvam operação de tráfego pago com terceiros.</p>
+
+  <p><span class="num">10.4.</span> O Co-investidor Marcos Oliveira não poderá, durante a vigência deste contrato, co-investir, financiar ou participar de operações concorrentes no nicho de relacionamento, maturidade emocional ou desenvolvimento feminino.</p>
+
+  <!-- CLÁUSULA 11 -->
+  <div class="secao-titulo">Cláusula 11 — Remuneração e Forma de Pagamento</div>
+
+  <p><span class="num">11.1.</span> <strong>Divisão do Lucro Líquido</strong></p>
+  <p>O resultado financeiro da operação será distribuído da seguinte forma:</p>
+
+  <table>
+    <tr>
+      <th>Parte</th>
+      <th style="text-align:center;">Participação</th>
+    </tr>
+    <tr>
+      <td>Kauã Henrique Rodrigues da Silva — Estrategista Principal</td>
+      <td style="text-align:center;">50%</td>
+    </tr>
+    <tr>
+      <td>Monica Oliveira — Expert</td>
+      <td style="text-align:center;">25%</td>
+    </tr>
+    <tr>
+      <td>Marcos Oliveira — Co-investidor</td>
+      <td style="text-align:center;">25%</td>
+    </tr>
+  </table>
+
+  <p><span class="num">11.2.</span> <strong>Cálculo do Lucro Líquido</strong></p>
+  <p>O lucro líquido distribuível corresponde ao faturamento bruto da operação, deduzidos os seguintes custos, devidamente comprovados e documentados:</p>
+
+  <div class="sub-item"><strong>a)</strong> Investimento total em tráfego pago (Meta Ads e demais plataformas);</div>
+  <div class="sub-item"><strong>b)</strong> Taxas da plataforma de vendas (gateway de pagamento, antecipação, chargeback);</div>
+  <div class="sub-item"><strong>c)</strong> Tributos incidentes sobre o faturamento bruto apurados no CNPJ do Estrategista Principal (incluindo, mas não se limitando a: ISS, PIS, COFINS, CSLL, IRPJ ou Simples Nacional conforme regime tributário vigente) — uma vez que toda a receita da operação é faturada pela pessoa jurídica do Estrategista Principal;</div>
+  <div class="sub-item"><strong>d)</strong> Custos com ferramentas e infraestrutura diretamente relacionados à operação e previamente acordados entre as Partes;</div>
+  <div class="sub-item"><strong>e)</strong> Reembolsos processados no período.</div>
+
+  <p><span class="num">11.3.</span> Custos de produção de conteúdo, edição, copywriting, ferramentas de gestão, salários e encargos de funcionários contratados pelo Estrategista Principal para a operação, e demais despesas operacionais internas do Estrategista Principal <strong>não</strong> integram o rol de deduções do lucro líquido, sendo de responsabilidade exclusiva dele e custeados a partir de sua participação de 50%.</p>
+
+  <p><span class="num">Adendo 11.3.1.</span> Caso as Partes acordem, por escrito e de forma unânime, a contratação conjunta de qualquer colaborador ou serviço externo — tais como gestor de tráfego terceirizado, editor, designer ou suporte — cujos custos devam ser compartilhados entre elas, esses valores passarão a integrar o rol de deduções do lucro líquido previsto no item 11.2, na proporção acordada, a partir do mês em que tal instrumento for formalizado.</p>
+
+  <p><span class="num">11.4.</span> <strong>Pagamento à Expert</strong></p>
+  <div class="sub-item"><strong>a)</strong> Frequência: mensal, referente ao mês anterior já encerrado, com repasse até o dia <strong>15 (quinze)</strong> do mês subsequente ao período de apuração;</div>
+  <div class="sub-item"><strong>b)</strong> Forma: transferência bancária (TED/PIX) para conta bancária de titularidade de Monica Oliveira, a ser por ela indicada e acordada entre as Partes no início da operação;</div>
+  <div class="sub-item"><strong>c)</strong> Moeda: Real Brasileiro (R$);</div>
+  <div class="sub-item"><strong>d)</strong> Responsabilidade tributária: Monica Oliveira é inteiramente responsável pelo cumprimento de suas obrigações fiscais, inclusive no que se refere à sua condição de residente no exterior, eximindo o Estrategista Principal de qualquer responsabilidade fiscal sobre os valores repassados.</div>
+
+  <p><span class="num">11.5.</span> <strong>Pagamento ao Co-investidor</strong></p>
+  <div class="sub-item"><strong>a)</strong> Frequência: mensal, referente ao mês anterior já encerrado, com repasse até o dia <strong>15 (quinze)</strong> do mês subsequente ao período de apuração;</div>
+  <div class="sub-item"><strong>b)</strong> Forma: transferência bancária (TED/PIX) para conta bancária de titularidade de Marcos Oliveira, a ser por ele indicada e acordada entre as Partes no início da operação;</div>
+  <div class="sub-item"><strong>c)</strong> Moeda: Real Brasileiro (R$).</div>
+
+  <p><span class="num">11.6.</span> O Estrategista Principal poderá reter parte do lucro líquido como reserva operacional, desde que devidamente comunicado às demais Partes no relatório mensal, não podendo tal retenção superar <strong>20% (vinte por cento)</strong> do lucro líquido apurado em cada período.</p>
+
+  <!-- CLÁUSULA 12 -->
+  <div class="secao-titulo">Cláusula 12 — Transparência Financeira e Relatórios</div>
+
+  <p><span class="num">12.1.</span> O Estrategista Principal compromete-se a emitir relatório mensal de performance até o dia <strong>05 (cinco)</strong> do mês subsequente, contendo obrigatoriamente:</p>
+
+  <div class="sub-item"><strong>a)</strong> Faturamento bruto do período;</div>
+  <div class="sub-item"><strong>b)</strong> Discriminação de todos os custos deduzidos com respectivos comprovantes;</div>
+  <div class="sub-item"><strong>c)</strong> Lucro líquido apurado;</div>
+  <div class="sub-item"><strong>d)</strong> Valor do repasse a cada Parte;</div>
+  <div class="sub-item"><strong>e)</strong> Principais métricas de campanha (faturamento por produto, ROAS, volume de vendas);</div>
+  <div class="sub-item"><strong>f)</strong> Resumo operacional (novos criativos testados, campanhas pausadas, escalas realizadas).</div>
+
+  <p><span class="num">12.2.</span> Monica Oliveira e Marcos Oliveira poderão solicitar acesso de leitura ao painel da plataforma de vendas, com visualização limitada ao faturamento e volume de vendas, sem acesso a dados de clientes ou configurações do sistema.</p>
+
+  <p><span class="num">12.3.</span> Em caso de questionamento sobre os valores apurados, qualquer Parte poderá solicitar auditoria dos relatórios mediante comunicação escrita, devendo o Estrategista Principal apresentar os comprovantes em até <strong>10 (dez) dias úteis</strong>.</p>
+
+  <!-- CLÁUSULA 13 -->
+  <div class="secao-titulo">Cláusula 13 — Não Competição e Rescisão</div>
+
+  <p><span class="num">13.1.</span> Em caso de rescisão contratual por qualquer motivo, aplicam-se as seguintes restrições pelo prazo de <strong>12 (doze) meses</strong> contados da data de rescisão:</p>
+
+  <p><span class="num">13.2.</span> <strong>Monica Oliveira:</strong></p>
+  <div class="sub-item"><strong>a)</strong> Não poderá operar, participar ou ser rosto de produto digital similar no nicho de relacionamento, maturidade emocional ou desenvolvimento feminino, em parceria com terceiros;</div>
+  <div class="sub-item"><strong>b)</strong> Não poderá utilizar VSLs, criativos, roteiros, copies, mecanismos ou qualquer conteúdo produzido no âmbito desta parceria em operação própria ou de terceiros;</div>
+  <div class="sub-item"><strong>c)</strong> Não poderá levar, transferir, comercializar ou compartilhar a base de alunos, lista de leads, dados de clientes ou qualquer dado gerado pela operação;</div>
+  <div class="sub-item"><strong>d)</strong> Deverá cumprir aviso prévio mínimo de <strong>60 (sessenta) dias</strong>, mantendo integralmente suas entregas durante esse período.</div>
+
+  <p><span class="num">13.3.</span> <strong>Marcos Oliveira:</strong></p>
+  <div class="sub-item"><strong>a)</strong> Não poderá investir, co-financiar ou participar de operações concorrentes no mesmo nicho pelo prazo de 12 meses;</div>
+  <div class="sub-item"><strong>b)</strong> Não poderá utilizar informações estratégicas, dados de mercado, dados de performance ou ativos da operação em benefício próprio ou de terceiros;</div>
+  <div class="sub-item"><strong>c)</strong> Não poderá levar, transferir ou comercializar a base de alunos, lista de leads ou dados de clientes;</div>
+  <div class="sub-item"><strong>d)</strong> Deverá cumprir aviso prévio mínimo de <strong>60 (sessenta) dias</strong>.</div>
+
+  <p><span class="num">13.4.</span> Em caso de rescisão, o Estrategista Principal é o único responsável por garantir a continuidade da entrega dos produtos já comercializados aos alunos ativos.</p>
+
+  <p><span class="num">13.5.</span> A rescisão antecipada sem cumprimento do aviso prévio, salvo por descumprimento contratual grave da outra Parte, sujeitará a Parte infratora ao pagamento de multa equivalente a <strong>3 (três) meses</strong> de média de repasse do período imediatamente anterior.</p>
+
+  <!-- CLÁUSULA 14 -->
+  <div class="secao-titulo">Cláusula 14 — Metas, Entregas Mínimas e Performance</div>
+
+  <p><span class="num">14.1.</span> As metas de entrega mínima da Expert (volume de gravações, frequência de webinários, disponibilidade para high ticket) serão estabelecidas de comum acordo entre as Partes e formalizadas em <strong>Adendo</strong> a este contrato, no prazo máximo de <strong>30 (trinta) dias</strong> após a assinatura.</p>
+
+  <p><span class="num">14.2.</span> Em caso de descumprimento reiterado das metas formalizadas, o Estrategista Principal notificará a Expert por escrito, concedendo prazo de <strong>15 (quinze) dias corridos</strong> para regularização.</p>
+
+  <p><span class="num">14.3.</span> Não sanada a irregularidade no prazo, o Estrategista Principal poderá rescindir o contrato sem ônus e sem necessidade de aviso prévio adicional.</p>
+
+  <p><span class="num">14.4.</span> Para fins desta cláusula, considera-se descumprimento reiterado a ocorrência de <strong>2 (duas) ou mais</strong> falhas não justificadas em um período de <strong>3 (três) meses</strong> consecutivos.</p>
+
+  <!-- CLÁUSULA 15 -->
+  <div class="secao-titulo">Cláusula 15 — Vigência e Renovação</div>
+
+  <p><span class="num">15.1.</span> O presente contrato vigorará pelo prazo mínimo de <strong>12 (doze) meses</strong>, contados da data de sua assinatura por todas as Partes.</p>
+
+  <p><span class="num">15.2.</span> Findo o prazo mínimo, o contrato será renovado automaticamente por períodos iguais e sucessivos de 12 meses, salvo manifestação expressa de qualquer das Partes em sentido contrário, comunicada com antecedência mínima de <strong>60 (sessenta) dias</strong> antes do término do período vigente.</p>
+
+  <p><span class="num">15.3.</span> Durante o prazo mínimo de 12 meses, nenhuma das Partes poderá rescindir o contrato sem justa causa, salvo mediante o pagamento da multa prevista na Cláusula 13.5.</p>
+
+  <!-- CLÁUSULA 16 -->
+  <div class="secao-titulo">Cláusula 16 — Disposições Gerais</div>
+
+  <p><span class="num">16.1.</span> Este contrato constitui o acordo integral entre as Partes relativamente ao seu objeto, substituindo quaisquer entendimentos, propostas, negociações ou acordos verbais anteriores.</p>
+
+  <p><span class="num">16.2.</span> Qualquer alteração ou aditamento a este contrato somente será válido mediante instrumento escrito, assinado por todas as Partes.</p>
+
+  <p><span class="num">16.3.</span> A tolerância de qualquer das Partes quanto ao inadimplemento da outra não constitui novação, renúncia ou precedente, podendo a Parte tolerante exigir o cumprimento integral a qualquer momento.</p>
+
+  <p><span class="num">16.4.</span> A invalidade ou nulidade de qualquer cláusula deste contrato não afetará a validade das demais, que permanecerão em pleno vigor.</p>
+
+  <p><span class="num">16.5.</span> As Partes elegem a assinatura eletrônica como meio válido e legalmente vinculante para formalização deste instrumento, nos termos da Lei nº 14.063/2020. Dado que a Expert reside no exterior, a assinatura será realizada por meio de plataforma de assinatura eletrônica qualificada (preferencialmente ClickSign ou DocuSign), com envio por e-mail para cada Parte, sendo dispensada a presença física ou reconhecimento em cartório.</p>
+
+  <!-- CLÁUSULA 17 -->
+  <div class="secao-titulo">Cláusula 17 — Resolução de Conflitos</div>
+
+  <p><span class="num">17.1.</span> Em caso de divergência ou conflito decorrente deste contrato, as Partes comprometem-se a buscar, primeiramente, a resolução amigável mediante negociação direta, no prazo de <strong>15 (quinze) dias</strong> contados da comunicação formal do conflito.</p>
+
+  <p><span class="num">17.2.</span> Não alcançado acordo na negociação direta, as Partes submeterão o conflito à <strong>mediação</strong>, a ser conduzida por mediador escolhido de comum acordo, no prazo de <strong>30 (trinta) dias</strong>.</p>
+
+  <p><span class="num">17.3.</span> Persistindo o conflito após a mediação, fica eleito o Foro da Comarca de <strong>Porto Ferreira</strong>, Estado de <strong>São Paulo</strong>, com exclusão de qualquer outro, por mais privilegiado que seja, para dirimir as questões oriundas deste contrato.</p>
+
+  <p><span class="num">17.4.</span> Este contrato é regido exclusivamente pela legislação brasileira, em especial pelo Código Civil Brasileiro (Lei nº 10.406/2002) e pela legislação aplicável ao mercado digital e direitos autorais.</p>
+
+  <!-- ASSINATURAS -->
+  <div class="secao-titulo" style="margin-top:30pt;">Assinaturas</div>
+
+  <p>E por estarem assim justas e contratadas, as Partes assinam o presente instrumento por meio de plataforma de assinatura eletrônica qualificada, com plena validade jurídica nos termos da Lei nº 14.063/2020.</p>
+
+  <p><strong>Local e data:</strong> __________________________, _____ de __________________________ de 2026.</p>
+
+  <div class="assinaturas">
+
+    <div class="assinatura-bloco">
+      <div class="assinatura-linha"></div>
+      <div class="assinatura-nome">KAUÃ HENRIQUE RODRIGUES DA SILVA</div>
+      <div class="assinatura-cargo">Estrategista Principal e Operador</div>
+      <div class="assinatura-cpf">CPF: ___________________________</div>
+    </div>
+
+    <div class="assinatura-bloco">
+      <div class="assinatura-linha"></div>
+      <div class="assinatura-nome">MARCOS OLIVEIRA</div>
+      <div class="assinatura-cargo">Co-investidor e Estrategista Secundário</div>
+      <div class="assinatura-cpf">CPF: ___________________________</div>
+    </div>
+
+    <div class="assinatura-bloco">
+      <div class="assinatura-linha"></div>
+      <div class="assinatura-nome">MONICA OLIVEIRA</div>
+      <div class="assinatura-cargo">Expert e Rosto do Produto</div>
+      <div class="assinatura-cpf">CPF: ___________________________</div>
+    </div>
+
+    <div class="testemunhas">
+      <div class="testemunha-bloco">
+        <div class="assinatura-linha"></div>
+        <div class="assinatura-nome">TESTEMUNHA 1</div>
+        <div class="assinatura-cpf">Nome: ___________________________</div>
+        <div class="assinatura-cpf">CPF: ___________________________</div>
+      </div>
+      <div class="testemunha-bloco">
+        <div class="assinatura-linha"></div>
+        <div class="assinatura-nome">TESTEMUNHA 2</div>
+        <div class="assinatura-cpf">Nome: ___________________________</div>
+        <div class="assinatura-cpf">CPF: ___________________________</div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="rodape">
+    Contrato de Coprodução Digital e Parceria Estratégica — Grupo Aura / Kauã Henrique Rodrigues da Silva<br>
+    Regido pela legislação brasileira — Lei nº 10.406/2002 | Lei nº 14.063/2020 | Foro: Porto Ferreira/SP
+  </div>
+
+</div>
+</body>
+</html>
