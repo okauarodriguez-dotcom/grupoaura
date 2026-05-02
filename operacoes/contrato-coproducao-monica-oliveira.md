@@ -55,7 +55,7 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 - E-mail: [___]
 - Telefone/WhatsApp: [___]
 - Instagram profissional: @monicadeoliveira.psi
-- Conta bancária para recebimento (Brasil): Banco [___] | Agência [___] | Conta [___] | Titular: Monica Oliveira | CPF: [___]
+- Conta bancária para recebimento: a ser indicada pela Expert e acordada entre as Partes antes do primeiro repasse
 
 ---
 
@@ -65,7 +65,7 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 **2.2.** O produto será comercializado prioritariamente por meio de funil de vendas de tráfego pago (VSL), estruturado e operado exclusivamente pelo Estrategista Principal. O produto assumirá o formato de curso digital gravado, com possibilidade de inclusão de eventos ao vivo, webinários, mentorias em grupo e oferta de alto valor (high ticket), conforme planejamento estratégico definido pelo Estrategista Principal.
 
-**2.3.** A estrutura definitiva de produtos, preços, sequência de funil e formatos de entrega poderá ser ajustada pelo Estrategista Principal, ouvidas as demais Partes, conforme a performance das campanhas e demandas do mercado, sendo vedada qualquer redução unilateral nos percentuais de participação previstos na Cláusula 10.
+**2.3.** A estrutura definitiva de produtos, preços, sequência de funil e formatos de entrega poderá ser ajustada pelo Estrategista Principal, ouvidas as demais Partes, conforme a performance das campanhas e demandas do mercado, sendo vedada qualquer redução unilateral nos percentuais de participação previstos na Cláusula 11.
 
 **2.4.** Toda a infraestrutura técnica, operacional e comercial da operação — incluindo plataforma de hospedagem de vídeos, plataforma de vendas, sistema de rastreamento e analytics, contas de anúncio, pixel de conversão, domínios, automações e demais ferramentas — estará sob titularidade e gestão exclusiva do Estrategista Principal. As demais Partes não deterão acesso administrativo a esses sistemas, ressalvado o acesso de leitura a relatórios financeiros previsto na Cláusula 12.
 
@@ -143,7 +143,7 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 **b)** Não regularizado o aporte no prazo, o Estrategista Principal poderá, a seu critério:
 
-— **Opção 1:** Cobrir integralmente o valor não aportado com recursos próprios, passando a deter o percentual equivalente ao aporte não realizado no resultado do período, sem prejuízo dos percentuais permanentes da Cláusula 10;
+— **Opção 1:** Cobrir integralmente o valor não aportado com recursos próprios, passando a deter o percentual equivalente ao aporte não realizado no resultado do período, sem prejuízo dos percentuais permanentes da Cláusula 11;
 
 — **Opção 2:** Suspender temporariamente os investimentos em tráfego pago até a regularização, sem que isso configure descumprimento contratual por parte do Estrategista Principal;
 
@@ -161,7 +161,7 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 **6.3.** Monica Oliveira e Marcos Oliveira não possuem qualquer vínculo empregatício, societário ou de responsabilidade com os colaboradores contratados pelo Estrategista Principal, sendo expressamente vedada qualquer reclamação trabalhista ou previdenciária em face das demais Partes decorrente dessas contratações.
 
-**6.4.** Caso as Partes venham a acordar, em instrumento escrito separado, a contratação de pessoal custeada em conjunto, os respectivos custos poderão ser incluídos nas deduções previstas na Cláusula 10.2, mediante formalização prévia por todas as Partes.
+**6.4.** Caso as Partes venham a acordar, em instrumento escrito separado, a contratação de pessoal custeada em conjunto, os respectivos custos poderão ser incluídos nas deduções previstas na Cláusula 11.2, mediante formalização prévia por todas as Partes.
 
 ---
 
@@ -169,7 +169,7 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 
 
-**6.1.** Pertencem exclusiva e irrevogavelmente a Kauã Henrique Rodrigues da Silva, independentemente de rescisão contratual por qualquer motivo:
+**7.1.** Pertencem exclusiva e irrevogavelmente a Kauã Henrique Rodrigues da Silva, independentemente de rescisão contratual por qualquer motivo:
 
 **a)** Todo o conteúdo produzido no âmbito da operação: roteiros de VSL, vídeos gravados, criativos, scripts de anúncio, aulas, materiais de apoio, sequências de e-mail e qualquer outro material de marketing ou educacional;
 
@@ -179,7 +179,7 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 **d)** Toda a infraestrutura digital: contas de anúncio, plataformas de vendas, plataformas de vídeo, domínios, automações e ferramentas.
 
-**6.2.** Sobre o perfil @monicadeoliveira.psi:
+**7.2.** Sobre o perfil @monicadeoliveira.psi:
 
 **a)** A conta pessoal do Instagram é de titularidade exclusiva da Expert e não é transferível;
 
@@ -193,7 +193,7 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 ## CLÁUSULA 8 — DIREITOS DE IMAGEM, VOZ E NOME
 
-**7.1.** Monica Oliveira autoriza, de forma expressa e irrevogável durante a vigência deste contrato, o uso de sua imagem, voz, nome e likeness em:
+**8.1.** Monica Oliveira autoriza, de forma expressa e irrevogável durante a vigência deste contrato, o uso de sua imagem, voz, nome e likeness em:
 
 **a)** Anúncios pagos em plataformas digitais (Meta Ads, Google Ads e demais plataformas);
 
@@ -201,15 +201,15 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 **c)** Materiais educacionais do produto (aulas, PDFs, gravações de webinário).
 
-**7.2.** Em caso de rescisão contratual por qualquer motivo, os materiais já produzidos e publicados poderão continuar sendo veiculados pelo Estrategista Principal por prazo de até **90 (noventa) dias** contados da data da rescisão, período durante o qual a Expert não poderá solicitar a remoção desses materiais.
+**8.2.** Em caso de rescisão contratual por qualquer motivo, os materiais já produzidos e publicados poderão continuar sendo veiculados pelo Estrategista Principal por prazo de até **90 (noventa) dias** contados da data da rescisão, período durante o qual a Expert não poderá solicitar a remoção desses materiais.
 
-**7.3.** Após o prazo previsto no item 7.2, qualquer uso de imagem, voz ou nome da Expert em novos materiais deverá ser previamente autorizado por escrito.
+**8.3.** Após o prazo previsto no item 8.2, qualquer uso de imagem, voz ou nome da Expert em novos materiais deverá ser previamente autorizado por escrito.
 
 ---
 
 ## CLÁUSULA 9 — SIGILO E CONFIDENCIALIDADE
 
-**8.1.** Monica Oliveira e Marcos Oliveira obrigam-se, de forma solidária e independente entre si, a:
+**9.1.** Monica Oliveira e Marcos Oliveira obrigam-se, de forma solidária e independente entre si, a:
 
 **a)** Não revelar, divulgar ou compartilhar, por qualquer meio, a terceiros: estratégia da operação, estrutura do funil, mecanismo do produto, roteiros de copy, scripts de VSL, dados de performance (faturamento, ROAS, CPA, CPM, volumes de venda) ou qualquer informação operacional da parceria;
 
@@ -221,7 +221,7 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 **e)** Não participar, direta ou indiretamente, de projetos, operações ou iniciativas concorrentes no nicho de relacionamento, maturidade emocional ou desenvolvimento feminino durante toda a vigência deste contrato.
 
-**8.2.** O Estrategista Principal obriga-se a:
+**9.2.** O Estrategista Principal obriga-se a:
 
 **a)** Não compartilhar dados pessoais, financeiros ou informações sensíveis da Expert ou do Co-investidor com terceiros, sem consentimento expresso dos respectivos titulares;
 
@@ -229,27 +229,27 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 **c)** Não utilizar a imagem, voz ou nome da Expert fora do escopo expressamente previsto neste contrato.
 
-**8.3.** A obrigação de sigilo prevista nesta cláusula permanece válida e exigível pelo prazo de **24 (vinte e quatro) meses** após o término deste contrato, independentemente do motivo da rescisão.
+**9.3.** A obrigação de sigilo prevista nesta cláusula permanece válida e exigível pelo prazo de **24 (vinte e quatro) meses** após o término deste contrato, independentemente do motivo da rescisão.
 
-**8.4.** O descumprimento de qualquer obrigação de sigilo prevista nesta cláusula sujeitará a Parte infratora ao pagamento de multa contratual equivalente a **R$ 50.000,00 (cinquenta mil reais)**, sem prejuízo da indenização por perdas e danos que se apurar.
+**9.4.** O descumprimento de qualquer obrigação de sigilo prevista nesta cláusula sujeitará a Parte infratora ao pagamento de multa contratual equivalente a **R$ 50.000,00 (cinquenta mil reais)**, sem prejuízo da indenização por perdas e danos que se apurar.
 
 ---
 
 ## CLÁUSULA 10 — EXCLUSIVIDADE PARCIAL NO NICHO
 
-**9.1.** A Expert Monica Oliveira poderá manter outras fontes de renda, projetos pessoais e atendimentos clínicos individuais durante a vigência deste contrato, desde que não conflitem com as obrigações aqui previstas.
+**10.1.** A Expert Monica Oliveira poderá manter outras fontes de renda, projetos pessoais e atendimentos clínicos individuais durante a vigência deste contrato, desde que não conflitem com as obrigações aqui previstas.
 
-**9.2.** É expressamente vedado à Expert, durante a vigência deste contrato, firmar qualquer acordo de coprodução, parceria de tráfego pago ou operação digital estruturada com terceiros no nicho de relacionamento, maturidade emocional ou desenvolvimento feminino.
+**10.2.** É expressamente vedado à Expert, durante a vigência deste contrato, firmar qualquer acordo de coprodução, parceria de tráfego pago ou operação digital estruturada com terceiros no nicho de relacionamento, maturidade emocional ou desenvolvimento feminino.
 
-**9.3.** Atendimentos clínicos psicanalíticos individuais e atividades de conteúdo orgânico nas redes sociais não são afetados pela restrição do item 9.2, desde que não envolvam operação de tráfego pago com terceiros.
+**10.3.** Atendimentos clínicos psicanalíticos individuais e atividades de conteúdo orgânico nas redes sociais não são afetados pela restrição do item 9.2, desde que não envolvam operação de tráfego pago com terceiros.
 
-**9.4.** O Co-investidor Marcos Oliveira não poderá, durante a vigência deste contrato, co-investir, financiar ou participar de operações concorrentes no nicho de relacionamento, maturidade emocional ou desenvolvimento feminino.
+**10.4.** O Co-investidor Marcos Oliveira não poderá, durante a vigência deste contrato, co-investir, financiar ou participar de operações concorrentes no nicho de relacionamento, maturidade emocional ou desenvolvimento feminino.
 
 ---
 
 ## CLÁUSULA 11 — REMUNERAÇÃO E FORMA DE PAGAMENTO
 
-**10.1. Divisão do Lucro Líquido**
+**11.1. Divisão do Lucro Líquido**
 
 O resultado financeiro da operação será distribuído da seguinte forma:
 
@@ -259,7 +259,7 @@ O resultado financeiro da operação será distribuído da seguinte forma:
 | Monica Oliveira — Expert | 25% |
 | Marcos Oliveira — Co-investidor | 25% |
 
-**10.2. Cálculo do Lucro Líquido**
+**11.2. Cálculo do Lucro Líquido**
 
 O lucro líquido distribuível corresponde ao faturamento bruto da operação, deduzidos os seguintes custos, devidamente comprovados e documentados:
 
@@ -269,28 +269,28 @@ O lucro líquido distribuível corresponde ao faturamento bruto da operação, d
 **d)** Custos com ferramentas e infraestrutura diretamente relacionados à operação e previamente acordados entre as Partes;
 **e)** Reembolsos processados no período.
 
-**10.3.** Custos de produção de conteúdo, edição, copywriting, ferramentas de gestão, salários e encargos de funcionários contratados pelo Estrategista Principal para a operação, e demais despesas operacionais internas do Estrategista Principal **não** integram o rol de deduções do lucro líquido, sendo de responsabilidade exclusiva dele e custeados a partir de sua participação de 50%.
+**11.3.** Custos de produção de conteúdo, edição, copywriting, ferramentas de gestão, salários e encargos de funcionários contratados pelo Estrategista Principal para a operação, e demais despesas operacionais internas do Estrategista Principal **não** integram o rol de deduções do lucro líquido, sendo de responsabilidade exclusiva dele e custeados a partir de sua participação de 50%.
 
-**10.4. Pagamento à Expert**
+**11.4. Pagamento à Expert**
 
-**a)** Frequência: mensal, até o dia **10 (dez)** do mês subsequente ao período de apuração;
-**b)** Forma: transferência bancária (TED/PIX) em conta corrente de titularidade de Monica Oliveira no Brasil;
+**a)** Frequência: mensal, referente ao mês anterior já encerrado, com repasse até o dia **15 (quinze)** do mês subsequente ao período de apuração;
+**b)** Forma: transferência bancária (TED/PIX) para conta bancária de titularidade de Monica Oliveira, a ser por ela indicada e acordada entre as Partes no início da operação;
 **c)** Moeda: Real Brasileiro (R$);
 **d)** Responsabilidade tributária: Monica Oliveira é inteiramente responsável pelo cumprimento de suas obrigações fiscais, inclusive no que se refere à sua condição de residente no exterior, eximindo o Estrategista Principal de qualquer responsabilidade fiscal sobre os valores repassados.
 
-**10.5. Pagamento ao Co-investidor**
+**11.5. Pagamento ao Co-investidor**
 
-**a)** Frequência: mensal, até o dia **10 (dez)** do mês subsequente ao período de apuração;
-**b)** Forma: transferência bancária (TED/PIX) para conta de titularidade de Marcos Oliveira;
+**a)** Frequência: mensal, referente ao mês anterior já encerrado, com repasse até o dia **15 (quinze)** do mês subsequente ao período de apuração;
+**b)** Forma: transferência bancária (TED/PIX) para conta bancária de titularidade de Marcos Oliveira, a ser por ele indicada e acordada entre as Partes no início da operação;
 **c)** Moeda: Real Brasileiro (R$).
 
-**10.6.** O Estrategista Principal poderá reter parte do lucro líquido como reserva operacional, desde que devidamente comunicado às demais Partes no relatório mensal, não podendo tal retenção superar **20% (vinte por cento)** do lucro líquido apurado em cada período.
+**11.6.** O Estrategista Principal poderá reter parte do lucro líquido como reserva operacional, desde que devidamente comunicado às demais Partes no relatório mensal, não podendo tal retenção superar **20% (vinte por cento)** do lucro líquido apurado em cada período.
 
 ---
 
 ## CLÁUSULA 12 — TRANSPARÊNCIA FINANCEIRA E RELATÓRIOS
 
-**11.1.** O Estrategista Principal compromete-se a emitir relatório mensal de performance até o dia **05 (cinco)** do mês subsequente, contendo obrigatoriamente:
+**12.1.** O Estrategista Principal compromete-se a emitir relatório mensal de performance até o dia **05 (cinco)** do mês subsequente, contendo obrigatoriamente:
 
 **a)** Faturamento bruto do período;
 **b)** Discriminação de todos os custos deduzidos com respectivos comprovantes;
@@ -299,17 +299,17 @@ O lucro líquido distribuível corresponde ao faturamento bruto da operação, d
 **e)** Principais métricas de campanha (faturamento por produto, ROAS, volume de vendas);
 **f)** Resumo operacional (novos criativos testados, campanhas pausadas, escalas realizadas).
 
-**11.2.** Monica Oliveira e Marcos Oliveira poderão solicitar acesso de leitura ao painel da plataforma de vendas, com visualização limitada ao faturamento e volume de vendas, sem acesso a dados de clientes ou configurações do sistema.
+**12.2.** Monica Oliveira e Marcos Oliveira poderão solicitar acesso de leitura ao painel da plataforma de vendas, com visualização limitada ao faturamento e volume de vendas, sem acesso a dados de clientes ou configurações do sistema.
 
-**11.3.** Em caso de questionamento sobre os valores apurados, qualquer Parte poderá solicitar auditoria dos relatórios mediante comunicação escrita, devendo o Estrategista Principal apresentar os comprovantes em até **10 (dez) dias úteis**.
+**12.3.** Em caso de questionamento sobre os valores apurados, qualquer Parte poderá solicitar auditoria dos relatórios mediante comunicação escrita, devendo o Estrategista Principal apresentar os comprovantes em até **10 (dez) dias úteis**.
 
 ---
 
 ## CLÁUSULA 13 — NÃO COMPETIÇÃO E RESCISÃO
 
-**12.1.** Em caso de rescisão contratual por qualquer motivo, aplicam-se as seguintes restrições pelo prazo de **12 (doze) meses** contados da data de rescisão:
+**13.1.** Em caso de rescisão contratual por qualquer motivo, aplicam-se as seguintes restrições pelo prazo de **12 (doze) meses** contados da data de rescisão:
 
-**12.2. Monica Oliveira:**
+**13.2. Monica Oliveira:**
 
 **a)** Não poderá operar, participar ou ser rosto de produto digital similar no nicho de relacionamento, maturidade emocional ou desenvolvimento feminino, em parceria com terceiros;
 
@@ -319,7 +319,7 @@ O lucro líquido distribuível corresponde ao faturamento bruto da operação, d
 
 **d)** Deverá cumprir aviso prévio mínimo de **60 (sessenta) dias**, mantendo integralmente suas entregas durante esse período.
 
-**12.3. Marcos Oliveira:**
+**13.3. Marcos Oliveira:**
 
 **a)** Não poderá investir, co-financiar ou participar de operações concorrentes no mesmo nicho pelo prazo de 12 meses;
 
@@ -329,57 +329,57 @@ O lucro líquido distribuível corresponde ao faturamento bruto da operação, d
 
 **d)** Deverá cumprir aviso prévio mínimo de **60 (sessenta) dias**.
 
-**12.4.** Em caso de rescisão, o Estrategista Principal é o único responsável por garantir a continuidade da entrega dos produtos já comercializados aos alunos ativos.
+**13.4.** Em caso de rescisão, o Estrategista Principal é o único responsável por garantir a continuidade da entrega dos produtos já comercializados aos alunos ativos.
 
-**12.5.** A rescisão antecipada sem cumprimento do aviso prévio, salvo por descumprimento contratual grave da outra Parte, sujeitará a Parte infratora ao pagamento de multa equivalente a **3 (três) meses** de média de repasse do período imediatamente anterior.
+**13.5.** A rescisão antecipada sem cumprimento do aviso prévio, salvo por descumprimento contratual grave da outra Parte, sujeitará a Parte infratora ao pagamento de multa equivalente a **3 (três) meses** de média de repasse do período imediatamente anterior.
 
 ---
 
 ## CLÁUSULA 14 — METAS, ENTREGAS MÍNIMAS E PERFORMANCE
 
-**13.1.** As metas de entrega mínima da Expert (volume de gravações, frequência de webinários, disponibilidade para high ticket) serão estabelecidas de comum acordo entre as Partes e formalizadas em **Adendo** a este contrato, no prazo máximo de **30 (trinta) dias** após a assinatura.
+**14.1.** As metas de entrega mínima da Expert (volume de gravações, frequência de webinários, disponibilidade para high ticket) serão estabelecidas de comum acordo entre as Partes e formalizadas em **Adendo** a este contrato, no prazo máximo de **30 (trinta) dias** após a assinatura.
 
-**13.2.** Em caso de descumprimento reiterado das metas formalizadas, o Estrategista Principal notificará a Expert por escrito, concedendo prazo de **15 (quinze) dias corridos** para regularização.
+**14.2.** Em caso de descumprimento reiterado das metas formalizadas, o Estrategista Principal notificará a Expert por escrito, concedendo prazo de **15 (quinze) dias corridos** para regularização.
 
-**13.3.** Não sanada a irregularidade no prazo, o Estrategista Principal poderá rescindir o contrato sem ônus e sem necessidade de aviso prévio adicional.
+**14.3.** Não sanada a irregularidade no prazo, o Estrategista Principal poderá rescindir o contrato sem ônus e sem necessidade de aviso prévio adicional.
 
-**13.4.** Para fins desta cláusula, considera-se descumprimento reiterado a ocorrência de **2 (duas) ou mais** falhas não justificadas em um período de **3 (três) meses** consecutivos.
+**14.4.** Para fins desta cláusula, considera-se descumprimento reiterado a ocorrência de **2 (duas) ou mais** falhas não justificadas em um período de **3 (três) meses** consecutivos.
 
 ---
 
 ## CLÁUSULA 15 — VIGÊNCIA E RENOVAÇÃO
 
-**14.1.** O presente contrato vigorará pelo prazo mínimo de **12 (doze) meses**, contados da data de sua assinatura por todas as Partes.
+**15.1.** O presente contrato vigorará pelo prazo mínimo de **12 (doze) meses**, contados da data de sua assinatura por todas as Partes.
 
-**14.2.** Findo o prazo mínimo, o contrato será renovado automaticamente por períodos iguais e sucessivos de 12 meses, salvo manifestação expressa de qualquer das Partes em sentido contrário, comunicada com antecedência mínima de **60 (sessenta) dias** antes do término do período vigente.
+**15.2.** Findo o prazo mínimo, o contrato será renovado automaticamente por períodos iguais e sucessivos de 12 meses, salvo manifestação expressa de qualquer das Partes em sentido contrário, comunicada com antecedência mínima de **60 (sessenta) dias** antes do término do período vigente.
 
-**14.3.** Durante o prazo mínimo de 12 meses, nenhuma das Partes poderá rescindir o contrato sem justa causa, salvo mediante o pagamento da multa prevista na Cláusula 13.5.
+**15.3.** Durante o prazo mínimo de 12 meses, nenhuma das Partes poderá rescindir o contrato sem justa causa, salvo mediante o pagamento da multa prevista na Cláusula 13.5.
 
 ---
 
 ## CLÁUSULA 16 — DISPOSIÇÕES GERAIS
 
-**15.1.** Este contrato constitui o acordo integral entre as Partes relativamente ao seu objeto, substituindo quaisquer entendimentos, propostas, negociações ou acordos verbais anteriores.
+**16.1.** Este contrato constitui o acordo integral entre as Partes relativamente ao seu objeto, substituindo quaisquer entendimentos, propostas, negociações ou acordos verbais anteriores.
 
-**15.2.** Qualquer alteração ou aditamento a este contrato somente será válido mediante instrumento escrito, assinado por todas as Partes.
+**16.2.** Qualquer alteração ou aditamento a este contrato somente será válido mediante instrumento escrito, assinado por todas as Partes.
 
-**15.3.** A tolerância de qualquer das Partes quanto ao inadimplemento da outra não constitui novação, renúncia ou precedente, podendo a Parte tolerante exigir o cumprimento integral a qualquer momento.
+**16.3.** A tolerância de qualquer das Partes quanto ao inadimplemento da outra não constitui novação, renúncia ou precedente, podendo a Parte tolerante exigir o cumprimento integral a qualquer momento.
 
-**15.4.** A invalidade ou nulidade de qualquer cláusula deste contrato não afetará a validade das demais, que permanecerão em pleno vigor.
+**16.4.** A invalidade ou nulidade de qualquer cláusula deste contrato não afetará a validade das demais, que permanecerão em pleno vigor.
 
-**15.5.** As Partes elegem a assinatura eletrônica como meio válido e legalmente vinculante para formalização deste instrumento, nos termos da Lei nº 14.063/2020. Dado que a Expert reside no exterior, a assinatura será realizada por meio de plataforma de assinatura eletrônica qualificada (preferencialmente ClickSign ou DocuSign), com envio por e-mail para cada Parte, sendo dispensada a presença física ou reconhecimento em cartório.
+**16.5.** As Partes elegem a assinatura eletrônica como meio válido e legalmente vinculante para formalização deste instrumento, nos termos da Lei nº 14.063/2020. Dado que a Expert reside no exterior, a assinatura será realizada por meio de plataforma de assinatura eletrônica qualificada (preferencialmente ClickSign ou DocuSign), com envio por e-mail para cada Parte, sendo dispensada a presença física ou reconhecimento em cartório.
 
 ---
 
 ## CLÁUSULA 17 — RESOLUÇÃO DE CONFLITOS
 
-**16.1.** Em caso de divergência ou conflito decorrente deste contrato, as Partes comprometem-se a buscar, primeiramente, a resolução amigável mediante negociação direta, no prazo de **15 (quinze) dias** contados da comunicação formal do conflito.
+**17.1.** Em caso de divergência ou conflito decorrente deste contrato, as Partes comprometem-se a buscar, primeiramente, a resolução amigável mediante negociação direta, no prazo de **15 (quinze) dias** contados da comunicação formal do conflito.
 
-**16.2.** Não alcançado acordo na negociação direta, as Partes submeterão o conflito à **mediação**, a ser conduzida por mediador escolhido de comum acordo, no prazo de **30 (trinta) dias**.
+**17.2.** Não alcançado acordo na negociação direta, as Partes submeterão o conflito à **mediação**, a ser conduzida por mediador escolhido de comum acordo, no prazo de **30 (trinta) dias**.
 
-**16.3.** Persistindo o conflito após a mediação, fica eleito o Foro da Comarca de **Porto Ferreira**, Estado de **São Paulo**, com exclusão de qualquer outro, por mais privilegiado que seja, para dirimir as questões oriundas deste contrato.
+**17.3.** Persistindo o conflito após a mediação, fica eleito o Foro da Comarca de **Porto Ferreira**, Estado de **São Paulo**, com exclusão de qualquer outro, por mais privilegiado que seja, para dirimir as questões oriundas deste contrato.
 
-**16.4.** Este contrato é regido exclusivamente pela legislação brasileira, em especial pelo Código Civil Brasileiro (Lei nº 10.406/2002) e pela legislação aplicável ao mercado digital e direitos autorais.
+**17.4.** Este contrato é regido exclusivamente pela legislação brasileira, em especial pelo Código Civil Brasileiro (Lei nº 10.406/2002) e pela legislação aplicável ao mercado digital e direitos autorais.
 
 ---
 
