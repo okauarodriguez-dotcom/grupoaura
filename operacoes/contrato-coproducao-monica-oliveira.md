@@ -35,10 +35,10 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 **1.1. ESTRATEGISTA PRINCIPAL**
 - Nome completo: Kauã Henrique Rodrigues da Silva
-- CPF: [___]
-- Endereço: [___]
+- CPF: 435.789.068-32
+- Endereço: Rua Miguel Borelli Thomaz, 645 — Santa Rosa 2, Porto Ferreira/SP, CEP 13661-224
 - E-mail profissional: okauarodriguez@gmail.com
-- Telefone: [___]
+- Telefone: (19) 99886-3026
 
 **1.2. CO-INVESTIDOR E ESTRATEGISTA SECUNDÁRIO**
 - Nome completo: Marcos Paulo Passos de Oliveira
