@@ -1,5 +1,5 @@
 # Contrato de Coprodução
-**Partes:** Kauã Henrique Rodriguez (Estrategista) × Marcos Oliveira (Co-investidor) × Monica Oliveira (Expert)
+**Partes:** Kauã Henrique Rodrigues da Silva (Estrategista) × Marcos Oliveira (Co-investidor) × Monica Oliveira (Expert)
 **Data:** 02/05/2026
 
 ---
@@ -7,7 +7,7 @@
 ## IDENTIFICAÇÃO DAS PARTES
 
 ### ESTRATEGISTA PRINCIPAL
-- Nome: Kauã Henrique Rodriguez
+- Nome: Kauã Henrique Rodrigues da Silva
 - CPF: [___]
 - E-mail: okauarodriguez@gmail.com
 
@@ -28,9 +28,9 @@
 
 ## CLÁUSULA 1 — OBJETO DO CONTRATO
 
-O presente contrato estabelece os termos de uma parceria de coprodução digital, na qual Monica Oliveira atuará como Expert e Rosto do produto, enquanto Kauã Rodriguez atuará como Estrategista e Operador, e Marcos Oliveira como Co-investidor.
+O presente contrato estabelece os termos de uma parceria de coprodução digital, na qual Monica Oliveira atuará como Expert e Rosto do produto, enquanto Kauã Henrique Rodrigues da Silva atuará como Estrategista e Operador, e Marcos Oliveira como Co-investidor.
 
-Toda a operação — plataforma de vídeos, plataforma de vendas, plataforma de rastreamento, ferramentas, domínios e infraestrutura técnica — ocorrerá dentro da estrutura própria de Kauã Rodriguez. Monica e Marcos não terão acesso administrativo a esses sistemas, salvo acesso de leitura a relatórios financeiros previsto na Cláusula 9.
+Toda a operação — plataforma de vídeos, plataforma de vendas, plataforma de rastreamento, ferramentas, domínios e infraestrutura técnica — ocorrerá dentro da estrutura própria de Kauã Henrique Rodrigues da Silva. Monica e Marcos não terão acesso administrativo a esses sistemas, salvo acesso de leitura a relatórios financeiros previsto na Cláusula 9.
 
 ---
 
@@ -44,14 +44,14 @@ Monica Oliveira se compromete a:
 - Participar de webinários gravados e ao vivo conforme calendário acordado
 - Conduzir workshops e mentorias com a base de alunos conforme calendário acordado
 - Ser o rosto da entrega do produto (aulas, conteúdos, high ticket)
-- Seguir os direcionamentos estratégicos de Kauã Rodriguez — a estratégia, o funil e o posicionamento pertencem exclusivamente a ele
+- Seguir os direcionamentos estratégicos de Kauã Henrique Rodrigues da Silva — a estratégia, o funil e o posicionamento pertencem exclusivamente a ele
 - Comunicar com mínimo de 60 dias de antecedência qualquer impossibilidade de cumprir as entregas
 
 ---
 
-## CLÁUSULA 3 — ATRIBUIÇÕES DO ESTRATEGISTA (Kauã Rodriguez)
+## CLÁUSULA 3 — ATRIBUIÇÕES DO ESTRATEGISTA (Kauã Henrique Rodrigues da Silva)
 
-Kauã Rodriguez se compromete a:
+Kauã Henrique Rodrigues da Silva se compromete a:
 
 - Realizar o investimento em tráfego pago conforme orçamento acordado
 - Estruturar e manter toda a infraestrutura técnica dentro de sua estrutura própria: plataforma de vídeos, plataforma de vendas, plataforma de rastreamento, ferramentas, pixel, automações e domínios
@@ -66,16 +66,16 @@ Kauã Rodriguez se compromete a:
 
 ## CLÁUSULA 4 — CO-INVESTIMENTO (Marcos Oliveira)
 
-- Marcos Oliveira entrará com 50% do investimento em tráfego pago (Meta Ads) — custos de ferramentas, plataformas, produção e infraestrutura são responsabilidade exclusiva de Kauã Rodriguez
-- Kauã Rodriguez entra com os outros 50% do investimento em tráfego
+- Marcos Oliveira entrará com 50% do investimento em tráfego pago (Meta Ads) — custos de ferramentas, plataformas, produção e infraestrutura são responsabilidade exclusiva de Kauã Henrique Rodrigues da Silva
+- Kauã Henrique Rodrigues da Silva entra com os outros 50% do investimento em tráfego
 - Remuneração de Marcos definida na Cláusula 9
-- Em caso de rescisão entre Kauã e Marcos, todos os ativos permanecem integralmente com Kauã Rodriguez
+- Em caso de rescisão entre Kauã e Marcos, todos os ativos permanecem integralmente com Kauã Henrique Rodrigues da Silva
 
 ---
 
 ## CLÁUSULA 5 — PROPRIEDADE DOS ATIVOS
 
-Pertencem exclusivamente a Kauã Henrique Rodriguez, independentemente de rescisão:
+Pertencem exclusivamente a Kauã Henrique Rodrigues da Silva, independentemente de rescisão:
 
 - Todo conteúdo produzido: VSLs, criativos, aulas gravadas, e-mails, copies
 - Marca, nome do produto e posicionamento criados durante a parceria
@@ -108,7 +108,7 @@ Monica Oliveira autoriza expressamente:
 - Não indica concorrentes de Kauã à sua base
 - Não participa de projetos concorrentes no mesmo nicho durante o contrato
 
-**Kauã Rodriguez e Marcos Oliveira:**
+**Kauã Henrique Rodrigues da Silva e Marcos Oliveira:**
 - Não compartilham dados pessoais, financeiros ou informações sensíveis de Monica com terceiros
 - Não divulgam os termos de remuneração sem consentimento de Monica
 - Não usam imagem ou nome de Monica fora do escopo desta operação
@@ -129,7 +129,7 @@ Monica Oliveira autoriza expressamente:
 
 | Parte | % |
 |-------|---|
-| Kauã Henrique Rodriguez | 50% |
+| Kauã Henrique Rodrigues da Silva | 50% |
 | Monica Oliveira | 25% |
 | Marcos Oliveira | 25% |
 
@@ -171,7 +171,7 @@ Descontados do faturamento bruto antes da divisão:
 - Aviso prévio mínimo: 60 dias
 
 **Continuidade da entrega:**
-Kauã Henrique Rodriguez é o único responsável por garantir a continuidade da entrega dos produtos já vendidos em caso de rescisão.
+Kauã Henrique Rodrigues da Silva é o único responsável por garantir a continuidade da entrega dos produtos já vendidos em caso de rescisão.
 
 ---
 
@@ -202,7 +202,7 @@ Kauã Henrique Rodriguez é o único responsável por garantir a continuidade da
 
 Local e data: __________________, ____ de __________ de 2026
 
-**Kauã Henrique Rodriguez — Estrategista Principal**
+**Kauã Henrique Rodrigues da Silva — Estrategista Principal**
 Assinatura: ___________________________
 
 **Marcos Oliveira — Co-investidor**
