@@ -65,12 +65,7 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 **2.1.** O presente contrato tem por objeto a formalização de parceria de coprodução digital entre as Partes, com o fim de criar, estruturar, produzir, lançar e operar produto digital no nicho de relacionamento, maturidade emocional e desenvolvimento feminino, utilizando como base o conhecimento, método e imagem da Expert.
 
-**2.2.** O produto será comercializado prioritariamente por meio de funil de vendas de tráfego pago (VSL), estruturado e operado exclusivamente pelo Estrategista Principal, compreendendo as seguintes etapas de monetização:
-- Produto de entrada (front-end): VSL com oferta de R$ 297,00
-- Upsell 1: R$ 599,00
-- Upsell 2: R$ 2.000,00
-- Webinário gravado e/ou ao vivo
-- Produto de alto valor (high ticket): entre R$ 20.000,00 e R$ 50.000,00
+**2.2.** O produto será comercializado prioritariamente por meio de funil de vendas de tráfego pago (VSL), estruturado e operado exclusivamente pelo Estrategista Principal.
 
 **2.3.** A estrutura definitiva de produtos, preços e sequência de funil poderá ser ajustada pelo Estrategista Principal, ouvidas as demais Partes, conforme a performance das campanhas e demandas do mercado.
 
@@ -94,13 +89,13 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 
 **f)** Ser o rosto, a voz e a autoridade do produto em todas as frentes de entrega: anúncios, produto digital, atendimento ao aluno, high ticket e eventos presenciais ou digitais;
 
-**g)** Seguir integralmente os direcionamentos estratégicos do Estrategista Principal no que tange ao posicionamento da oferta, funil de vendas, copy e estrutura do produto — sem interferir nas decisões operacionais de tráfego, edição ou infraestrutura;
+**g)** Seguir integralmente os direcionamentos estratégicos do Estrategista Principal no que tange ao posicionamento da oferta, funil de vendas, copy e estrutura do produto;
 
 **h)** Comunicar ao Estrategista Principal, com antecedência mínima de **60 (sessenta) dias**, qualquer impedimento, limitação ou impossibilidade de cumprir as entregas previstas;
 
 **i)** Manter postura profissional compatível com a imagem do produto durante toda a vigência do contrato, em especial nas redes sociais e em interações públicas.
 
-**3.2.** A Expert declara que possui plena capacidade e disponibilidade para cumprir as obrigações acima, inclusive no que se refere à gravação de conteúdo via dispositivo móvel (smartphone), sendo este o formato aceito e validado pelo Estrategista Principal para fins de produção.
+**3.2.** A Expert declara que possui plena capacidade e disponibilidade para cumprir integralmente as obrigações previstas nesta cláusula.
 
 ---
 
@@ -143,8 +138,6 @@ Resolvem celebrar o presente contrato, que se regerá pelas cláusulas e condiç
 **e)** Respeitar integralmente a autonomia decisória do Estrategista Principal, a quem compete a decisão final sobre todas as questões estratégicas, operacionais e comerciais da operação.
 
 **5.2.** Os custos relativos a ferramentas, plataformas, produção de conteúdo e infraestrutura técnica são de responsabilidade exclusiva do Estrategista Principal e não integram o aporte do Co-investidor.
-
-**5.3.** O Co-investidor não terá acesso administrativo aos sistemas da operação, podendo acessar apenas os relatórios financeiros mensais conforme Cláusula 11.
 
 ---
 
