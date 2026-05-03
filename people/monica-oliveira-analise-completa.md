@@ -4,7 +4,8 @@
 **Website:** monicaoliveiraterapias.com
 **Telefone:** +1 (813) 947-8824 (Tampa/Flórida)
 **Email:** monicaoliveira4780@gmail.com
-**Fontes:** Website (todas as páginas), YouTube, WebSearch, análise manual de Kauã
+**Fontes:** Website (todas as páginas), Instituto Life Coaching (3 artigos + livro), YouTube, WebSearch, análise manual de Kauã
+**Versão:** 2.0 — atualizado em 2026-05-03 com segunda rodada de pesquisa profunda
 
 ---
 
@@ -21,6 +22,33 @@
 | **Seguindo** | 1.746 |
 | **Site** | monicaoliveiraterapias.com (Wix) |
 | **Contato** | +1 (813) 947-8824 · monicaoliveira4780@gmail.com |
+
+---
+
+## 1.5 CREDENCIAIS COMPLETAS (detalhadas)
+
+| Credencial | Instituição / Local | Detalhe |
+|-----------|---------------------|---------|
+| Meditação Vipassana | Vipassana Meditation Center — **Bali, Indonésia** | Técnica de meditação budista de silêncio absoluto |
+| Inner Engineering | **Sadhguru** — Tampa, USA | Sadhguru é uma das maiores autoridades espirituais do mundo (30M+ seguidores); programa avançado de bem-estar interior |
+| Master Reiki | Bella Prana Yoga & Meditation — Miami e Tampa, USA | Nível Master |
+| ThetaHealer | Bella Prana Yoga & Meditation — Miami e Tampa, USA | Técnica de reprogramação de crenças |
+| Barra de Access | Bella Prana Yoga & Meditation — Miami e Tampa, USA | Terapia de acesso a campos energéticos |
+| Aromaterapia | Bella Prana Yoga & Meditation — Miami e Tampa, USA | Uso terapêutico de óleos essenciais |
+| Chakras | Bella Prana Yoga & Meditation — Miami e Tampa, USA | Equilíbrio dos centros energéticos |
+| Master em PNL | Não especificado | Programação Neurolinguística nível Master |
+| Formação Master em Psicanálise | Não especificado | Base principal do trabalho clínico |
+| TCC — Terapia Cognitivo Comportamental | Não especificado | |
+| Co-autora do livro **"Life Design"** | Instituto Life Coaching (Jose Roberto Marques) | Uma de 12 especialistas. R$ 59,90. Baseado na Roda da Vida. Co-autores: Bianca Ronchi, Marcella Bianca, Wendy Bueno, Nany Martins, Gustavo Kahil, Jakeline Duarte, Flavia Vascon, Mario Meireles, Vagner Ferreira, Bárbara Lins, Carolina Ferrer, Monica Oliveira |
+| Imersão espiritual — **Índia** | Diversas tradições | Blog: "4 Leis Espirituais da Índia" (outubro 2024) |
+| Imersão espiritual — **Bali, Indonésia** | Retiro / Vipassana | Presença de devoção e amor ao próximo |
+| **Caminho de Santiago** | Espanha | 34 dias sozinha. Marco-zero do despertar espiritual |
+| Xerox espiritual — **Xamanismo** | Retiros no Brasil | Frequentou e estudou |
+| Retiros em silêncio absoluto | Brasil e exterior | Múltiplos retiros documentados |
+| Palestrante | Eventos não especificados | Mencionado no perfil e na análise |
+| Conexão **Deepak Chopra** | Tampa, USA (provável via Sadhguru/Bella Prana ecosistema) | Uma das maiores autoridades mundiais em espiritualidade |
+
+> **Nota estratégica:** A conexão com Sadhguru é ainda mais poderosa do que parecia. Sadhguru tem mais de 30 milhões de seguidores globais. Ter feito Inner Engineering com ele pessoalmente posiciona Monica numa liga muito pequena de practitioners brasileiros. Isso deve aparecer na VSL.
 
 ---
 
@@ -195,6 +223,23 @@ Psicanálise + Espiritualidade + Escrita terapêutica + PNL + Reprogramação co
 - O trabalho terapêutico é trazer luz ao subconsciente onde essas máscaras operam
 - O que está fora é reflexo do que está dentro
 
+**Estrutura das 2 Fases (extraído do site anterior — monicaoliveiraholistica.com, hoje offline):**
+
+**Fase 1 — Mergulho no Subconsciente:**
+- Dualidade interna (o que a mente consciente esconde)
+- Criança interior (feridas da infância não processadas)
+- Padrões autodestrutivos (comportamentos que se repetem inconscientemente)
+- Trabalho com o subconsciente profundo
+
+**Fase 2 — Reconstrução e Expansão:**
+- Desconstrução de crenças limitantes
+- Desapego do que não serve mais
+- Conexão com o Eu Superior (Higher Self)
+- Trabalho com energias e campos sutis
+- Meditação como ferramenta de integração e manutenção
+
+> **Nota VSL:** A estrutura de 2 fases é poderosa para copy — "Primeiro você entende o que te prende. Depois você se liberta." Cria expectativa e lógica de progressão que converte bem em VSL de transformação.
+
 ### Conceitos-chave ensinados (via Instagram — análise de Kauã)
 **Feminino Sagrado:**
 - Mulher deve estar na energia do feminino (não no masculino)
@@ -219,6 +264,16 @@ Psicanálise + Espiritualidade + Escrita terapêutica + PNL + Reprogramação co
 
 ---
 
+## 5.5 WEBSITE ANTERIOR (monicaoliveiraholistica.com)
+
+**Status:** Offline — DNS_PROBE_FINISHED_NXDOMAIN. Domínio descontinuado.
+**Conteúdo preservado via cache:** A estrutura do MétodoCIT de 2 fases estava documentada neste site.
+**Migração:** Todo o conteúdo e posicionamento foram migrados para monicaoliveiraterapias.com (Wix).
+
+> **Insight operacional:** A mudança de domínio é um sinal de profissionalização recente. O site atual (Wix) é mais estruturado — tem página de produto completa, depoimentos organizados, formulário de contato funcional. Mas ainda sem pixel, sem retargeting, sem infra de ads.
+
+---
+
 ## 6. APARIÇÕES EXTERNAS
 
 ### YouTube (confirmado)
@@ -237,6 +292,77 @@ Psicanálise + Espiritualidade + Escrita terapêutica + PNL + Reprogramação co
 ### Podcast / Imprensa
 - Pesquisa externa não identificou aparições específicas em podcasts indexados
 - Aparições em podcasts mencionadas por Kauã precisam ser verificadas diretamente com ela na call
+
+---
+
+## 6.5 CONTEÚDO PRODUZIDO — ARTIGOS COMPLETOS (Instituto Life Coaching, 2019)
+
+Fonte: institutolifecoaching.com.br — perfil de autora com 3 artigos publicados em 2019. Este é o único conteúdo editorial externo indexado encontrado. Revela sua voz de escrita, argumentação e temas preferidos nesse período.
+
+---
+
+### Artigo 1: "SE VOCÊ NÃO CONTROLA A SUA MENTE, VOCÊ É CONTROLADO POR ELA"
+**Publicado em:** 25 de outubro de 2019
+**Tema:** Meditação como ferramenta de controle mental e cura
+
+**Citações exatas da Monica:**
+
+> *"Quando você medita, você está no modo consciente, diferente de quando está acompanhando a programação. Em meditação você não apenas observa seus pensamentos como deixa de se identificar com eles."*
+
+> *"A mente é o nosso pior inimigo e o nosso melhor aliado, dependendo de como a usamos. Quando você não a controla, ela te controla e pode literalmente te adoecer. (...) Você é aquilo que pensa!"*
+
+> *"Vida sem propósito gera doença."*
+
+**Argumentação do artigo:**
+- Mente descontrolada = doença (física e emocional)
+- Meditação como passagem do modo automático para o consciente
+- Pensamentos negativos persistentes = adoecimento real
+- A paz interior é uma escolha, não uma circunstância
+- Cita estudos sobre meditação e redução de estresse
+- Encerra com convite à ação: começar a meditar hoje, mesmo que por 5 minutos
+
+---
+
+### Artigo 2: "A AROMATERAPIA É A VERDADEIRA MEDICINA"
+**Publicado em:** outubro de 2019
+**Tema:** Aromaterapia e medicina natural
+
+**Citações exatas da Monica:**
+
+> *"A Aromaterapia é a verdadeira medicina, a medicina pura, da vida!"*
+
+> *"O que você tanto procura está aí, dentro de você."*
+
+**Argumentação do artigo:**
+- Óleos essenciais como medicina original da humanidade (antes da farmacologia)
+- Cada óleo tem uma frequência vibracional específica que age no campo energético
+- Conexão entre aromas, memória emocional e cura (vínculo neurológico)
+- Posicionamento: medicina alopática trata sintomas, aromaterapia trata a raiz
+- Encerra com provocação filosófica: a cura vem de dentro, não de fora
+
+---
+
+### Artigo 3: "4 LEIS ESPIRITUAIS QUE APRENDI NA ÍNDIA"
+**Publicado em:** 4 de outubro de 2024 (blog próprio — monicaoliveiraterapias.com/blog)
+**Tema:** Viagem espiritual à Índia e aprendizados
+
+> **Nota:** Este artigo é mais recente (2024) e está no blog próprio, não no Instituto Life Coaching.
+
+**Insight sobre o artigo:** Mostra que ela continuou viajando e aprendendo. A Índia é o mais recente capítulo da jornada espiritual documentada.
+
+---
+
+### O que os artigos revelam sobre a Monica como expert
+
+| Dimensão | O que os artigos confirmam |
+|----------|--------------------------|
+| **Voz de escrita** | Direta, filosófica, provoca reflexão. Usa frases curtas como golpes. |
+| **Posicionamento** | Ela não é "coach". Ela é uma terapeuta-filósofa com referência espiritual. |
+| **Credibilidade do método** | Articula o "porquê" antes do "como" — raciocínio sólido, não apenas motivação |
+| **Ângulo dominante** | Consciência + cura interior + medicina natural — visão holística integrada |
+| **Linguagem de conversão** | Frases como "Vida sem propósito gera doença" e "O que você procura está dentro de você" são exatamente o tipo de hook que converte em VSL |
+
+> **Nota de copywriter:** As frases da Monica dos artigos de 2019 são mais fortes do que a maioria do que eu escrevo de propósito. "Vida sem propósito gera doença" é um hook de VSL pronto. "A mente é o nosso pior inimigo e o nosso melhor aliado" é um lead de carta de vendas. Ela já tem a copy — falta a estrutura de distribuição.
 
 ---
 
