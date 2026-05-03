@@ -11,24 +11,28 @@
 
   body {
     font-family: "Times New Roman", Times, serif;
-    font-size: 12pt;
+    font-size: 13pt;
     color: #000;
-    background: #fff;
+    background: #e8e8e8;
   }
 
   .page {
-    width: 210mm;
-    min-height: 297mm;
-    margin: 0 auto;
-    padding: 25mm 30mm 25mm 35mm;
+    width: 860px;
+    max-width: 100%;
+    margin: 30px auto;
+    padding: 60px 80px;
+    background: #fff;
+    box-shadow: 0 2px 20px rgba(0,0,0,0.15);
   }
 
   @media print {
-    body { margin: 0; }
+    body { margin: 0; background: #fff; }
     .page {
       width: 100%;
+      max-width: 100%;
+      margin: 0;
       padding: 20mm 25mm 20mm 30mm;
-      page-break-after: always;
+      box-shadow: none;
     }
     .no-break { page-break-inside: avoid; }
   }
