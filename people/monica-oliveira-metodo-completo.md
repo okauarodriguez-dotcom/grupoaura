@@ -527,9 +527,44 @@ Nos Estados Unidos, participei da ATha, ampliando ainda mais minha atuação den
 
 ---
 
-## 13. TRANSCRIÇÕES DOS ÁUDIOS DA MONICA (05/05/2026)
+## 13. ÁUDIOS DO KAUÃ PARA MONICA — VISÃO ESTRATÉGICA (05/05/2026)
 
-> Áudios enviados via WhatsApp em 04/05/2026 entre 21h31 e 23h14.
+> 4 áudios enviados por Kauã como resposta aos áudios da Monica. Contexto: "compilado sendo bem sincero".
+
+### Áudio 1 — Abertura e agradecimento
+"Monica, eu escutei todos os áudios, muito obrigado por ter respondido tudo ali, ter dedicado esse tempo. Às vezes você responde a mesma coisa de ângulos diferentes. Por que eu fiz isso? Porque eu quis extrair o máximo — às vezes você explica o seu método de uma forma um pouco diferente, pode me dar algum insight para que eu possa escrever e traduzir aquilo em forma de uma comunicação que realmente faz sentido."
+
+### Áudio 2 — Estratégia: oferta primeiro, produto depois
+"Como o seu método é muito abrangente, nós conseguimos prometer o que nós quisermos, de certa forma. A essência é: eu vou transformar você por dentro e você vai refletir o mundo afora. Logo, nós conseguimos prometer a melhora no relacionamento, porque a pessoa vai transformar ela por dentro."
+
+"O que eu proponho é que você não pense em criar o seu método primeiro. Eu penso em você deixar eu criar a VSL primeiro, a oferta primeiro. Por quê? A partir do momento que eu escrevo a oferta pensando no que é melhor para aquela pessoa, nós desenvolvemos um método para cumprir com aquela oferta. Me dá uma liberdade de criação muito grande."
+
+### Áudio 3 — Linha lógica da VSL
+"Resumindo: a nossa oferta vai ser posicionada assim. A Joana, seu marido era X, Y e Z. Ela ativou a mulher sábia dentro dela, que atingiu um instinto primitivo dentro do cérebro do homem."
+
+"O problema é que você só grita, só discute, só critica o seu homem — e isso acaba com os disparos de dopamina no cérebro dele. O disparo de dopamina é o que faz ele te amar, ter relações íntimas com você. Como você contorna isso? Ativando o instinto primitivo dele sendo a mulher sábia. O como é o nosso poder."
+
+"O único gap que eu vejo é você não ter uma história de transformação em termos de relacionamento. Mas vou analisar como explorar isso porque a sua história é muito forte."
+
+**Próximos passos declarados:**
+- Aprofundar pesquisa de público
+- Desenvolver esteira completa de produtos
+- Escrever a VSL/oferta
+- Meta: "até o final de semana a VSL pronta. Já pode gravar na semana que vem."
+
+### Áudio 4 — Estrutura do produto e velocidade de resultado
+"A pessoa não compra o autoconhecimento. Ela compra a resolução do problema do relacionamento dela. É igual a pessoa não querer emagrecer — ela quer olhar no espelho e ficar bonita para o marido. Ela quer chegar na piscina e as amigas invejosas dela comentarem sobre ela."
+
+"A gente precisa fazer com que essa pessoa tenha resultado rápido — não necessariamente a transformação completa, são pequenas coisas. Nas primeiras aulas, já precisa sentir alguma coisa."
+
+"Em direct response, o produto é o final. Se não tiver um marketing bom, não vai vender. A pessoa não compra o produto — ela compra a resolução do problema."
+
+---
+
+## 14. TRANSCRIÇÕES DOS ÁUDIOS DA MONICA (04/05/2026)
+
+> Áudios enviados via WhatsApp entre 21h31 e 23h14.
 > Total: ~30 arquivos .ogg
+> Status: transcrevendo em background ⏳
 
-*Seção a ser preenchida com as transcrições.*
+*Seção a ser preenchida com as transcrições assim que o processo concluir.*
