@@ -1,0 +1,18 @@
+Create a professional presentation slide, 16:9 ratio (1920x1080), ultra high resolution, premium dark design.
+
+VISUAL STYLE:
+- Background: deep black #0a0a0a with a very subtle dark purple gradient glow in the top-right corner (color #1a0a2e fading to transparent)
+- Text colors: white for headline, muted gray #9ca3af for subtitle, purple #7c3aed for accent line and third text
+- Font style: modern, clean, geometric sans-serif (like Inter or Helvetica)
+- Generous empty space — Apple Keynote / Notion premium aesthetic
+- Zero stock imagery, zero icons, zero decorative clutter
+
+SLIDE LAYOUT — everything perfectly centered on the slide:
+1. HEADLINE (top center area, very large): "Você tem o ativo mais raro do mercado digital." — white, bold 800 weight, ~88px, tight letter-spacing, line-height 1.05
+2. ACCENT LINE below headline: a short horizontal line, 60px wide, 3px tall, color #7c3aed (purple), centered
+3. SUBTITLE (below accent line): "Autoridade real. Audiência que confia." — gray #9ca3af, 28px, regular weight
+4. THIRD LINE (below subtitle): "Tudo que falta é a engrenagem certa para isso gerar dinheiro enquanto você dorme." — purple #7c3aed, 20px, medium weight, centered, max 2 lines
+
+SPACING: Large breathing room — at least 25% empty space on each side. The text floats in the center with elegance.
+
+QUALITY: This must look like a slide from a high-end McKinsey or Apple product presentation — clean, bold, premium, no amateur design choices.
