@@ -1,7 +1,7 @@
 # Monica Oliveira — Método CIT: Documento Mestre
 **Fonte:** Anotações de Kauã (call 04/05/2026) + respostas diretas de Monica + textos e áudios enviados por Monica (05/05/2026)  
 **Última atualização:** 2026-05-05  
-**Status:** Textos integrados ✅ | Áudios: transcrevendo
+**Status:** Completo ✅ | Seções 1–13 (call + textos Monica) + Seção 14 (30 áudios transcritos e integrados)
 
 > **Convenções de fidelidade:**
 > - **"Entre aspas"** = fala literal da Monica (respostas às perguntas)
